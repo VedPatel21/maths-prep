@@ -1,8 +1,0 @@
-{
-  "comparison": "Previously delivered reader package",
-  "exact_byte_matches": {
-    "source/MATH2255-Complete-Beginner-Textbook.md": "dd105c85c3bfd587fdf885ae802896c720cff2b37d38fd10751fdf05baa91ebd",
-    "source/MATH2255-Exercises-and-Detailed-Solutions.md": "e102ffa597e94c92ca68d46caf8a32a079518660851ddd69cfbc6e7c8f18ebb1",
-    "source/exercise-inventory.csv": "ff3d340a3637b15ed25eac7b4426adf424f7e1d592dbae98c951c1d724163319"
-  }
-}
