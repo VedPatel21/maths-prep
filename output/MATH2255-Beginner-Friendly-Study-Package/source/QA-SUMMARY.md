@@ -1,0 +1,9 @@
+# Delivery checks
+
+The textbook has 94 pages and covers the ten supplied course sections plus prerequisites, proofs, diagrams, original practice with answers, glossary, formula reference, and source correspondence. The workbook has 305 pages. The inventory contains 339 numbered entries: 337 complete source questions with solutions and two explicitly flagged truncated questions (1.2.41 and 2.1.43).
+
+All 116 Combined PDF pages and all 16 exercise PDF pages were visually inspected. Lecture text extraction was used alongside images, not as the sole source. The supplied solution pages were distinguished from newly derived answers. The page-98 inverse example discrepancy is explained with both matrices treated separately.
+
+The final PDFs were reopened and rendered. Page contact sheets were reviewed for layout, with closer inspection of source scans, stacked fractions, row reductions, diagrams, and proof pages. Automated text-bound checks found no body text outside the margins, no suspect empty pages, no literal notation carets, and no replacement characters. All non-ASCII manuscript characters are supported by the embedded font fallback. The mathematical and inventory audit passed 273 assertions, including exact row-operation identities, solution substitutions, inverse products, product construction checks, selected source-answer checks, and generalized inverse examples.
+
+Limits: the two cut-off source question continuations could not be solved because their actual tasks are missing. Absent questions mentioned only in printed group headings were not reconstructed. Figures from unlabeled source diagrams are schematic vector constructions, not invented exact coordinate readings. The materials are independently authored teaching resources; cross-checked answers are not relabeled as official answers. No cheat sheet or timetable is included.

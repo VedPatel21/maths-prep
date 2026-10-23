@@ -1,0 +1,229 @@
+Window: "Exercise 2.1.41 · Study Corner", App: Safari.
+0 standard window Exercise 2.1.41 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 2.1.41 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.41
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 2.1.41
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 2.1, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/2.1
+						60 text 2.1.41
+						61 container
+							62 text PRACTICE · SECTION 2.1
+							63 heading Exercise 2.1.41, Value: 1
+								64 text Exercise 2.1.41
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 2.1.41, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 text Assume each matrix expression is defined: matrix and vector sizes match appropriately.
+						71 container Original question crop; scroll horizontally to read on a phone
+							72 image Description: Original statement of Exercise 2.1.41. Assume each matrix expression is defined: matrix and vector sizes match appropriately., Help: Original statement of Exercise 2.1.41.  Assume each matrix expression is defined: matrix and vector sizes match appropriately.
+						73 text Exercises_Merged.pdf · physical page 14 Independently derived teaching solution
+						74 container (expanded) Secondary Actions: Collapse
+							75 summary Show Detailed Solution −, Value: on
+								76 text Show Detailed Solution
+								77 text −
+							78 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							79 heading Given, Value: 4
+								80 text Given
+							81 text A is m × n and B is n × p.
+							82 heading What must be shown, Value: 4
+								83 text What must be shown
+							84 text Prove transpose reverses a product
+							85 heading Main idea, Value: 4
+								86 text Main idea
+							87 container
+								88 text Both transposed products have size p × m. Compare entry (i,j), remembering transpose swaps the two indices. Here i names an output row, j an output column, and k the matching inner-entry position. The symbol Σ means add the term for every allowed k. An entry 
+								89 container
+									90 text a
+									91 text i
+									92 text j
+								93 text  is the number in row i, column j.
+							94 heading Proof steps and justification, Value: 3
+								95 text Proof steps and justification
+							96 text Your task. Prove transpose reverses a product.
+							97 text Words used in this question
+							98 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							99 text Transpose turns each row into a column. A transposed product reverses the factors before transposing each one.
+							100 container
+								101 container Entry i,j of (AB)^T is over k of a j kb k i.
+									102 text Entry i,j of (AB)^T is
+									103 container Calculation
+										104 container
+											105 container
+												106 text (
+												107 text A
+												108 text B
+												109 text )
+											110 container
+												111 text j i
+											112 text = Σ
+									113 container
+										114 text over k of 
+										115 container
+											116 text a
+											117 text j
+											118 text k
+										119 container
+											120 text b
+											121 text k
+											122 text i
+										123 text .
+								124 container Entry i,j of B T A T is Σ over k of
+									125 container
+										126 text Entry i,j of 
+										127 container
+											128 text B
+											129 text T
+										130 container
+											131 text A
+											132 text T
+										133 text  is Σ over k of
+									134 container Calculation
+										135 container
+											136 container
+												137 text (
+												138 container
+													139 text B
+													140 text T
+												141 text )
+											142 container
+												143 text i k
+											144 container
+												145 text (
+												146 container
+													147 text A
+													148 text T
+												149 text )
+											150 container
+												151 text k j
+											152 text = Σ
+											153 text b
+											154 container
+												155 text k i
+											156 text a
+											157 container
+												158 text j k
+								159 container Real multiplication commutes,
+									160 text Real multiplication commutes,
+								161 container so each summand agrees.
+									162 text so each summand agrees.
+								163 container If A is m × n and B is n × p, both arrays are p × m.
+									164 text If A is m × n and B is n × p, both arrays are p × m.
+								165 container Equal sizes and all equal entries prove
+									166 text Equal sizes and all equal entries prove
+									167 container Calculation
+										168 container
+											169 container
+												170 text (
+												171 text A
+												172 text B
+												173 text )
+											174 text T
+											175 text =
+											176 text B
+											177 text T
+											178 text A
+											179 text T
+							180 text FINAL ANSWER
+							181 container
+								182 text (AB)ᵀ = 
+								183 container
+									184 text B
+									185 text T
+								186 container
+									187 text A
+									188 text T
+								189 text . Both sides have size p × m.
+						190 summary View the original source page 14, Value: off
+							191 text View the original source page 14
+						192 container Previous and next question
+							193 link ← PREVIOUS QUESTION 2.1.40, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.40
+							194 link NEXT QUESTION → 2.1.42, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.42
+					195 text Made for thoughtful studying  · MATH 2255
+				196 scroll bar (settable, float) 0.01064302
+	197 toolbar
+		198 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			199 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			200 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		201 container BackForwardSegmentedControl
+			202 button Description: Go back, Help: Show the previous page, ID: BackButton
+			203 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		204 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			205 button Page Menu, ID: AssistantButton
+			206 button Add page to Reading List, ID: OneStepBookmarkingButton
+			207 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.41
+			208 button Reload this page, ID: ReloadButton
+		209 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		210 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		211 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		212 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	213 close button
+	214 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	215 minimise button
+216 menu bar
+	217 Safari
+	218 File
+	219 Edit
+	220 View, ID: SafariViewMenu
+	221 History
+	222 Bookmarks, ID: SafariBookmarksMenu
+	223 Develop
+	224 Window, ID: SafariWindowMenu
+	225 Help, ID: SafariHelpMenu
+
+The focused UI element is 75 summary Show Detailed Solution −, Value: on

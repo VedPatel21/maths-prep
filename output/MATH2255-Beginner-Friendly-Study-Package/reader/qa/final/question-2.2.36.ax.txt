@@ -1,0 +1,207 @@
+Window: "Exercise 2.2.36 · Study Corner", App: Safari.
+0 standard window Exercise 2.2.36 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=605B5E66-7D8E-4CA6-8645-4223AA3C3F3F, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 pop-up button Description: Viewport Size, Value: Custom size, ID: ViewportPresetButton
+			5 toggle button Description: Rotate Left, Help: Rotate viewport, Value: off
+			6 text field (settable) Description: Width, Value: 1440
+			7 text ×
+			8 text field (settable) Description: Height, Value: 812
+			9 text Description: Zoom Level, Value: ( 82% )
+			10 pop-up button Description: Pixel Ratio, Value: 2x
+			11 menu button Open with Simulator, ID: OpenWithSimulatorButton
+			12 scroll area
+				13 HTML content Description: Exercise 2.2.36 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/2.2.36
+					14 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reading
+					15 container
+						16 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						17 container Main navigation
+							18 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							19 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice
+							20 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+							21 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+					22 container Study navigation
+						23 text YOUR MATH NOTEBOOK
+						24 text MATH 2255 · Linear Algebra
+						25 container
+							26 text Find a topic or exercise
+							27 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								28 text Try “2.2.39” or “span”
+							29 button Search
+						30 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+						31 container Chapters
+							32 heading GETTING STARTED, Value: 2
+								33 text GETTING STARTED
+							34 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/about
+							35 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/how-to
+							36 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							37 heading LINEAR EQUATIONS, Value: 2
+								38 text LINEAR EQUATIONS
+							39 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-1
+							40 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+							41 heading VECTORS & MATRICES, Value: 2
+								42 text VECTORS & MATRICES
+							43 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-3
+							44 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-4
+							45 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-5
+							46 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								47 text INDEPENDENCE & TRANSFORMATIONS
+							48 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-7
+							49 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-8
+							50 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-9
+							51 heading MATRIX ALGEBRA, Value: 2
+								52 text MATRIX ALGEBRA
+							53 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-1
+							54 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-2
+							55 heading ADDITIONAL LEARNING, Value: 2
+								56 text ADDITIONAL LEARNING
+							57 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/proofs
+							58 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/practice-answers
+							59 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/reference
+							60 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						61 text A little clarity, one concept at a time.
+						62 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						63 text Available entirely offline
+					64 container Exercise 2.2.36
+						65 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						66 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice
+						67 link Section 2.2, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/section/2.2
+						68 text 2.2.36
+						69 container
+							70 text PRACTICE · SECTION 2.2
+							71 heading Exercise 2.2.36, Value: 1
+								72 text Exercise 2.2.36
+						73 text Original exercise Jump to question
+						74 pop-up button (collapsed) Jump to question, Value: 2.2.36, Secondary Actions: Expand
+						75 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-2
+						76 heading Original question, Value: 2
+							77 text Original question
+						78 container
+							79 text Prove Theorem 4 for A = 
+							80 container Inline matrix; scroll horizontally if needed
+								81 container
+									82 text [
+									83 container
+										84 text a
+										85 text b
+									86 container
+										87 text c
+										88 text d
+									89 text ]
+							90 text .
+						91 container Original question crop; scroll horizontally to read on a phone
+							92 image Original statement of Exercise 2.2.36. Prove Theorem 4 for A = [a,b;c,d].
+						93 text Exercises_Merged.pdf · physical page 16 Independently derived teaching solution
+						94 container (expanded) Secondary Actions: Collapse
+							95 summary Show Detailed Solution −, Value: on
+								96 text Show Detailed Solution
+								97 text −
+							98 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							99 text WHAT IS BEING ASKED?
+							100 text Prove the 2 × 2 formula works. Explain why the conclusion follows for every allowed case.
+							101 text Important concept
+							102 text A general argument must use the stated assumptions, not only a numerical example.
+							103 content list
+								104 container 1 State what is given →
+								105 container 2 Translate the target into a definition →
+								106 container 3 Justify the deduction →
+								107 container 4 Connect it back to the claim
+							108 heading Let’s solve it, Value: 3
+								109 text Let’s solve it
+							110 container
+								111 text Put δ = ad - bc ≠ 0 and C = (1/δ)
+								112 container Inline matrix; scroll horizontally if needed
+									113 container
+										114 text [
+										115 container
+											116 text d
+											117 container
+												118 text − b
+										119 container
+											120 container
+												121 text − c
+											122 text a
+										123 text ]
+								124 text . Then AC = (1/δ)
+								125 container Inline matrix; scroll horizontally if needed
+									126 container
+										127 text [
+										128 container
+											129 container
+												130 text a d − b c
+											131 container
+												132 text − a b + b a
+										133 container
+											134 container
+												135 text c d − d c
+											136 container
+												137 text − c b + d a
+										138 text ]
+								139 text  = 
+								140 container
+									141 text I
+									142 text 2
+								143 text . Likewise CA = (1/δ)
+								144 container Inline matrix; scroll horizontally if needed
+									145 container
+										146 text [
+										147 container
+											148 container
+												149 text d a − b c
+											150 container
+												151 text d b − b d
+										152 container
+											153 container
+												154 text − c a + a c
+											155 container
+												156 text − c b + a d
+										157 text ]
+								158 text  = 
+								159 container
+									160 text I
+									161 text 2
+								162 text . Division is permitted because δ is nonzero. Both inverse identities hold, proving C = 
+								163 container
+									164 text A
+									165 text −
+									166 text 1
+								167 text  by definition.
+						168 summary View the original source page 16, Value: off
+							169 text View the original source page 16
+						170 container Previous and next question
+							171 link ← PREVIOUS QUESTION 2.2.35, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/2.2.35
+							172 link NEXT QUESTION → 2.2.37, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/2.2.37
+					173 text Made for thoughtful studying  · MATH 2255
+				174 scroll bar (settable, float) 0
+	175 toolbar
+		176 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			177 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			178 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		179 container BackForwardSegmentedControl
+			180 button Description: Go back, Help: Show the previous page, ID: BackButton
+			181 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		182 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			183 button Page Menu, ID: AssistantButton
+			184 button Add page to Reading List, ID: OneStepBookmarkingButton
+			185 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/2.2.36
+			186 button Reload this page, ID: ReloadButton
+		187 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		188 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		189 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		190 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	191 close button
+	192 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	193 minimise button
+194 menu bar
+	195 Safari
+	196 File
+	197 Edit
+	198 View, ID: SafariViewMenu
+	199 History
+	200 Bookmarks, ID: SafariBookmarksMenu
+	201 Develop
+	202 Window, ID: SafariWindowMenu
+	203 Help, ID: SafariHelpMenu
+
+The focused UI element is 95 summary Show Detailed Solution −, Value: on

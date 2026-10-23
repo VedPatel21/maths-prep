@@ -1,0 +1,749 @@
+Window: "Exercise 1.7.7 · Study Corner", App: Safari.
+0 standard window Exercise 1.7.7 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 1.7.7 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.7.7
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 1.7.7
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 1.7, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.7
+						60 text 1.7.7
+						61 container
+							62 text PRACTICE · SECTION 1.7
+							63 heading Exercise 1.7.7, Value: 1
+								64 text Exercise 1.7.7
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 1.7.7, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 text Determine if the columns of the matrix form a linearly independent set. Justify each answer.
+						71 container Matrix; scroll horizontally if needed
+							72 container Matrix: 1, 4, -3, 0; -2, -7, 5, 1; -4, -5, 7, 5
+								73 container
+									74 text [
+									75 container
+										76 text 1
+										77 text 4
+										78 container
+											79 text − 3
+										80 text 0
+									81 container
+										82 container
+											83 text − 2
+										84 container
+											85 text − 7
+										86 text 5
+										87 text 1
+									88 container
+										89 container
+											90 text − 4
+										91 container
+											92 text − 5
+										93 text 7
+										94 text 5
+									95 text ]
+						96 text Exercises_Merged.pdf · physical page 10 Independently derived teaching solution
+						97 container (expanded) Secondary Actions: Collapse
+							98 summary Show Detailed Solution −, Value: on
+								99 text Show Detailed Solution
+								100 text −
+							101 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							102 text Your task. Test independence using the homogeneous equation.
+							103 text The calculation below starts with 3 rows. Its 4 columns before the divider record the coefficients; the 1 column after the divider record the right-hand side.
+							104 heading Read the actual first row, Value: 4
+								105 text Read the actual first row
+							106 container Calculation
+								107 container
+									108 text (
+									109 text 1
+									110 text )
+									111 text x
+									112 text 1
+									113 text +
+									114 text (
+									115 text 4
+									116 text )
+									117 text x
+									118 text 2
+									119 text +
+									120 text (
+									121 container
+										122 text − 3
+									123 text )
+									124 text x
+									125 text 3
+									126 text +
+									127 text (
+									128 text 0
+									129 text )
+									130 text x
+									131 text 4
+									132 text = 0
+							133 text Words used in this question
+							134 text In a row staircase, a leading entry is the first nonzero entry when reading a nonzero row from left to right. Its position is a pivot position. A pivot coefficient column determines a basic coordinate; a nonpivot coefficient column allows a free coordinate.
+							135 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							136 text Homogeneous means the right side is the zero vector. The zero input always works; nontrivial means a different, nonzero input.
+							137 text The starting matrix is:
+							138 container Matrix; scroll horizontally if needed
+								139 container Matrix: 1, 4, -3, 0 | 0; -2, -7, 5, 1 | 0; -4, -5, 7, 5 | 0
+									140 container
+										141 text [
+										142 container
+											143 text 1
+											144 text 4
+											145 container
+												146 text − 3
+											147 text 0
+											148 text 0
+										149 container
+											150 container
+												151 text − 2
+											152 container
+												153 text − 7
+											154 text 5
+											155 text 1
+											156 text 0
+										157 container
+											158 container
+												159 text − 4
+											160 container
+												161 text − 5
+											162 text 7
+											163 text 5
+											164 text 0
+										165 text ]
+							166 container Mathematical walkthrough 1
+								167 text MATHEMATICAL WALKTHROUGH
+								168 heading One operation at a time, Value: 3
+									169 text One operation at a time
+								170 text Step 1 of 7 · Use the pivot row to clear a target entry
+								171 button (disabled) ← Previous Step
+								172 button Next Step →
+								173 toggle button Show All Steps, Value: off
+								174 container Row operation 1 of 7
+									175 container
+										176 text Step 1: 
+										177 container
+											178 text R
+											179 text 2
+										180 text  ← 
+										181 container
+											182 text R
+											183 text 2
+										184 text  + (2)
+										185 container
+											186 text R
+											187 text 1
+										188 text .
+									189 text Add 2 times row 1 to row 2. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+									190 container Matrix; scroll horizontally if needed
+										191 container Matrix: 1, 4, -3, 0 | 0; -2, -7, 5, 1 | 0; -4, -5, 7, 5 | 0
+											192 container
+												193 text [
+												194 container
+													195 text 1
+													196 text 4
+													197 container
+														198 text − 3
+													199 text 0
+													200 text 0
+												201 container
+													202 container
+														203 text − 2
+													204 container
+														205 text − 7
+													206 text 5
+													207 text 1
+													208 text 0
+												209 container
+													210 container
+														211 text − 4
+													212 container
+														213 text − 5
+													214 text 7
+													215 text 5
+													216 text 0
+												217 text ]
+									218 text AFTER
+									219 container Matrix; scroll horizontally if needed
+										220 container Matrix: 1, 4, -3, 0 | 0; 0, 1, -1, 1 | 0; -4, -5, 7, 5 | 0
+											221 container
+												222 text [
+												223 container
+													224 text 1
+													225 text 4
+													226 container
+														227 text − 3
+													228 text 0
+													229 text 0
+												230 container
+													231 text 0
+													232 text 1
+													233 container
+														234 text − 1
+													235 text 1
+													236 text 0
+												237 container
+													238 container
+														239 text − 4
+													240 container
+														241 text − 5
+													242 text 7
+													243 text 5
+													244 text 0
+												245 text ]
+									246 text Lavender: affected row. Sage: pivot used.
+									247 heading Calculate every entry in the changed row, Value: 4
+										248 text Calculate every entry in the changed row
+									249 text Multiply each entry of old row 1 by 2, then add it to the matching entry of old row 2. The other row is retained.
+									250 text Row 2, column 1
+									251 container Calculation
+										252 container
+											253 text − 2 +
+											254 text (
+											255 text 2
+											256 text )
+											257 text (
+											258 text 1
+											259 text )
+											260 text = − 2 + 2 = 0
+									261 text Row 2, column 2
+									262 container Calculation
+										263 container
+											264 text − 7 +
+											265 text (
+											266 text 2
+											267 text )
+											268 text (
+											269 text 4
+											270 text )
+											271 text = − 7 + 8 = 1
+									272 text Row 2, column 3
+									273 container Calculation
+										274 container
+											275 text 5 +
+											276 text (
+											277 text 2
+											278 text )
+											279 text (
+											280 container
+												281 text − 3
+											282 text )
+											283 text = 5 − 6 = − 1
+									284 text Row 2, column 4
+									285 container Calculation
+										286 container
+											287 text 1 +
+											288 text (
+											289 text 2
+											290 text )
+											291 text (
+											292 text 0
+											293 text )
+											294 text = 1 + 0 = 1
+									295 text Row 2, column 5 (right-hand side)
+									296 container Calculation
+										297 container
+											298 text 0 +
+											299 text (
+											300 text 2
+											301 text )
+											302 text (
+											303 text 0
+											304 text )
+											305 text = 0 + 0 = 0
+							306 container
+								307 container Column 4 has no pivot.
+									308 text Column 4 has no pivot.
+								309 container Give its weight the value 1 and give any other free weights the value 0.
+									310 text Give its weight the value 1 and give any other free weights the value 0.
+								311 container The pivot equations determine the weights:
+									312 text The pivot equations determine the weights:
+							313 container Matrix; scroll horizontally if needed
+								314 container Matrix: 3; 0; 1; 1
+									315 container
+										316 text [
+										317 text 3
+										318 text 0
+										319 text 1
+										320 text 1
+										321 text ]
+							322 container
+								323 container At least one weight is nonzero.
+									324 text At least one weight is nonzero.
+								325 container The resulting dependence relation is:
+									326 text The resulting dependence relation is:
+							327 container Equation; scroll horizontally if needed
+								328 container
+									329 text 3
+									330 text v
+									331 text 1
+									332 text +
+									333 text v
+									334 text 3
+									335 text +
+									336 text v
+									337 text 4
+									338 text = 0
+							339 container
+								340 container Multiplying the original columns by these weights gives the zero vector, entry by entry.
+									341 text Multiplying the original columns by these weights gives the zero vector, entry by entry.
+								342 container This proves dependence;
+									343 text This proves dependence;
+								344 container the existence of a zero combination with every weight zero would not prove it.
+									345 text the existence of a zero combination with every weight zero would not prove it.
+							346 heading What does the reduced matrix say?, Value: 4
+								347 text What does the reduced matrix say?
+							348 container Matrix; scroll horizontally if needed
+								349 container Matrix: 1, 0, 0, -3 | 0; 0, 1, 0, 0 | 0; 0, 0, 1, -1 | 0
+									350 container
+										351 text [
+										352 container
+											353 text 1
+											354 text 0
+											355 text 0
+											356 container
+												357 text − 3
+											358 text 0
+										359 container
+											360 text 0
+											361 text 1
+											362 text 0
+											363 text 0
+											364 text 0
+										365 container
+											366 text 0
+											367 text 0
+											368 text 1
+											369 container
+												370 text − 1
+											371 text 0
+										372 text ]
+							373 text There are 3 equations and 4 unknown weights or coordinates. The divider separates the constants from those unknowns.
+							374 heading Separate determined coordinates from free choices, Value: 4
+								375 text Separate determined coordinates from free choices
+							376 container Comparison table
+								377 table
+									378 row (selectable) Coordinate
+Look at its column
+What you may do
+									379 row (selectable)
+										380 cell (selectable) x
+1
+										381 cell (selectable) Pivot column → basic
+										382 cell (selectable) Determined by its pivot equation
+									383 row (selectable)
+										384 cell (selectable) x
+2
+										385 cell (selectable) Pivot column → basic
+										386 cell (selectable) Determined by its pivot equation
+									387 row (selectable)
+										388 cell (selectable) x
+3
+										389 cell (selectable) Pivot column → basic
+										390 cell (selectable) Determined by its pivot equation
+									391 row (selectable)
+										392 cell (selectable) x
+4
+										393 cell (selectable) No pivot → free
+										394 cell (selectable) Choose an arbitrary real parameter
+							395 heading Determine x1 from its row, Value: 4
+								396 text Determine x1 from its row
+							397 container Calculation
+								398 container
+									399 text x
+									400 text 1
+									401 text +
+									402 text (
+									403 container
+										404 text − 3
+									405 text )
+									406 text x
+									407 text 4
+									408 text = 0
+							409 container Calculation
+								410 container
+									411 text x
+									412 text 4
+									413 text = s
+							414 container Calculation
+								415 container
+									416 text x
+									417 text 1
+									418 text = 0 +
+									419 text (
+									420 text 3
+									421 text )
+									422 text s
+							423 text Subtract each free-variable term from both sides. The pivot coefficient is 1, so no further division is needed.
+							424 heading Determine x2 from its row, Value: 4
+								425 text Determine x2 from its row
+							426 container Calculation
+								427 container
+									428 text x
+									429 text 2
+									430 text = 0
+							431 container Calculation
+								432 container
+									433 text x
+									434 text 4
+									435 text = s
+							436 container Calculation
+								437 container
+									438 text x
+									439 text 2
+									440 text = 0
+							441 text Subtract each free-variable term from both sides. The pivot coefficient is 1, so no further division is needed.
+							442 heading Determine x3 from its row, Value: 4
+								443 text Determine x3 from its row
+							444 container Calculation
+								445 container
+									446 text x
+									447 text 3
+									448 text +
+									449 text (
+									450 container
+										451 text − 1
+									452 text )
+									453 text x
+									454 text 4
+									455 text = 0
+							456 container Calculation
+								457 container
+									458 text x
+									459 text 4
+									460 text = s
+							461 container Calculation
+								462 container
+									463 text x
+									464 text 3
+									465 text = 0 +
+									466 text (
+									467 text 1
+									468 text )
+									469 text s
+							470 text Subtract each free-variable term from both sides. The pivot coefficient is 1, so no further division is needed.
+							471 heading See the freedom with actual choices, Value: 4
+								472 text See the freedom with actual choices
+							473 container Comparison table
+								474 table
+									475 row (selectable) Independent choice
+Resulting solution
+									476 row (selectable)
+										477 cell (selectable) All parameters 0
+										478 cell (selectable) (0,0,0,0)
+									479 row (selectable)
+										480 cell (selectable) s = 1; all other parameters 0
+										481 cell (selectable) (3,0,1,1)
+							482 text Changing a free coordinate changes the input. Each parameter is independent; forcing two parameters to have the same value would wrongly discard solutions.
+							483 heading Verify the starting point in every original equation, Value: 4
+								484 text Verify the starting point in every original equation
+							485 container Calculation
+								486 container
+									487 text (
+									488 text 1
+									489 text )
+									490 text (
+									491 text 0
+									492 text )
+									493 text +
+									494 text (
+									495 text 4
+									496 text )
+									497 text (
+									498 text 0
+									499 text )
+									500 text +
+									501 text (
+									502 container
+										503 text − 3
+									504 text )
+									505 text (
+									506 text 0
+									507 text )
+									508 text +
+									509 text (
+									510 text 0
+									511 text )
+									512 text (
+									513 text 0
+									514 text )
+									515 text = 0 + 0 + 0 + 0 = 0
+							516 container Calculation
+								517 container
+									518 text (
+									519 container
+										520 text − 2
+									521 text )
+									522 text (
+									523 text 0
+									524 text )
+									525 text +
+									526 text (
+									527 container
+										528 text − 7
+									529 text )
+									530 text (
+									531 text 0
+									532 text )
+									533 text +
+									534 text (
+									535 text 5
+									536 text )
+									537 text (
+									538 text 0
+									539 text )
+									540 text +
+									541 text (
+									542 text 1
+									543 text )
+									544 text (
+									545 text 0
+									546 text )
+									547 text = 0 + 0 + 0 + 0 = 0
+							548 container Calculation
+								549 container
+									550 text (
+									551 container
+										552 text − 4
+									553 text )
+									554 text (
+									555 text 0
+									556 text )
+									557 text +
+									558 text (
+									559 container
+										560 text − 5
+									561 text )
+									562 text (
+									563 text 0
+									564 text )
+									565 text +
+									566 text (
+									567 text 7
+									568 text )
+									569 text (
+									570 text 0
+									571 text )
+									572 text +
+									573 text (
+									574 text 5
+									575 text )
+									576 text (
+									577 text 0
+									578 text )
+									579 text = 0 + 0 + 0 + 0 = 0
+							580 heading Verify the s direction produces zero, Value: 4
+								581 text Verify the s direction produces zero
+							582 container Calculation
+								583 container
+									584 text (
+									585 text 1
+									586 text )
+									587 text (
+									588 text 3
+									589 text )
+									590 text +
+									591 text (
+									592 text 4
+									593 text )
+									594 text (
+									595 text 0
+									596 text )
+									597 text +
+									598 text (
+									599 container
+										600 text − 3
+									601 text )
+									602 text (
+									603 text 1
+									604 text )
+									605 text +
+									606 text (
+									607 text 0
+									608 text )
+									609 text (
+									610 text 1
+									611 text )
+									612 text = 3 + 0 − 3 + 0 = 0
+							613 container Calculation
+								614 container
+									615 text (
+									616 container
+										617 text − 2
+									618 text )
+									619 text (
+									620 text 3
+									621 text )
+									622 text +
+									623 text (
+									624 container
+										625 text − 7
+									626 text )
+									627 text (
+									628 text 0
+									629 text )
+									630 text +
+									631 text (
+									632 text 5
+									633 text )
+									634 text (
+									635 text 1
+									636 text )
+									637 text +
+									638 text (
+									639 text 1
+									640 text )
+									641 text (
+									642 text 1
+									643 text )
+									644 text = − 6 + 0 + 5 + 1 = 0
+							645 container Calculation
+								646 container
+									647 text (
+									648 container
+										649 text − 4
+									650 text )
+									651 text (
+									652 text 3
+									653 text )
+									654 text +
+									655 text (
+									656 container
+										657 text − 5
+									658 text )
+									659 text (
+									660 text 0
+									661 text )
+									662 text +
+									663 text (
+									664 text 7
+									665 text )
+									666 text (
+									667 text 1
+									668 text )
+									669 text +
+									670 text (
+									671 text 5
+									672 text )
+									673 text (
+									674 text 1
+									675 text )
+									676 text = − 12 + 0 + 7 + 5 = 0
+							677 heading Why this is the whole solution set, Value: 4
+								678 text Why this is the whole solution set
+							679 text A times the starting point gives the original right side. A times every direction gives zero. Therefore every parameter choice still gives that right side. Conversely, the pivot equations force exactly these coordinates, so no solution is missing.
+							680 text FINAL ANSWER
+							681 container Calculation
+								682 container
+									683 text x =
+									684 text [
+									685 container
+										686 text 0
+										687 text 0
+										688 text 0
+										689 text 0
+									690 text ]
+									691 text + s
+									692 text [
+									693 container
+										694 text 3
+										695 text 0
+										696 text 1
+										697 text 1
+									698 text ]
+							699 text All displayed parameters are arbitrary real numbers.
+							700 text The weights are not forced to zero: the displayed nonzero direction proves dependence.
+						701 summary View the original source page 10, Value: off
+							702 text View the original source page 10
+						703 summary Compare the original question crop, Value: off
+							704 text Compare the original question crop
+						705 container Previous and next question
+							706 link ← PREVIOUS QUESTION 1.7.6, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.7.6
+							707 link NEXT QUESTION → 1.7.8, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.7.8
+					708 text Made for thoughtful studying  · MATH 2255
+				709 scroll bar (settable, float) 0.008067882
+	710 toolbar
+		711 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			712 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			713 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		714 container BackForwardSegmentedControl
+			715 button Description: Go back, Help: Show the previous page, ID: BackButton
+			716 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		717 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			718 button Page Menu, ID: AssistantButton
+			719 button Add page to Reading List, ID: OneStepBookmarkingButton
+			720 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.7.7
+			721 button Reload this page, ID: ReloadButton
+		722 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		723 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		724 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		725 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	726 close button
+	727 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	728 minimise button
+729 menu bar
+	730 Safari
+	731 File
+	732 Edit
+	733 View, ID: SafariViewMenu
+	734 History
+	735 Bookmarks, ID: SafariBookmarksMenu
+	736 Develop
+	737 Window, ID: SafariWindowMenu
+	738 Help, ID: SafariHelpMenu
+
+The focused UI element is 98 summary Show Detailed Solution −, Value: on

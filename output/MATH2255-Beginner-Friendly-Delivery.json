@@ -1,0 +1,34 @@
+{
+  "pdf": {
+    "file": "MATH2255-Two-Sided-Cheat-Sheet.pdf",
+    "bytes": 91157,
+    "sha256": "2d5ab0db9eeb2c8ba4b72f31d570ebb0ee6afa24fddd6173eb353c2810b2b06a"
+  },
+  "html": {
+    "file": "MATH2255-Beginner-Friendly-Study-Reader-Final.html",
+    "bytes": 27477047,
+    "sha256": "218a7b7cb56a6a4b9d77246ff5beb2ffb73cba3d5611384bc73dca262621ca07"
+  },
+  "package": {
+    "file": "MATH2255-Beginner-Friendly-Study-Package.zip",
+    "bytes": 33984565,
+    "entries": 397,
+    "crc": "passed",
+    "sha256": "fff150394aa8e98c062cb04606e51ea13c1da618d418490c28d772ee967f49e9"
+  },
+  "content": {
+    "chapter_entries": 18,
+    "course_sections": 10,
+    "numbered_exercises": 339,
+    "complete_solutions": 337,
+    "incomplete_ids": [
+      "1.2.41",
+      "2.1.43"
+    ]
+  },
+  "validation": {
+    "source_preservation": 14837,
+    "beginner_acceptance": 2822,
+    "refinement": 510
+  }
+}

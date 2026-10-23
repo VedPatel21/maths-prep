@@ -1,0 +1,94 @@
+{
+  "about": {
+    "paragraphs": 7,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "contents": {
+    "paragraphs": 1,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "how-to": {
+    "paragraphs": 20,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "foundations": {
+    "paragraphs": 221,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-1": {
+    "paragraphs": 186,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-2": {
+    "paragraphs": 310,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-3": {
+    "paragraphs": 170,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-4": {
+    "paragraphs": 168,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-5": {
+    "paragraphs": 191,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-7": {
+    "paragraphs": 169,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-8": {
+    "paragraphs": 160,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-1-9": {
+    "paragraphs": 129,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-2-1": {
+    "paragraphs": 156,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "section-2-2": {
+    "paragraphs": 211,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "proofs": {
+    "paragraphs": 54,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": [
+      "G1. Let A = [120011][1,2,0;0,1,1]. For b = (3,2), solve Ax = b; solve Ax = 0; decide spanning, independence, onto, and one-to-one. Explain how the solution sets are related."
+    ]
+  },
+  "practice-answers": {
+    "paragraphs": 309,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "reference": {
+    "paragraphs": 89,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  },
+  "sources": {
+    "paragraphs": 20,
+    "paragraphs_over_500_characters": 0,
+    "long_multi_equality_statements": []
+  }
+}

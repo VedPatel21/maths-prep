@@ -1,0 +1,350 @@
+Window: "Exercise 1.8.17 · Study Corner", App: Safari.
+0 standard window Exercise 1.8.17 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 1.8.17 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.8.17
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 1.8.17
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 1.8, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.8
+						60 text 1.8.17
+						61 container
+							62 text PRACTICE · SECTION 1.8
+							63 heading Exercise 1.8.17, Value: 1
+								64 text Exercise 1.8.17
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 1.8.17, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 container Original question crop; scroll horizontally to read on a phone
+							71 image Description: Original statement of Exercise 1.8.17., Help: Original statement of Exercise 1.8.17. 
+						72 text Exercises_Merged.pdf · physical page 11 Independently derived teaching solution
+						73 container (expanded) Secondary Actions: Collapse
+							74 summary Show Detailed Solution −, Value: on
+								75 text Show Detailed Solution
+								76 text −
+							77 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							78 text Your task. Use linearity for 3u,2v,3u + 2v.
+							79 text Words used in this question
+							80 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							81 text Linearity means addition and scalar weights are preserved. A scalar is a single real-number multiplier.
+							82 heading Use the known images, with the same weights, Value: 4
+								83 text Use the known images, with the same weights
+							84 container Calculation
+								85 container
+									86 text T
+									87 text (
+									88 container
+										89 text 3 u
+									90 text )
+									91 text = 3 T
+									92 text (
+									93 text u
+									94 text )
+									95 text = 3
+									96 text [
+									97 container
+										98 text 2
+										99 text 1
+									100 text ]
+							101 container Calculation
+								102 container
+									103 text 3
+									104 text (
+									105 text 2
+									106 text )
+									107 text = 6
+							108 container Calculation
+								109 container
+									110 text 3
+									111 text (
+									112 text 1
+									113 text )
+									114 text = 3
+							115 container Calculation
+								116 container
+									117 text T
+									118 text (
+									119 container
+										120 text 3 u
+									121 text )
+									122 text =
+									123 text [
+									124 container
+										125 text 6
+										126 text 3
+									127 text ]
+							128 heading Compute the other weighted image, Value: 4
+								129 text Compute the other weighted image
+							130 container Calculation
+								131 container
+									132 text T
+									133 text (
+									134 container
+										135 text 2 v
+									136 text )
+									137 text = 2 T
+									138 text (
+									139 text v
+									140 text )
+									141 text = 2
+									142 text [
+									143 container
+										144 container
+											145 text − 1
+										146 text 3
+									147 text ]
+							148 container Calculation
+								149 container
+									150 text 2
+									151 text (
+									152 container
+										153 text − 1
+									154 text )
+									155 text = − 2
+							156 container Calculation
+								157 container
+									158 text 2
+									159 text (
+									160 text 3
+									161 text )
+									162 text = 6
+							163 container Calculation
+								164 container
+									165 text T
+									166 text (
+									167 container
+										168 text 2 v
+									169 text )
+									170 text =
+									171 text [
+									172 container
+										173 container
+											174 text − 2
+										175 text 6
+									176 text ]
+							177 heading Add the two output vectors, Value: 4
+								178 text Add the two output vectors
+							179 container Calculation
+								180 container
+									181 text T
+									182 text (
+									183 container
+										184 text 3 u + 2 v
+									185 text )
+									186 text =
+									187 text [
+									188 container
+										189 text 6
+										190 text 3
+									191 text ]
+									192 text +
+									193 text [
+									194 container
+										195 container
+											196 text − 2
+										197 text 6
+									198 text ]
+							199 container Calculation
+								200 container
+									201 text 6 +
+									202 text (
+									203 container
+										204 text − 2
+									205 text )
+									206 text = 4
+							207 container Calculation
+								208 container
+									209 text 3 + 6 = 9
+							210 text FINAL ANSWER
+							211 container Calculation
+								212 container
+									213 text T
+									214 text (
+									215 container
+										216 text 3 u + 2 v
+									217 text )
+									218 text =
+									219 text [
+									220 container
+										221 text 4
+										222 text 9
+									223 text ]
+							224 text This uses linearity. The weights multiply T(u),T(v), rather than substituting u,v for their images.
+							225 container
+								226 container Linearity preserves scalar multiplication,
+									227 text Linearity preserves scalar multiplication,
+								228 container so , and
+									229 text so
+									230 container Calculation
+										231 container
+											232 text T
+											233 text (
+											234 container
+												235 text 3 u
+											236 text )
+											237 text = 3 T
+											238 text (
+											239 text u
+											240 text )
+											241 text = 3
+											242 text (
+											243 container
+												244 text 2 , 1
+											245 text )
+											246 text =
+											247 text (
+											248 container
+												249 text 6 , 3
+											250 text )
+									251 text , and
+									252 container Calculation
+										253 container
+											254 text T
+											255 text (
+											256 container
+												257 text 2 v
+											258 text )
+											259 text = 2 T
+											260 text (
+											261 text v
+											262 text )
+											263 text = 2
+											264 text (
+											265 container
+												266 text − 1 , 3
+											267 text )
+											268 text =
+											269 text (
+											270 container
+												271 text − 2 , 6
+											272 text )
+								273 container It also preserves addition, giving
+									274 text It also preserves addition, giving
+									275 container Calculation
+										276 container
+											277 text T
+											278 text (
+											279 container
+												280 text 3 u + 2 v
+											281 text )
+											282 text = T
+											283 text (
+											284 container
+												285 text 3 u
+											286 text )
+											287 text + T
+											288 text (
+											289 container
+												290 text 2 v
+											291 text )
+											292 text =
+											293 text (
+											294 container
+												295 text 6 , 3
+											296 text )
+											297 text +
+											298 text (
+											299 container
+												300 text − 2 , 6
+											301 text )
+											302 text =
+											303 text (
+											304 container
+												305 text 4 , 9
+											306 text )
+								307 container The weights stay the same on the output side;
+									308 text The weights stay the same on the output side;
+								309 container the original u,v coordinates do not replace their known images.
+									310 text the original u,v coordinates do not replace their known images.
+						311 summary View the original source page 11, Value: off
+							312 text View the original source page 11
+						313 container Previous and next question
+							314 link ← PREVIOUS QUESTION 1.8.16, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.8.16
+							315 link NEXT QUESTION → 1.8.18, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.8.18
+					316 text Made for thoughtful studying  · MATH 2255
+				317 scroll bar (settable, float) 0.03944462
+	318 toolbar
+		319 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			320 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			321 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		322 container BackForwardSegmentedControl
+			323 button Description: Go back, Help: Show the previous page, ID: BackButton
+			324 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		325 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			326 button Page Menu, ID: AssistantButton
+			327 button Add page to Reading List, ID: OneStepBookmarkingButton
+			328 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.8.17
+			329 button Reload this page, ID: ReloadButton
+		330 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		331 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		332 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		333 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	334 close button
+	335 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	336 minimise button
+337 menu bar
+	338 Safari
+	339 File
+	340 Edit
+	341 View, ID: SafariViewMenu
+	342 History
+	343 Bookmarks, ID: SafariBookmarksMenu
+	344 Develop
+	345 Window, ID: SafariWindowMenu
+	346 Help, ID: SafariHelpMenu
+
+The focused UI element is 74 summary Show Detailed Solution −, Value: on

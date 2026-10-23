@@ -1,0 +1,340 @@
+section,exercise,status,selected_solution_pdf_page,task
+1.1,1,solved,,Solve the system / find the common point
+1.1,2,solved,,Solve the system / find the common point
+1.1,3,solved,101,Solve the system / find the common point
+1.1,4,solved,,Solve the system / find the common point
+1.1,5,solved,,Describe the next two row operations
+1.1,6,solved,,Describe the next two row operations
+1.1,7,solved,101,Continue reduction and describe the full solution set
+1.1,8,solved,,Continue reduction and describe the full solution set
+1.1,9,solved,101,Continue reduction and describe the full solution set
+1.1,10,solved,,Continue reduction and describe the full solution set
+1.1,11,solved,101,Continue reduction and describe the full solution set
+1.1,12,solved,,Continue reduction and describe the full solution set
+1.1,13,solved,,Continue reduction and describe the full solution set
+1.1,14,solved,,Continue reduction and describe the full solution set
+1.1,15,solved,102,Verify the solution of Exercise 11
+1.1,16,solved,,Verify the solution of Exercise 12
+1.1,17,solved,,Verify the solution of Exercise 13
+1.1,18,solved,,Verify the solution of Exercise 14
+1.1,19,solved,102,Decide consistency without solving completely
+1.1,20,solved,,Decide consistency without solving completely
+1.1,21,solved,102,Do the three lines share a point?
+1.1,22,solved,,Do the three planes share a point?
+1.1,23,solved,102,Choose h for consistency
+1.1,24,solved,,Choose h for consistency
+1.1,25,solved,102,Choose h for consistency
+1.1,26,solved,,Choose h for consistency
+1.1,27,solved,,True/false: Every elementary row operation is reversible
+1.1,28,solved,,True/false: Row operations on an augmented matrix preserve the solution set
+1.1,29,solved,,True/false: A 5 × 6 matrix has six rows
+1.1,30,solved,,True/false: Same number of rows implies row equivalence
+1.1,31,solved,,True/false: A solution set is one list satisfying every equation
+1.1,32,solved,,True/false: An inconsistent system has more than one solution
+1.1,33,solved,,True/false: Existence and uniqueness are fundamental questions
+1.1,34,solved,,True/false: Equivalent systems have the same solution set
+1.1,35,solved,,"Find the consistency relation among g,h,k"
+1.1,36,solved,,Construct three systems with the prescribed unique solution
+1.1,37,solved,,"What must c,d satisfy if all f,g are allowed?"
+1.2,1,solved,103,Classify each displayed matrix
+1.2,2,solved,,Classify each displayed matrix
+1.2,3,solved,103,Reduce and identify original pivot positions
+1.2,4,solved,,Reduce and identify original pivot positions
+1.2,5,solved,,All possible REF patterns for a nonzero 2 × 2 matrix
+1.2,6,solved,,All possible REF patterns for a nonzero 3 × 2 matrix
+1.2,7,solved,103,Find every solution
+1.2,8,solved,,Find every solution
+1.2,9,solved,103,Find every solution
+1.2,10,solved,,Find every solution
+1.2,11,solved,104,Find every solution
+1.2,12,solved,,Find every solution
+1.2,13,solved,104,Find every solution
+1.2,14,solved,,Find every solution
+1.2,15,solved,105,Write the equations and verify Exercise 9
+1.2,16,solved,,Write the equations and verify Exercise 10
+1.2,17,solved,105,Write the equations and verify Exercise 11
+1.2,18,solved,,Write the equations and verify Exercise 12
+1.2,19,solved,105,Consistency and uniqueness of symbolic echelon patterns
+1.2,20,solved,,Consistency and uniqueness of symbolic echelon patterns
+1.2,21,solved,105,Choose h for consistency
+1.2,22,solved,,Choose h for consistency
+1.2,23,solved,,"Choose h,k for none, one, or infinitely many"
+1.2,24,solved,,"Choose h,k for none, one, or infinitely many"
+1.2,25,solved,,True/false: Different reductions may give different RREFs
+1.2,26,solved,,True/false: Echelon form is unique
+1.2,27,solved,,True/false: The algorithm applies only to augmented matrices
+1.2,28,solved,,True/false: Pivot positions depend on row interchange choices
+1.2,29,solved,,True/false: A basic variable corresponds to a coefficient pivot column
+1.2,30,solved,,True/false: REF is obtained by the forward phase
+1.2,31,solved,,True/false: A parametric description solves the system
+1.2,32,solved,,True/false: Free variables imply a unique solution
+1.2,33,solved,,"True/false: A final row [0,0,0,0,5] implies inconsistency"
+1.2,34,solved,,True/false: A general solution explicitly describes every solution
+1.2,35,solved,105,Three pivots in a 3 × 5 coefficient matrix
+1.2,36,solved,,Last column of a 3 × 5 augmented matrix is pivot
+1.2,37,solved,105,Why does a row pivot everywhere imply consistency?
+1.2,38,solved,,"Three equations, three variables, every column pivot"
+1.2,39,solved,,Restate uniqueness using pivot columns
+1.2,40,solved,,Pivot information for a unique consistent solution
+1.2,41,truncated source,,Cut-off underdetermined-system question
+1.3,1,solved,106,Compute u + v and u - 2v
+1.3,2,solved,,Compute u + v and u - 2v
+1.3,3,solved,106,Draw the requested vector arrows
+1.3,4,solved,,Draw the requested vector arrows
+1.3,5,solved,,Convert the vector equation to a system
+1.3,6,solved,,Convert the vector equation to a system
+1.3,7,solved,107,"Read a,b,c,d from the oblique grid"
+1.3,8,solved,,"Read w,x,y,z from the oblique grid"
+1.3,9,solved,107,Write an equivalent vector equation
+1.3,10,solved,,Write an equivalent vector equation
+1.3,11,solved,108,Is the target a linear combination of the columns?
+1.3,12,solved,,Is the target a linear combination of the columns?
+1.3,13,solved,108,Is the target a linear combination of the columns?
+1.3,14,solved,,Is the target a linear combination of the columns?
+1.3,15,solved,108,List five vectors in the span with their weights
+1.3,16,solved,,List five vectors in the span with their weights
+1.3,17,solved,,Choose h so b lies in the spanned plane
+1.3,18,solved,,Choose h so y lies in the generated plane
+1.3,19,solved,,Describe the span geometrically
+1.3,20,solved,,Describe the span of Exercise 16 geometrically
+1.3,21,solved,,"Show that every (h,k) is in Span{u,v}"
+1.3,22,solved,,Construct a nonzero-entry matrix whose columns miss b
+1.3,23,solved,,"True/false: A column (-4,3) may also be denoted [-4 3]"
+1.3,24,solved,,True/false: A list of five real numbers is a vector in ℝ^5
+1.3,25,solved,,"True/false: (-2,5) and (-5,2) lie on one line through zero"
+1.3,26,solved,,True/false: Adding u - v to v gives u
+1.3,27,solved,,"True/false: One half of v₁ is a linear combination of v₁,v₂"
+1.3,28,solved,,True/false: Linear-combination weights cannot all be zero
+1.3,29,solved,,True/false: The augmented system and its vector equation have the same solutions
+1.3,30,solved,,"True/false: For nonzero u,v, the span includes the line through u and zero"
+1.3,31,solved,,"True/false: Span{u,v} is always a plane"
+1.3,32,solved,,True/false: Testing consistency of [a₁ a₂ a₃ | b] tests span membership
+1.3,33,solved,109,Distinguish the listed columns from their span
+1.3,34,solved,,"Is b in W, and why is the third column in W?"
+1.3,35,solved,,"Mine production: interpretation, model, and operating days"
+1.3,36,solved,,"Coal plant: heat, vector model, and fuel amounts"
+1.4,1,solved,,"Compute the product, or explain why undefined"
+1.4,2,solved,,"Compute the product, or explain why undefined"
+1.4,3,solved,,"Compute the product, or explain why undefined"
+1.4,4,solved,,"Compute the product, or explain why undefined"
+1.4,5,solved,,Convert the matrix equation to a vector equation
+1.4,6,solved,,Convert the matrix equation to a vector equation
+1.4,7,solved,,Convert the vector equation to matrix form
+1.4,8,solved,,Convert the vector equation to matrix form
+1.4,9,solved,110,Write vector and matrix forms of the system
+1.4,10,solved,,Write vector and matrix forms of the system
+1.4,11,solved,110,Solve Ax = b and write the answer as a vector
+1.4,12,solved,,Solve Ax = b and write the answer as a vector
+1.4,13,solved,110,Is the given vector in the column span?
+1.4,14,solved,,Is the given vector in the column span?
+1.4,15,solved,110,Describe all b for which Ax = b is consistent
+1.4,16,solved,,Describe all consistent right-hand sides for the 3 × 3 matrix
+1.4,17,solved,,Determine spanning / all-right-hand-side existence
+1.4,18,solved,,Determine spanning / all-right-hand-side existence
+1.4,19,solved,,Determine spanning / all-right-hand-side existence
+1.4,20,solved,,Determine spanning / all-right-hand-side existence
+1.4,21,solved,,Do three vectors span ℝ^4?
+1.4,22,solved,,Do the three displayed vectors span ℝ^3?
+1.4,23,solved,,True/false: Ax = b is called a vector equation
+1.4,24,solved,,True/false: A matrix equation has an equivalent vector equation
+1.4,25,solved,,"True/false: If Ax = b is inconsistent, b is outside the column span"
+1.4,26,solved,,True/false: b is a column combination exactly when Ax = b has a solution
+1.4,27,solved,,True/false: A pivot in every row of [A b] ensures consistency
+1.4,28,solved,,"True/false: If columns do not span ℝ^m, some b is inconsistent"
+1.4,29,solved,,True/false: The first entry of Ax is a sum of products
+1.4,30,solved,,True/false: Every linear combination can be written as Ax
+1.4,31,solved,,"True/false: If columns span ℝ^m, every b gives consistency"
+1.4,32,solved,,True/false: [a₁ a₂ a₃ b] and Ax = b have the same solutions
+1.5,1,solved,,Does a nontrivial homogeneous solution exist?
+1.5,2,solved,,Does a nontrivial homogeneous solution exist?
+1.5,3,solved,,Does a nontrivial homogeneous solution exist?
+1.5,4,solved,,Does a nontrivial homogeneous solution exist?
+1.5,5,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,6,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,7,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,8,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,9,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,10,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,11,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,12,solved,,Describe all homogeneous solutions in parametric vector form
+1.5,13,solved,,Verify the full homogeneous set from Exercise 9
+1.5,14,solved,,Verify the full homogeneous set from Exercise 10
+1.5,15,solved,,Verify the full homogeneous set from Exercise 11
+1.5,16,solved,,Verify the full homogeneous set from Exercise 12
+1.5,17,solved,,Write the given solution line using vectors
+1.5,18,solved,,Write the given line in ℝ^4 using vectors
+1.5,19,solved,,Solve and compare with Exercise 5
+1.5,20,solved,,Solve and compare with Exercise 6
+1.5,21,solved,,Compare two planes with the same left side
+1.5,22,solved,,Compare the two solution planes
+1.7,1,solved,,Test independence using the homogeneous equation
+1.7,2,solved,,Test independence using the homogeneous equation
+1.7,3,solved,,Test independence using the homogeneous equation
+1.7,4,solved,,Test independence using the homogeneous equation
+1.7,5,solved,,Test independence using the homogeneous equation
+1.7,6,solved,,Test independence using the homogeneous equation
+1.7,7,solved,,Test independence using the homogeneous equation
+1.7,8,solved,,Test independence using the homogeneous equation
+1.7,9,solved,,h for span membership and for dependence
+1.7,10,solved,,Distinguish membership from preexisting dependence
+1.7,11,solved,,Find h for dependence
+1.7,12,solved,,Find h for dependence
+1.7,13,solved,,Find h for dependence
+1.7,14,solved,,Find h for dependence
+1.7,15,solved,,Inspect four vectors in ℝ^2
+1.7,16,solved,,Inspect the two vectors in ℝ^3
+1.7,17,solved,,Inspect a collection containing zero
+1.7,18,solved,,Inspect four vectors with two entries
+1.7,19,solved,,Inspect whether the two vectors are multiples
+1.7,20,solved,,Inspect the collection containing zero
+1.7,21,solved,,True/false: Having the trivial homogeneous solution proves independence
+1.7,22,solved,,True/false: Two vectors are dependent exactly when they lie on an origin line
+1.7,23,solved,,True/false: Every vector in a dependent set is a combination of the others
+1.7,24,solved,,True/false: Fewer vectors than entries ensures independence
+1.7,25,solved,,True/false: Any 4 × 5 matrix has dependent columns
+1.7,26,solved,,True/false: Adding a vector in the span to an independent pair gives dependence
+1.7,27,solved,,"True/false: If x,y are independent and the triple is dependent, z is in their span"
+1.7,28,solved,,True/false: A dependent collection in ℝ^n must have more than n vectors
+1.7,29,solved,,REF pattern for a 3 × 3 independent-column matrix
+1.7,30,solved,,REF patterns for a dependent 2 × 2 matrix
+1.7,31,solved,,REF when a₂ is not a multiple of a₁
+1.7,32,solved,,REF after adding a third vector outside an independent-pair span
+1.8,1,solved,,Images under doubling
+1.8,2,solved,,Images under a three-dimensional contraction
+1.8,3,solved,,Find a preimage of b and decide uniqueness
+1.8,4,solved,,Find a preimage of b and decide uniqueness
+1.8,5,solved,,Find a preimage of b and decide uniqueness
+1.8,6,solved,,Find a preimage of b and decide uniqueness
+1.8,7,solved,,Domain and codomain for a 6 × 5 matrix
+1.8,8,solved,,Matrix size for ℝ^4 into ℝ^5
+1.8,9,solved,,Find every input mapped to zero
+1.8,10,solved,,Find every input mapped to zero
+1.8,11,solved,,"Is b = (-1,1,0) in the range?"
+1.8,12,solved,,"Is b = (-1,3,-1,4) in the range?"
+1.8,13,solved,111,"Plot u,v and their images"
+1.8,14,solved,111,"Plot u,v and their images"
+1.8,15,solved,111,"Plot u,v and their images"
+1.8,16,solved,111,"Plot u,v and their images"
+1.8,17,solved,,"Use linearity for 3u,2v,3u + 2v"
+1.8,18,solved,111,Construct the image of w from the diagram
+1.8,19,solved,,Images determined by the two basis images
+1.8,20,solved,111,Construct a matrix implementing the rule
+1.9,1,solved,,Standard matrix from two four-entry images
+1.9,2,solved,112,Standard matrix from three basis images
+1.9,3,solved,,Counterclockwise rotation by 3π/2
+1.9,4,solved,112,Clockwise rotation by π/4
+1.9,5,solved,,Vertical shear from its basis action
+1.9,6,solved,112,Horizontal shear from its basis action
+1.9,7,solved,,Rotation followed by horizontal reflection
+1.9,8,solved,112,Two successive reflections
+1.9,9,solved,,Horizontal shear followed by reflection in the negative diagonal
+1.9,10,solved,,Vertical-axis reflection followed by a 3π/2 rotation
+1.9,11,solved,,Two axis reflections equal a rotation
+1.9,12,solved,,Identify the rotation in Exercise 8
+1.9,13,solved,,"Sketch T(2,1) using the basis images"
+1.9,14,solved,,"Sketch the image of (-1,3)"
+1.9,15,solved,,Fill the 3 × 3 coefficient matrix
+1.9,16,solved,112,Fill the 3 × 2 coefficient matrix
+1.9,17,solved,,Show linearity by finding an implementing matrix
+1.9,18,solved,112,Show linearity by finding an implementing matrix
+1.9,19,solved,,Show linearity by finding an implementing matrix
+1.9,20,solved,112,Show linearity by finding an implementing matrix
+1.9,21,solved,,"Find x whose image is (3,8)"
+1.9,22,solved,112,"Find x whose image is (-1,4,9)"
+1.9,23,solved,,True/false: A linear map is determined by its action on identity columns
+1.9,24,solved,,True/false: Unique output for each input makes a mapping one-to-one
+1.9,25,solved,,True/false: Rotation about the origin is linear
+1.9,26,solved,,True/false: The standard matrix columns are images of standard basis columns
+1.9,27,solved,,True/false: Composing linear transformations may give a nonlinear map
+1.9,28,solved,,True/false: Some linear maps ℝ^n → ℝ^m are not matrix transformations
+1.9,29,solved,,True/false: A map is onto if each input has some output
+1.9,30,solved,,True/false: The listed axis and origin reflections have diagonal ±1 form
+2.1,1,solved,,Compute the four requested expressions
+2.1,2,solved,113,Compute the four requested expressions
+2.1,3,solved,,Compute 3I₂ - A and (3I₂)A
+2.1,4,solved,113,Compute A - 5I₃ and (5I₃)A
+2.1,5,solved,114,Compute AB by columns and row-column entries
+2.1,6,solved,,Compute AB by columns and row-column entries
+2.1,7,solved,114,Find the size of B
+2.1,8,solved,,How many rows does B have?
+2.1,9,solved,114,Choose k so AB = BA
+2.1,10,solved,,Show AB = AC although B ≠ C
+2.1,11,solved,,Diagonal multiplication and a commuting example
+2.1,12,solved,,Construct nonzero distinct columns of B with AB = 0
+2.1,13,solved,,Write the displayed column array as a product
+2.1,14,solved,,Economic interpretation of UQ
+2.1,15,solved,,True/false: AB has columns a₁b₁ and a₂b₂
+2.1,16,solved,,True/false: AB is one column Ab₁ + Ab₂ + Ab₃
+2.1,17,solved,,True/false: Columns of AB combine B columns using A-column weights
+2.1,18,solved,,True/false: Row 2 of AB is row 2 of A times B
+2.1,19,solved,,True/false: AB + AC = A(B + C)
+2.1,20,solved,,True/false: A^T + B^T = (A + B)^T
+2.1,21,solved,,True/false: (AB)C = (AC)B
+2.1,22,solved,,True/false: (AB)^T = A^T B^T
+2.1,23,solved,,True/false: Transpose keeps the same multiplication order
+2.1,24,solved,,True/false: Transpose distributes over a sum
+2.1,25,solved,,Recover the first two columns of B
+2.1,26,solved,,Equal first two columns of B
+2.1,27,solved,,Third B column equals the sum of the first two
+2.1,28,solved,,Second B column is zero
+2.1,29,solved,,Last product column zero but last B column nonzero
+2.1,30,solved,,Dependent B columns imply dependent AB columns
+2.1,31,solved,,A left inverse forces trivial homogeneous solutions
+2.1,32,solved,,A right inverse forces existence for every b
+2.1,33,solved,,Left and right inverses force equal dimensions and equality
+2.1,34,solved,,Construct D with AD = I₃
+2.1,35,solved,,Inner and outer products
+2.1,36,solved,,Compare the general inner and outer products
+2.1,37,solved,,Prove left and right distributive laws
+2.1,38,solved,,Prove the scalar-product identities
+2.1,39,solved,,Prove I_m A = A
+2.1,40,solved,,Prove A I_n = A
+2.1,41,solved,,Prove transpose reverses a product
+2.1,42,solved,,Transpose the product ABx
+2.1,43,truncated source,,Cut-off matrix-program question
+2.2,1,solved,115,Find the inverse using the 2 × 2 formula
+2.2,2,solved,,Find the inverse using the 2 × 2 formula
+2.2,3,solved,,Find the inverse using the 2 × 2 formula
+2.2,4,solved,,Find the inverse using the 2 × 2 formula
+2.2,5,solved,,Verify the inverse from Exercise 1
+2.2,6,solved,,Verify the inverse from Exercise 2
+2.2,7,solved,115,Use the inverse from Exercise 1 to solve
+2.2,8,solved,,Use the inverse from Exercise 2 to solve
+2.2,9,solved,,Solve four systems by inverse and simultaneous reduction
+2.2,10,solved,,Show AD = I forces D = A^(-1) when A is invertible
+2.2,11,solved,,True/false: An inverse satisfies both AB = I and BA = I
+2.2,12,solved,,True/false: Inverse of a product keeps the factor order
+2.2,13,solved,,True/false: A^(-1)B^(-1) is the inverse of AB
+2.2,14,solved,,True/false: The inverse of A^(-1) is A
+2.2,15,solved,,True/false: ab - cd ≠ 0 ensures a 2 × 2 inverse
+2.2,16,solved,,True/false: ad = bc makes the 2 × 2 matrix singular
+2.2,17,solved,,True/false: Invertibility ensures consistency for every b
+2.2,18,solved,,True/false: Row reducing A to identity proves invertibility
+2.2,19,solved,,True/false: Every elementary matrix is invertible
+2.2,20,solved,,True/false: Operations reducing A to I also reduce A^(-1) to I
+2.2,21,solved,115,Unique matrix solution of AX = B
+2.2,22,solved,,Why [A B] reduction computes A^(-1)B
+2.2,23,solved,115,Cancellation with invertible A and failure without it
+2.2,24,solved,,Cancel an invertible right factor
+2.2,25,solved,,Produce an inverse for ABC
+2.2,26,solved,,B and AB invertible imply A invertible
+2.2,27,solved,115,Solve AB = BC for A
+2.2,28,solved,,Solve A = PBP^(-1) for B
+2.2,29,solved,,Solve C^(-1)(A + X)B^(-1) = I
+2.2,30,solved,,Solve (A - AX)^(-1) = X^(-1)B
+2.2,31,solved,,Why are columns independent when A is invertible?
+2.2,32,solved,,Why do invertible columns span ℝ^n?
+2.2,33,solved,,Trivial homogeneous solution implies invertibility for square A
+2.2,34,solved,,Every-right-hand-side existence implies invertibility for square A
+2.2,35,solved,,Why ad - bc = 0 prevents a 2 × 2 inverse
+2.2,36,solved,,Prove the 2 × 2 formula works
+2.2,37,solved,,Show row operations equal elementary left products
+2.2,38,solved,,Elementary matrix for row 3 minus four times row 1
+2.2,39,solved,,"Find the inverse by Gauss-Jordan elimination, if it exists"
+2.2,40,solved,,"Find the inverse by Gauss-Jordan elimination, if it exists"
+2.2,41,solved,115,"Find the inverse by Gauss-Jordan elimination, if it exists"
+2.2,42,solved,,"Find the inverse by Gauss-Jordan elimination, if it exists"
+2.2,43,solved,,"Inverses of lower-triangular ones, then generalize"
+2.2,44,solved,,Inverse of the lower-triangular matrix with column weights
+2.2,45,solved,116,Find only the third inverse column
+2.2,46,solved,,Find only the second and third inverse columns

@@ -1,0 +1,258 @@
+Window: "Exercise 1.3.5 · Study Corner", App: Safari.
+0 standard window Exercise 1.3.5 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=C1B33E9F-AF64-4902-876F-3FEABFE48642, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 pop-up button Description: Viewport Size, Value: Custom size, ID: ViewportPresetButton
+			5 toggle button Description: Rotate Left, Help: Rotate viewport, Value: off
+			6 text field (settable) Description: Width, Value: 1280
+			7 text ×
+			8 text field (settable) Description: Height, Value: 812
+			9 text Description: Zoom Level, Value: ( 70% )
+			10 pop-up button Description: Pixel Ratio, Value: 2x
+			11 menu button Open with Simulator, ID: OpenWithSimulatorButton
+			12 scroll area
+				13 HTML content Description: Exercise 1.3.5 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.3.5
+					14 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					15 container
+						16 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						17 container Main navigation
+							18 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							19 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							20 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							21 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					22 container Study navigation
+						23 text YOUR MATH NOTEBOOK
+						24 text MATH 2255 · Linear Algebra
+						25 container
+							26 text Find a topic or exercise
+							27 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								28 text Try “2.2.39” or “span”
+							29 button Search
+						30 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						31 container Chapters
+							32 heading GETTING STARTED, Value: 2
+								33 text GETTING STARTED
+							34 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							35 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							36 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							37 heading LINEAR EQUATIONS, Value: 2
+								38 text LINEAR EQUATIONS
+							39 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							40 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							41 heading VECTORS & MATRICES, Value: 2
+								42 text VECTORS & MATRICES
+							43 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							44 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							45 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							46 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								47 text INDEPENDENCE & TRANSFORMATIONS
+							48 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							49 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							50 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							51 heading MATRIX ALGEBRA, Value: 2
+								52 text MATRIX ALGEBRA
+							53 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							54 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							55 heading ADDITIONAL LEARNING, Value: 2
+								56 text ADDITIONAL LEARNING
+							57 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							58 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							59 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							60 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						61 text A little clarity, one concept at a time.
+						62 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						63 text Available entirely offline
+					64 container Exercise 1.3.5
+						65 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						66 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						67 link Section 1.3, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.3
+						68 text 1.3.5
+						69 container
+							70 text PRACTICE · SECTION 1.3
+							71 heading Exercise 1.3.5, Value: 1
+								72 text Exercise 1.3.5
+						73 text Original exercise Jump to question
+						74 pop-up button (collapsed) Jump to question, Value: 1.3.5, Secondary Actions: Expand
+						75 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+						76 heading Original question, Value: 2
+							77 text Original question
+						78 text Write a system of equations equivalent to the given vector equation.
+						79 container Original question crop; scroll horizontally to read on a phone
+							80 image Original statement of Exercise 1.3.5. Write a system of equations equivalent to the given vector equation.
+						81 text Exercises_Merged.pdf · physical page 5 Independently derived teaching solution
+						82 container (expanded) Secondary Actions: Collapse
+							83 summary Show Detailed Solution −, Value: on
+								84 text Show Detailed Solution
+								85 text −
+							86 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							87 text Your task. Convert the vector equation to a system.
+							88 text Words used in this question
+							89 text A coefficient is the number multiplying an unknown. A missing term has coefficient 0.
+							90 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							91 container
+								92 container Equate corresponding entries.
+									93 text Equate corresponding entries.
+								94 container The first row gives , the second gives , and the third gives
+									95 text The first row gives
+									96 container Calculation
+										97 container
+											98 text 6
+											99 text x
+											100 text 1
+											101 text − 3
+											102 text x
+											103 text 2
+											104 text = 1
+									105 text , the second gives
+									106 container Calculation
+										107 container
+											108 text −
+											109 text x
+											110 text 1
+											111 text + 4
+											112 text x
+											113 text 2
+											114 text = − 7
+									115 text , and the third gives
+									116 container Calculation
+										117 container
+											118 text 5
+											119 text x
+											120 text 1
+											121 text + 0
+											122 text x
+											123 text 2
+											124 text = − 5
+								125 container Thus the equivalent system is
+									126 text Thus the equivalent system is
+									127 container Calculation
+										128 container
+											129 text 6
+											130 text x
+											131 text 1
+											132 text − 3
+											133 text x
+											134 text 2
+											135 text = 1 ; −
+											136 text x
+											137 text 1
+											138 text + 4
+											139 text x
+											140 text 2
+											141 text = − 7 ; 5
+											142 text x
+											143 text 1
+											144 text = − 5
+								145 container This is a conversion question,
+									146 text This is a conversion question,
+								147 container so no solving is required.
+									148 text so no solving is required.
+								149 container The zero entry in the second vector is why its coefficient vanishes in the last equation.
+									150 text The zero entry in the second vector is why its coefficient vanishes in the last equation.
+							151 text FINAL ANSWER
+							152 container
+								153 container Equate corresponding entries.
+									154 text Equate corresponding entries.
+								155 container The first row gives , the second gives , and the third gives
+									156 text The first row gives
+									157 container Calculation
+										158 container
+											159 text 6
+											160 text x
+											161 text 1
+											162 text − 3
+											163 text x
+											164 text 2
+											165 text = 1
+									166 text , the second gives
+									167 container Calculation
+										168 container
+											169 text −
+											170 text x
+											171 text 1
+											172 text + 4
+											173 text x
+											174 text 2
+											175 text = − 7
+									176 text , and the third gives
+									177 container Calculation
+										178 container
+											179 text 5
+											180 text x
+											181 text 1
+											182 text + 0
+											183 text x
+											184 text 2
+											185 text = − 5
+								186 container Thus the equivalent system is
+									187 text Thus the equivalent system is
+									188 container Calculation
+										189 container
+											190 text 6
+											191 text x
+											192 text 1
+											193 text − 3
+											194 text x
+											195 text 2
+											196 text = 1 ; −
+											197 text x
+											198 text 1
+											199 text + 4
+											200 text x
+											201 text 2
+											202 text = − 7 ; 5
+											203 text x
+											204 text 1
+											205 text = − 5
+								206 container This is a conversion question,
+									207 text This is a conversion question,
+								208 container so no solving is required.
+									209 text so no solving is required.
+								210 container The zero entry in the second vector is why its coefficient vanishes in the last equation.
+									211 text The zero entry in the second vector is why its coefficient vanishes in the last equation.
+						212 summary View the original source page 5, Value: off
+							213 text View the original source page 5
+						214 container Previous and next question
+							215 link ← PREVIOUS QUESTION 1.3.4, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.3.4
+							216 link NEXT QUESTION → 1.3.6, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.3.6
+					217 text Made for thoughtful studying  · MATH 2255
+				218 scroll bar (settable, float) 0.00587314
+	219 toolbar
+		220 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			221 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			222 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		223 container BackForwardSegmentedControl
+			224 button Description: Go back, Help: Show the previous page, ID: BackButton
+			225 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		226 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			227 button Page Menu, ID: AssistantButton
+			228 button Add page to Reading List, ID: OneStepBookmarkingButton
+			229 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.3.5
+			230 button Reload this page, ID: ReloadButton
+		231 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		232 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		233 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		234 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	235 tab group Description: Tab bar, 2 tabs, ID: TabBar?isSeparate=false
+		236 tab 4. Section 1.4 - The matrix equation Ax = b · Study Corner, Value: off, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=false
+			237 image Description: safari, ID: FaviconImageView
+			238 text Value: 4. Section 1.4 - The matrix equation Ax = b · Study Corner, ID: UnifiedTabBarButton._titleTextField
+		239 tab Exercise 1.3.5 · Study Corner, Help: To interact with the items in this button, press Control-Option-Shift-Down Arrow., Value: on, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=true
+			240 image Description: safari, ID: FaviconImageView
+			241 text Value: Exercise 1.3.5 · Study Corner, ID: UnifiedTabBarButton._titleTextField
+	242 close button
+	243 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	244 minimise button
+245 menu bar
+	246 Safari
+	247 File
+	248 Edit
+	249 View, ID: SafariViewMenu
+	250 History
+	251 Bookmarks, ID: SafariBookmarksMenu
+	252 Develop
+	253 Window, ID: SafariWindowMenu
+	254 Help, ID: SafariHelpMenu
+
+The focused UI element is 83 summary Show Detailed Solution −, Value: on

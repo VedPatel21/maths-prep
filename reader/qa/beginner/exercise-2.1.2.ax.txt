@@ -1,0 +1,892 @@
+Window: "Exercise 2.1.2 · Study Corner", App: Safari.
+0 standard window Exercise 2.1.2 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 2.1.2 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.2
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 2.1.2
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 2.1, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/2.1
+						60 text 2.1.2
+						61 container
+							62 text PRACTICE · SECTION 2.1
+							63 heading Exercise 2.1.2, Value: 1
+								64 text Exercise 2.1.2
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 2.1.2, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 text Compute each matrix sum or product if it is defined. If an expression is undefined, explain why.
+						71 container Original question crop; scroll horizontally to read on a phone
+							72 image Original statement of Exercise 2.1.2. Compute each matrix sum or product if it is defined. If an expression is undefined, explain why.
+						73 container Original question crop; scroll horizontally to read on a phone
+							74 image Source figure or shared mathematical data for Exercise 2.1.2
+						75 text Exercises_Merged.pdf · physical page 13 Result cross-checked · Combined PDF p. 113
+						76 container (expanded) Secondary Actions: Collapse
+							77 summary Show Detailed Solution −, Value: on
+								78 text Show Detailed Solution
+								79 text −
+							80 text Independently derived and cross-checked against the selected supplied solution on Combined PDF page 113.
+							81 text Your task. Compute the four requested expressions.
+							82 text Words used in this question
+							83 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							84 heading Addition needs matching positions, Value: 4
+								85 text Addition needs matching positions
+							86 container
+								87 container Matrix; scroll horizontally if needed
+									88 container Matrix: 2, 0, -1; 4, -3, 2
+										89 container
+											90 text [
+											91 container
+												92 text 2
+												93 text 0
+												94 container
+													95 text − 1
+											96 container
+												97 text 4
+												98 container
+													99 text − 3
+												100 text 2
+											101 text ]
+								102 text A
+							103 container
+								104 container Matrix; scroll horizontally if needed
+									105 container Matrix: 7, -5, 1; 1, -4, -3
+										106 container
+											107 text [
+											108 container
+												109 text 7
+												110 container
+													111 text − 5
+												112 text 1
+											113 container
+												114 text 1
+												115 container
+													116 text − 4
+												117 container
+													118 text − 3
+											119 text ]
+								120 text B
+							121 heading For A + 2B: scale B, then add matching entries, Value: 4
+								122 text For A + 2B: scale B, then add matching entries
+							123 text Use the entry in the same row and column each time. A scalar multiplies every entry, including zeros and negative numbers.
+							124 text Row 1, column 1:
+							125 container Calculation
+								126 container
+									127 text (
+									128 text 1
+									129 text )
+									130 text (
+									131 text 2
+									132 text )
+									133 text +
+									134 text (
+									135 text 2
+									136 text )
+									137 text (
+									138 text 7
+									139 text )
+									140 text = 2 + 14 = 16
+							141 text Row 1, column 2:
+							142 container Calculation
+								143 container
+									144 text (
+									145 text 1
+									146 text )
+									147 text (
+									148 text 0
+									149 text )
+									150 text +
+									151 text (
+									152 text 2
+									153 text )
+									154 text (
+									155 container
+										156 text − 5
+									157 text )
+									158 text = 0 − 10 = − 10
+							159 text Row 1, column 3:
+							160 container Calculation
+								161 container
+									162 text (
+									163 text 1
+									164 text )
+									165 text (
+									166 container
+										167 text − 1
+									168 text )
+									169 text +
+									170 text (
+									171 text 2
+									172 text )
+									173 text (
+									174 text 1
+									175 text )
+									176 text = − 1 + 2 = 1
+							177 text Row 2, column 1:
+							178 container Calculation
+								179 container
+									180 text (
+									181 text 1
+									182 text )
+									183 text (
+									184 text 4
+									185 text )
+									186 text +
+									187 text (
+									188 text 2
+									189 text )
+									190 text (
+									191 text 1
+									192 text )
+									193 text = 4 + 2 = 6
+							194 text Row 2, column 2:
+							195 container Calculation
+								196 container
+									197 text (
+									198 text 1
+									199 text )
+									200 text (
+									201 container
+										202 text − 3
+									203 text )
+									204 text +
+									205 text (
+									206 text 2
+									207 text )
+									208 text (
+									209 container
+										210 text − 4
+									211 text )
+									212 text = − 3 − 8 = − 11
+							213 text Row 2, column 3:
+							214 container Calculation
+								215 container
+									216 text (
+									217 text 1
+									218 text )
+									219 text (
+									220 text 2
+									221 text )
+									222 text +
+									223 text (
+									224 text 2
+									225 text )
+									226 text (
+									227 container
+										228 text − 3
+									229 text )
+									230 text = 2 − 6 = − 4
+							231 container
+								232 container Matrix; scroll horizontally if needed
+									233 container Matrix: 16, -10, 1; 6, -11, -4
+										234 container
+											235 text [
+											236 container
+												237 text 16
+												238 container
+													239 text − 10
+												240 text 1
+											241 container
+												242 text 6
+												243 container
+													244 text − 11
+												245 container
+													246 text − 4
+											247 text ]
+								248 text Collect the answers in their original positions.
+							249 text A + 2B: the two 2 × 3 sizes match, so scale B and add entrywise:
+							250 container Matrix; scroll horizontally if needed
+								251 container Matrix: 16, -10, 1; 6, -11, -4
+									252 container
+										253 text [
+										254 container
+											255 text 16
+											256 container
+												257 text − 10
+											258 text 1
+										259 container
+											260 text 6
+											261 container
+												262 text − 11
+											263 container
+												264 text − 4
+										265 text ]
+							266 container
+								267 container 3C - E: undefined because 3C is 2 × 2 but E is 2 × 1. CB: dimensions (2 × 2)(2 × 3) match;
+									268 text 3C - E: undefined because 3C is 2 × 2 but E is 2 × 1. CB: dimensions (2 × 2)(2 × 3) match;
+								269 container its calculation follows. EB: undefined because the one column of E does not match the two rows of B.
+									270 text its calculation follows. EB: undefined because the one column of E does not match the two rows of B.
+							271 text In this calculation, C is the left factor and B is the right factor.
+							272 heading Read C: 2 rows, 2 columns, Value: 4
+								273 text Read C: 2 rows, 2 columns
+							274 text A row runs horizontally, from left to right. A column runs vertically, from top to bottom. Count rows first when writing a size.
+							275 container
+								276 container Matrix; scroll horizontally if needed
+									277 container Matrix: 1, 2; -2, 1
+										278 container
+											279 text [
+											280 container
+												281 text 1
+												282 text 2
+											283 container
+												284 container
+													285 text − 2
+												286 text 1
+											287 text ]
+								288 text C has size 2 × 2.
+							289 heading Read B: 2 rows, 3 columns, Value: 4
+								290 text Read B: 2 rows, 3 columns
+							291 container
+								292 container Matrix; scroll horizontally if needed
+									293 container Matrix: 7, -5, 1; 1, -4, -3
+										294 container
+											295 text [
+											296 container
+												297 text 7
+												298 container
+													299 text − 5
+												300 text 1
+											301 container
+												302 text 1
+												303 container
+													304 text − 4
+												305 container
+													306 text − 3
+											307 text ]
+								308 text B has size 2 × 3.
+							309 heading Check that multiplication is allowed, Value: 4
+								310 text Check that multiplication is allowed
+							311 text (2 × 
+							312 text 2
+							313 text ) (
+							314 text 2
+							315 text  × 3) → 2 × 3
+							316 text The highlighted inner counts are both 2: every row of the left factor has one entry for every row of the right factor. The outside counts tell us the output has 2 rows and 3 columns.
+							317 heading Calculate output row 1, column 1, Value: 4
+								318 text Calculate output row 1, column 1
+							319 text Take row 1 of C and column 1 of B. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							320 container Use this highlighted row 1.
+								321 container Matrix; scroll horizontally if needed
+									322 container Matrix: 1, 2; -2, 1
+										323 container
+											324 text [
+											325 container
+												326 text 1
+												327 text 2
+											328 container
+												329 container
+													330 text − 2
+												331 text 1
+											332 text ]
+								333 text Use this highlighted row 1.
+							334 container Pair it with highlighted column 1.
+								335 container Matrix; scroll horizontally if needed
+									336 container Matrix: 7, -5, 1; 1, -4, -3
+										337 container
+											338 text [
+											339 container
+												340 text 7
+												341 container
+													342 text − 5
+												343 text 1
+											344 container
+												345 text 1
+												346 container
+													347 text − 4
+												348 container
+													349 text − 3
+											350 text ]
+								351 text Pair it with highlighted column 1.
+							352 container Calculation
+								353 container
+									354 text c
+									355 text 11
+									356 text =
+									357 text (
+									358 text 1
+									359 text )
+									360 text (
+									361 text 7
+									362 text )
+									363 text +
+									364 text (
+									365 text 2
+									366 text )
+									367 text (
+									368 text 1
+									369 text )
+									370 text = 9
+							371 container Calculation
+								372 container
+									373 text 7 + 2
+							374 container Calculation
+								375 text 9
+							376 heading Calculate output row 1, column 2, Value: 4
+								377 text Calculate output row 1, column 2
+							378 text Take row 1 of C and column 2 of B. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							379 container Use this highlighted row 1.
+								380 container Matrix; scroll horizontally if needed
+									381 container Matrix: 1, 2; -2, 1
+										382 container
+											383 text [
+											384 container
+												385 text 1
+												386 text 2
+											387 container
+												388 container
+													389 text − 2
+												390 text 1
+											391 text ]
+								392 text Use this highlighted row 1.
+							393 container Pair it with highlighted column 2.
+								394 container Matrix; scroll horizontally if needed
+									395 container Matrix: 7, -5, 1; 1, -4, -3
+										396 container
+											397 text [
+											398 container
+												399 text 7
+												400 container
+													401 text − 5
+												402 text 1
+											403 container
+												404 text 1
+												405 container
+													406 text − 4
+												407 container
+													408 text − 3
+											409 text ]
+								410 text Pair it with highlighted column 2.
+							411 container Calculation
+								412 container
+									413 text c
+									414 text 12
+									415 text =
+									416 text (
+									417 text 1
+									418 text )
+									419 text (
+									420 container
+										421 text − 5
+									422 text )
+									423 text +
+									424 text (
+									425 text 2
+									426 text )
+									427 text (
+									428 container
+										429 text − 4
+									430 text )
+									431 text = − 13
+							432 container Calculation
+								433 container
+									434 text − 5 − 8
+							435 container Calculation
+								436 container
+									437 text − 13
+							438 heading Calculate output row 1, column 3, Value: 4
+								439 text Calculate output row 1, column 3
+							440 text Take row 1 of C and column 3 of B. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							441 container Use this highlighted row 1.
+								442 container Matrix; scroll horizontally if needed
+									443 container Matrix: 1, 2; -2, 1
+										444 container
+											445 text [
+											446 container
+												447 text 1
+												448 text 2
+											449 container
+												450 container
+													451 text − 2
+												452 text 1
+											453 text ]
+								454 text Use this highlighted row 1.
+							455 container Pair it with highlighted column 3.
+								456 container Matrix; scroll horizontally if needed
+									457 container Matrix: 7, -5, 1; 1, -4, -3
+										458 container
+											459 text [
+											460 container
+												461 text 7
+												462 container
+													463 text − 5
+												464 text 1
+											465 container
+												466 text 1
+												467 container
+													468 text − 4
+												469 container
+													470 text − 3
+											471 text ]
+								472 text Pair it with highlighted column 3.
+							473 container Calculation
+								474 container
+									475 text c
+									476 text 13
+									477 text =
+									478 text (
+									479 text 1
+									480 text )
+									481 text (
+									482 text 1
+									483 text )
+									484 text +
+									485 text (
+									486 text 2
+									487 text )
+									488 text (
+									489 container
+										490 text − 3
+									491 text )
+									492 text = − 5
+							493 container Calculation
+								494 container
+									495 text 1 − 6
+							496 container Calculation
+								497 container
+									498 text − 5
+							499 heading Calculate output row 2, column 1, Value: 4
+								500 text Calculate output row 2, column 1
+							501 text Take row 2 of C and column 1 of B. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							502 container Use this highlighted row 2.
+								503 container Matrix; scroll horizontally if needed
+									504 container Matrix: 1, 2; -2, 1
+										505 container
+											506 text [
+											507 container
+												508 text 1
+												509 text 2
+											510 container
+												511 container
+													512 text − 2
+												513 text 1
+											514 text ]
+								515 text Use this highlighted row 2.
+							516 container Pair it with highlighted column 1.
+								517 container Matrix; scroll horizontally if needed
+									518 container Matrix: 7, -5, 1; 1, -4, -3
+										519 container
+											520 text [
+											521 container
+												522 text 7
+												523 container
+													524 text − 5
+												525 text 1
+											526 container
+												527 text 1
+												528 container
+													529 text − 4
+												530 container
+													531 text − 3
+											532 text ]
+								533 text Pair it with highlighted column 1.
+							534 container Calculation
+								535 container
+									536 text c
+									537 text 21
+									538 text =
+									539 text (
+									540 container
+										541 text − 2
+									542 text )
+									543 text (
+									544 text 7
+									545 text )
+									546 text +
+									547 text (
+									548 text 1
+									549 text )
+									550 text (
+									551 text 1
+									552 text )
+									553 text = − 13
+							554 container Calculation
+								555 container
+									556 text − 14 + 1
+							557 container Calculation
+								558 container
+									559 text − 13
+							560 heading Calculate output row 2, column 2, Value: 4
+								561 text Calculate output row 2, column 2
+							562 text Take row 2 of C and column 2 of B. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							563 container Use this highlighted row 2.
+								564 container Matrix; scroll horizontally if needed
+									565 container Matrix: 1, 2; -2, 1
+										566 container
+											567 text [
+											568 container
+												569 text 1
+												570 text 2
+											571 container
+												572 container
+													573 text − 2
+												574 text 1
+											575 text ]
+								576 text Use this highlighted row 2.
+							577 container Pair it with highlighted column 2.
+								578 container Matrix; scroll horizontally if needed
+									579 container Matrix: 7, -5, 1; 1, -4, -3
+										580 container
+											581 text [
+											582 container
+												583 text 7
+												584 container
+													585 text − 5
+												586 text 1
+											587 container
+												588 text 1
+												589 container
+													590 text − 4
+												591 container
+													592 text − 3
+											593 text ]
+								594 text Pair it with highlighted column 2.
+							595 container Calculation
+								596 container
+									597 text c
+									598 text 22
+									599 text =
+									600 text (
+									601 container
+										602 text − 2
+									603 text )
+									604 text (
+									605 container
+										606 text − 5
+									607 text )
+									608 text +
+									609 text (
+									610 text 1
+									611 text )
+									612 text (
+									613 container
+										614 text − 4
+									615 text )
+									616 text = 6
+							617 container Calculation
+								618 container
+									619 text 10 − 4
+							620 container Calculation
+								621 text 6
+							622 heading Calculate output row 2, column 3, Value: 4
+								623 text Calculate output row 2, column 3
+							624 text Take row 2 of C and column 3 of B. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							625 container Use this highlighted row 2.
+								626 container Matrix; scroll horizontally if needed
+									627 container Matrix: 1, 2; -2, 1
+										628 container
+											629 text [
+											630 container
+												631 text 1
+												632 text 2
+											633 container
+												634 container
+													635 text − 2
+												636 text 1
+											637 text ]
+								638 text Use this highlighted row 2.
+							639 container Pair it with highlighted column 3.
+								640 container Matrix; scroll horizontally if needed
+									641 container Matrix: 7, -5, 1; 1, -4, -3
+										642 container
+											643 text [
+											644 container
+												645 text 7
+												646 container
+													647 text − 5
+												648 text 1
+											649 container
+												650 text 1
+												651 container
+													652 text − 4
+												653 container
+													654 text − 3
+											655 text ]
+								656 text Pair it with highlighted column 3.
+							657 container Calculation
+								658 container
+									659 text c
+									660 text 23
+									661 text =
+									662 text (
+									663 container
+										664 text − 2
+									665 text )
+									666 text (
+									667 text 1
+									668 text )
+									669 text +
+									670 text (
+									671 text 1
+									672 text )
+									673 text (
+									674 container
+										675 text − 3
+									676 text )
+									677 text = − 5
+							678 container Calculation
+								679 container
+									680 text − 2 − 3
+							681 container Calculation
+								682 container
+									683 text − 5
+							684 heading Put the entries into their output positions, Value: 4
+								685 text Put the entries into their output positions
+							686 container
+								687 container Matrix; scroll horizontally if needed
+									688 container Matrix: 9, -13, -5; -13, 6, -5
+										689 container
+											690 text [
+											691 container
+												692 text 9
+												693 container
+													694 text − 13
+												695 container
+													696 text − 5
+											697 container
+												698 container
+													699 text − 13
+												700 text 6
+												701 container
+													702 text − 5
+											703 text ]
+								704 text The result has 2 rows and 3 columns.
+							705 heading Check the result one output column at a time, Value: 4
+								706 text Check the result one output column at a time
+							707 text For each output column, use the matching column of the right factor as weights on all columns of the left factor. This is the same row arithmetic grouped vertically.
+							708 container Calculation
+								709 container
+									710 text c
+									711 text 1
+									712 text =
+									713 text (
+									714 text 7
+									715 text )
+									716 text [
+									717 container
+										718 text 1
+										719 container
+											720 text − 2
+									721 text ]
+									722 text +
+									723 text (
+									724 text 1
+									725 text )
+									726 text [
+									727 container
+										728 text 2
+										729 text 1
+									730 text ]
+									731 text =
+									732 text [
+									733 container
+										734 text 9
+										735 container
+											736 text − 13
+									737 text ]
+							738 container Calculation
+								739 container
+									740 text c
+									741 text 2
+									742 text =
+									743 text (
+									744 container
+										745 text − 5
+									746 text )
+									747 text [
+									748 container
+										749 text 1
+										750 container
+											751 text − 2
+									752 text ]
+									753 text +
+									754 text (
+									755 container
+										756 text − 4
+									757 text )
+									758 text [
+									759 container
+										760 text 2
+										761 text 1
+									762 text ]
+									763 text =
+									764 text [
+									765 container
+										766 container
+											767 text − 13
+										768 text 6
+									769 text ]
+							770 container Calculation
+								771 container
+									772 text c
+									773 text 3
+									774 text =
+									775 text (
+									776 text 1
+									777 text )
+									778 text [
+									779 container
+										780 text 1
+										781 container
+											782 text − 2
+									783 text ]
+									784 text +
+									785 text (
+									786 container
+										787 text − 3
+									788 text )
+									789 text [
+									790 container
+										791 text 2
+										792 text 1
+									793 text ]
+									794 text =
+									795 text [
+									796 container
+										797 container
+											798 text − 5
+										799 container
+											800 text − 5
+									801 text ]
+							802 text FINAL ANSWER
+							803 container Calculation
+								804 container
+									805 text C B =
+									806 text [
+									807 container
+										808 text 9
+										809 container
+											810 text − 13
+										811 container
+											812 text − 5
+										813 container
+											814 text − 13
+										815 text 6
+										816 container
+											817 text − 5
+									818 text ]
+							819 text Dimensions: (2 × 2)(2 × 3) = 2 × 3.
+							820 text FINAL ANSWER
+							821 container Calculation
+								822 container
+									823 text A + 2 B =
+									824 text [
+									825 container
+										826 text 16
+										827 container
+											828 text − 10
+										829 text 1
+										830 text 6
+										831 container
+											832 text − 11
+										833 container
+											834 text − 4
+									835 text ]
+							836 text 3C − E and EB are undefined.
+							837 container Calculation
+								838 container
+									839 text C B =
+									840 text [
+									841 container
+										842 text 9
+										843 container
+											844 text − 13
+										845 container
+											846 text − 5
+										847 container
+											848 text − 13
+										849 text 6
+										850 container
+											851 text − 5
+									852 text ]
+						853 summary View the original source page 13, Value: off
+							854 text View the original source page 13
+						855 container Previous and next question
+							856 link ← PREVIOUS QUESTION 2.1.1, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.1
+							857 link NEXT QUESTION → 2.1.3, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.3
+					858 text Made for thoughtful studying  · MATH 2255
+				859 scroll bar (settable, float) 0.05716215
+	860 toolbar
+		861 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			862 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			863 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		864 container BackForwardSegmentedControl
+			865 button Description: Go back, Help: Show the previous page, ID: BackButton
+			866 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		867 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			868 button Page Menu, ID: AssistantButton
+			869 button Add page to Reading List, ID: OneStepBookmarkingButton
+			870 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/2.1.2
+			871 button Reload this page, ID: ReloadButton
+		872 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		873 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		874 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		875 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	876 close button
+	877 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	878 minimise button
+879 menu bar
+	880 Safari
+	881 File
+	882 Edit
+	883 View, ID: SafariViewMenu
+	884 History
+	885 Bookmarks, ID: SafariBookmarksMenu
+	886 Develop
+	887 Window, ID: SafariWindowMenu
+	888 Help, ID: SafariHelpMenu
+
+The focused UI element is 77 summary Show Detailed Solution −, Value: on

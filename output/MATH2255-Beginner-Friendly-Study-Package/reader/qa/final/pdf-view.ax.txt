@@ -1,0 +1,204 @@
+Window: "null/560c268b-eab0-4c9f-a8f0-1d32b948613f", App: Safari.
+0 standard window null/560c268b-eab0-4c9f-a8f0-1d32b948613f, ID: SafariWindow?IsSecure=false&UUID=605B5E66-7D8E-4CA6-8645-4223AA3C3F3F, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 unknown
+				5 Page (disabled)
+					6 container
+						7 text MATH 2255 / LINEAR ALGEBRA
+						8 text Systems, vectors & linear mappings
+						9 text Printable study reference. The supplied documents do not confirm examination permission.
+						10 text 01 Read the system, then reduce
+						11 text 05 Vectors, combinations & span
+						12 text A is m × n: m equations, n unknowns. In [A | b], the final column
+is data, not an extra unknown.
+						13 text Legal row operations: interchange two rows; multiply a row by c
+≠ 0; add c times another retained row. Apply the operation to the
+entire row, including b.
+						14 text Forward: move left to right, place a nonzero pivot, clear below;
+skip an unavailable column. Backward: normalize pivots to 1 and
+clear above.
+						15 text Add matching coordinates; a scalar multiplies every coordinate.
+cu + dv is a linear combination. Zero weights are allowed.
+						16 text Ax = b means x₁a₁ + ... + x
+n
+Solve [A | b] for the weights.
+						17 text a
+n = b, with aj the columns of A.
+						18 text b ∈ Span{a₁,...,an} ⇔ Ax = b is consistent. One nonzero direction
+spans a line; two independent directions span a plane. Every span
+contains 0.
+						19 text 06 Independence = no redundant direction
+						20 text 02 REF, RREF & pivot locations
+						21 text REF: zero rows last; leading entries move strictly right; zeros
+below every leading entry. Leading entries need not be 1.
+						22 text RREF: REF + each leading entry is 1 + each pivot 1 is alone in its
+column. RREF is unique; ordinary REF is not.
+						23 text Pivot columns: use the original column indices corresponding to
+leading 1s in RREF. A numerical pivot during elimination may
+change.
+						24 text Test: solve Ac = 0 with the vectors as columns. Only c = 0 ⇒
+independent. A solution with some cj
+≠ 0 ⇒ dependent.
+Dependence relation: c₁v₁ + ... + c
+v
+p
+p = 0 with weights not all
+zero. Rearrange a nonzero-weight term to exhibit redundancy.
+						25 text Any collection containing 0 is dependent. Two vectors are
+dependent iff one is a scalar multiple of the other. More than n
+vectors in ℝn are dependent; the converse is false.
+						26 text 07 From a rule to a standard matrix
+						27 text 03 Read the answer after elimination
+						28 text No solution: an echelon row [0 ... 0 | c], c ≠ 0. Equivalently, the
+appended column is a pivot column.
+						29 text Consistent + no free variables: one solution. Consistent + a free
+variable: infinitely many. A zero row [0 ... 0 | 0] is harmless.
+If rank(A) = r, the number of free variables is n - r. Assign a
+different real parameter to each free variable.
+						30 text Template: x = p + s₁v₁ + ... + sk vk, where Ap = b and Avj = 0.
+Homogeneous: b = 0, so p may be 0.
+						31 text Linearity: T(u + v) = T(u) + T(v) and T(cu) = cT(u), for all
+allowed u,v,c. T(0) = 0 is necessary, not sufficient.
+A = [T(e₁) ... T(en)]. Domain ℝn counts columns; codomain ℝm
+counts rows. Then T(x) = Ax.
+						32 text Composition: first S, then T gives AT AS. The rightmost action
+happens first.
+						33 text 08 Keep existence & uniqueness separate
+						34 text 04 A complete parameter example
+						35 text 1 2 -1 4
+						36 text 0 0 0 0
+						37 text For A of size m × n and T: ℝn
+						38 text →
+						39 text Onto ⇔ columns span ℝm
+for every b in the codomain.
+						40 text ⇔ pivot in every row ⇔ Ax = b solvable
+						41 text One-to-one ⇔ columns independent ⇔ pivot in every column ⇔
+Ax = 0 has only the trivial solution.
+						42 text A 3 × 5 matrix with 3 pivots is onto ℝ³, with 2 free variables. Every
+b is attainable, but no solution is unique.
+						43 text x₂ = s, x₃ = t; x₁ = 4 - 2s + t. Thus x = (4,0,0) + s(-2,1,0) + t(1,0,1),
+						44 text s,t ∈ ℝ.
+						45 text Check: (4 - 2s + t) + 2s - t = 4. The redundant second equation
+adds no restriction.
+						46 text US Letter • Print at actual size (100%) • Duplex: flip on the long edge
+						47 text Side 1 / 2
+				48 Page (disabled)
+					49 container
+						50 text MATH 2255 / LINEAR ALGEBRA
+						51 text Matrix algebra, inverses & methods
+						52 text Printable study reference. The supplied documents do not confirm examination permission.
+						53 text 09 Dimensions before arithmetic
+						54 text 13 Plane transformations: x ↦ Ax
+						55 text Addition: same dimensions; add entries. AB: (m × n)(n × p) gives
+m × p. Inner dimensions must match.
+Entry (i,j): row i of A dotted with column j of B: (AB)ij = Σ from
+k=1 to n of aikbkj.
+Example: [2,3] paired with (4,1) gives 2·4 + 3·1 = 11. Column j of
+AB is A bj.
+						56 text 10 Algebra rules & common traps
+						57 text Horizontal-axis reflection
+						58 text Vertical-axis reflection
+						59 text Reflection in x₂ = x₁
+						60 text Horizontal projection
+						61 text Valid: A(BC) = (AB)C; A(B + C) = AB + AC; (A + B)C = AC +
+BC; AI = IA = A (matching sizes).
+						62 text Generally false: AB = BA; AB = 0 ⇒ A = 0 or B = 0; AB = AC ⇒ B
+= C. Cancellation needs an invertible factor on the correct side.
+Transpose: (AT)T = A; (A + B)T = AT + BT; (cA)T = cAT; (AB)T
+=
+BT AT
+						63 text 11 Inverse: a two-sided undo operation
+						64 text Horizontal shear (factor k)
+						65 text Scale both coordinates by k
+						66 text 1 0
+0 -1
+						67 text -1 0
+0 1
+						68 text 0 1
+1 0
+						69 text 1 0
+0 0
+						70 text 1 k
+0 1
+						71 text k 0
+0 k
+						72 text cos θ -sin θ
+sin θ cos θ
+						73 text Clockwise rotation uses a negative θ. A positive scale k > 1
+stretches; 0 < k < 1 contracts. Inverse shear replaces k by -k.
+						74 text Counterclockwise rotation θ
+						75 text Only square matrices have the ordinary inverse. A-1A = AA-1 = I.
+For A = [a,b;c,d], the inverse exists iff ad - bc ≠ 0.
+						76 text 1
+						77 text A-1
+						78 text ad - bc
+						79 text d -b
+-c a
+						80 text Gauss-Jordan: reduce [A | I] to [I | A-1]. Carry every operation
+through both blocks. If A cannot reduce to I, it is singular.
+Solve: x = A-1b. Selected column j: solve Ax = ej; there is no need
+to compute all of A-1
+						81 text 12 Inverse identities (invertible factors)
+						82 text 14 Choose a method, then verify
+						83 text (AB)-1 = B-1A-1; (AT)-1 = (A-1)T; (A-1)-1 = A.
+						84 text Check an inverse: multiply with the original A in both orders. Do
+not take reciprocals of entries.
+						85 text System / span / range: form [A | b] → reduce → check consistency
+→ parameterize if needed → verify Ap = b and Avj = 0.
+Independence / one-to-one: solve Ac = 0; decide whether any
+nonzero weight vector exists.
+						86 text Onto / every b: check for a pivot in every coefficient row, not
+merely every row of [A | b].
+						87 text Proof: state assumptions → use the definition → justify each
+implication → return to the claim. For “iff”, prove both directions.
+						88 text True/false: a true universal claim needs a general reason; a false
+one needs a valid counterexample. One successful example never
+proves “for all”
+						89 text 15 Before writing the final line
+						90 text Check dimensions, signs, free parameters, assumptions, and
+factor order. State “no solution”
+,
+“one solution”, or the full
+parameterized set as the question requires.
+						91 text Source scope: sections 1.1-1.5, 1.7-1.9, 2.1-2.2. No 1.6. The lecture
+inverse typo on physical page 98 is explained in the reader.
+						92 text US Letter • Print at actual size (100%) • Duplex: flip on the long edge
+						93 text Side 2 / 2
+	94 toolbar
+		95 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			96 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			97 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		98 container BackForwardSegmentedControl
+			99 button Description: Go back, Help: Show the previous page, ID: BackButton
+			100 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		101 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			102 button Page Menu, ID: AssistantButton
+			103 button Add page to Reading List, ID: OneStepBookmarkingButton
+			104 text field (settable) Description: smart search field, Value: null/560c268b-eab0-4c9f-a8f0-1d32b948613f, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD
+			105 button Reload this page, ID: ReloadButton
+		106 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		107 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		108 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		109 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	110 tab group Description: Tab bar, 2 tabs, ID: TabBar?isSeparate=false
+		111 tab The essentials, within reach. · Study Corner, Value: off, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=false
+			112 image Description: safari, ID: FaviconImageView
+			113 text Value: The essentials, within reach. · Study Corner, ID: UnifiedTabBarButton._titleTextField
+		114 tab null/560c268b-eab0-4c9f-a8f0-1d32b948613f, Help: To interact with the items in this button, press Control-Option-Shift-Down Arrow., Value: on, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=true
+			115 image Description: safari, ID: FaviconImageView
+			116 text Value: null/560c268b-eab0-4c9f-a8f0-1d32b948613f, ID: UnifiedTabBarButton._titleTextField
+	117 close button
+	118 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	119 minimise button
+120 menu bar
+	121 Safari
+	122 File
+	123 Edit
+	124 View, ID: SafariViewMenu
+	125 History
+	126 Bookmarks, ID: SafariBookmarksMenu
+	127 Develop
+	128 Window, ID: SafariWindowMenu
+	129 Help, ID: SafariHelpMenu

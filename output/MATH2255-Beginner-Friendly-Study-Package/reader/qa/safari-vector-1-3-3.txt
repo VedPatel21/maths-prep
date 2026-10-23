@@ -1,0 +1,60 @@
+The following is a diff from the previous accessibility tree for Window: "Exercise 1.3.3 · Study Corner" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 308-356
++					359 container Exercise 1.3.3
++						360 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Cute-Study-Reader.html#home
++						361 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Cute-Study-Reader.html#practice
++						362 link Section 1.3, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Cute-Study-Reader.html#practice/section/1.3
++						363 text 1.3.3
++						364 container
++							365 text PRACTICE · SECTION 1.3
++							366 heading Exercise 1.3.3, Value: 1
++								367 text Exercise 1.3.3
++						368 text Original exercise Jump to question
++						369 pop-up button (collapsed) Jump to question, Value: 1.3.3, Secondary Actions: Expand
++						370 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Cute-Study-Reader.html#learn/section-1-3
++						371 heading Original question, Value: 2
++							372 text Original question
++						373 text Display the following vectors using arrows on an xy-graph: u, v, −v, −2v, u + v, u − v, and u − 2v. Notice that u − v is the vertex of a parallelogram whose other vertices are u, 0, and −v.
++						374 text u and v as in Exercise 1; their given values are reproduced below.
++						375 heading Given in Exercise 1.3.1, Value: 3
++							376 text Given in Exercise 1.3.1
++						377 text Compute u + v and u − 2v.
++						378 text u =
++						379 container Matrix; scroll horizontally if needed
++							380 container Matrix: -1; 2
++								381 container
++									382 text [
++									383 container
++										384 text − 1
++									385 text 2
++									386 text ]
++						387 text v =
++						388 container Matrix; scroll horizontally if needed
++							389 container Matrix: -3; 3
++								390 container
++									391 text [
++									392 container
++										393 text − 3
++									394 text 3
++									395 text ]
++						396 text Exercises_Merged.pdf · physical page 5 Result cross-checked · Combined PDF p. 106
++						397 container (expanded) Secondary Actions: Collapse
++							398 summary Show Detailed Solution −, Value: on
++								399 text Show Detailed Solution
++								400 text −
++							401 text Independently derived and cross-checked against the selected supplied solution on Combined PDF page 106.
++							402 text Draw every arrow from the origin to its endpoint: u = (-1,2), v = (-3,3), -v = (3,-3), -2v = (6,-6), u + v = (-4,5), u - v = (2,-1), and u - 2v = (5,-4). Multiplication by a negative scalar reverses the v direction. To check the parallelogram, its adjacent corners are 0,u,-v and its opposite corner is u + (-v) = (2,-1). The figure below is a coordinate sketch of these exact endpoints.
++							403 container
++								404 container Diagram; scroll horizontally on small screens
++									405 image Exact endpoints for Exercise 1.3.3: u = (−1,2), v = (−3,3), −v = (3,−3), −2v = (6,−6), u + v = (−4,5), u − v = (2,−1), u − 2v = (5,−4).
++								406 text Exact endpoints for Exercise 1.3.3: u = (−1,2), v = (−3,3), −v = (3,−3), −2v = (6,−6), u + v = (−4,5), u − v = (2,−1), u − 2v = (5,−4).
++						407 summary View the original source page 5, Value: off
++							408 text View the original source page 5
++						409 summary Compare the original question crop, Value: off
++							410 text Compare the original question crop
++						411 container Previous and next question
++							412 link ← PREVIOUS QUESTION 1.3.2, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Cute-Study-Reader.html#practice/1.3.2
++							413 link NEXT QUESTION → 1.3.4, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Cute-Study-Reader.html#practice/1.3.4
+~				358 scroll bar (settable, float) 0.41247
+~			257 button Reload this page, ID: ReloadButton
+The focused UI element is 398 summary Show Detailed Solution −, Value: on

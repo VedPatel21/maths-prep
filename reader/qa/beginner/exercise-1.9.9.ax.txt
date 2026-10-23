@@ -1,0 +1,272 @@
+Window: "Exercise 1.9.9 · Study Corner", App: Safari.
+0 standard window Exercise 1.9.9 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 1.9.9 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.9.9
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 1.9.9
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 1.9, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.9
+						60 text 1.9.9
+						61 container
+							62 text PRACTICE · SECTION 1.9
+							63 heading Exercise 1.9.9, Value: 1
+								64 text Exercise 1.9.9
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 1.9.9, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 text Assume that T is a linear transformation. Find the standard matrix of T.
+						71 container Original question crop; scroll horizontally to read on a phone
+							72 image Original statement of Exercise 1.9.9. Assume that T is a linear transformation. Find the standard matrix of T.
+						73 text Exercises_Merged.pdf · physical page 12 Independently derived teaching solution
+						74 container (expanded) Secondary Actions: Collapse
+							75 summary Show Detailed Solution −, Value: on
+								76 text Show Detailed Solution
+								77 text −
+							78 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							79 text Your task. Horizontal shear followed by reflection in the negative diagonal.
+							80 text Words used in this question
+							81 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							82 container
+								83 container The shear sends (x 1,x 2) to (x 1 - 3x 2,x 2), since e 2 becomes e 2 - 3e 1.
+									84 container
+										85 text The shear sends (
+										86 container
+											87 text x
+											88 text 1
+										89 text ,
+										90 container
+											91 text x
+											92 text 2
+										93 text ) to (
+										94 container
+											95 text x
+											96 text 1
+										97 text  - 3
+										98 container
+											99 text x
+											100 text 2
+										101 text ,
+										102 container
+											103 text x
+											104 text 2
+										105 text ), since 
+										106 container
+											107 text e
+											108 text 2
+										109 text  becomes 
+										110 container
+											111 text e
+											112 text 2
+										113 text  - 3
+										114 container
+											115 text e
+											116 text 1
+										117 text .
+								118 container Reflection in swaps and negates, giving (-x 2,-x 1 + 3x 2).
+									119 text Reflection in
+									120 container Calculation
+										121 container
+											122 text x
+											123 text 2
+											124 text = −
+											125 text x
+											126 text 1
+									127 container
+										128 text swaps and negates, giving (-
+										129 container
+											130 text x
+											131 text 2
+										132 text ,-
+										133 container
+											134 text x
+											135 text 1
+										136 text  + 3
+										137 container
+											138 text x
+											139 text 2
+										140 text ).
+								141 container Hence
+									142 text Hence
+									143 container Calculation
+										144 container
+											145 text A =
+											146 text [
+											147 container
+												148 text 0
+												149 container
+													150 text − 1
+												151 container
+													152 text − 1
+												153 text 3
+											154 text ]
+								155 container The multiplication order would be reflection matrix times shear matrix, since shear happens first.
+									156 text The multiplication order would be reflection matrix times shear matrix, since shear happens first.
+							157 text FINAL ANSWER
+							158 container
+								159 container The shear sends (x 1,x 2) to (x 1 - 3x 2,x 2), since e 2 becomes e 2 - 3e 1.
+									160 container
+										161 text The shear sends (
+										162 container
+											163 text x
+											164 text 1
+										165 text ,
+										166 container
+											167 text x
+											168 text 2
+										169 text ) to (
+										170 container
+											171 text x
+											172 text 1
+										173 text  - 3
+										174 container
+											175 text x
+											176 text 2
+										177 text ,
+										178 container
+											179 text x
+											180 text 2
+										181 text ), since 
+										182 container
+											183 text e
+											184 text 2
+										185 text  becomes 
+										186 container
+											187 text e
+											188 text 2
+										189 text  - 3
+										190 container
+											191 text e
+											192 text 1
+										193 text .
+								194 container Reflection in swaps and negates, giving (-x 2,-x 1 + 3x 2).
+									195 text Reflection in
+									196 container Calculation
+										197 container
+											198 text x
+											199 text 2
+											200 text = −
+											201 text x
+											202 text 1
+									203 container
+										204 text swaps and negates, giving (-
+										205 container
+											206 text x
+											207 text 2
+										208 text ,-
+										209 container
+											210 text x
+											211 text 1
+										212 text  + 3
+										213 container
+											214 text x
+											215 text 2
+										216 text ).
+								217 container Hence
+									218 text Hence
+									219 container Calculation
+										220 container
+											221 text A =
+											222 text [
+											223 container
+												224 text 0
+												225 container
+													226 text − 1
+												227 container
+													228 text − 1
+												229 text 3
+											230 text ]
+								231 container The multiplication order would be reflection matrix times shear matrix, since shear happens first.
+									232 text The multiplication order would be reflection matrix times shear matrix, since shear happens first.
+						233 summary View the original source page 12, Value: off
+							234 text View the original source page 12
+						235 container Previous and next question
+							236 link ← PREVIOUS QUESTION 1.9.8, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.9.8
+							237 link NEXT QUESTION → 1.9.10, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.9.10
+					238 text Made for thoughtful studying  · MATH 2255
+				239 scroll bar (settable, float) 0.0436345
+	240 toolbar
+		241 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			242 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			243 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		244 container BackForwardSegmentedControl
+			245 button Description: Go back, Help: Show the previous page, ID: BackButton
+			246 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		247 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			248 button Page Menu, ID: AssistantButton
+			249 button Add page to Reading List, ID: OneStepBookmarkingButton
+			250 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.9.9
+			251 button Reload this page, ID: ReloadButton
+		252 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		253 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		254 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		255 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	256 close button
+	257 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	258 minimise button
+259 menu bar
+	260 Safari
+	261 File
+	262 Edit
+	263 View, ID: SafariViewMenu
+	264 History
+	265 Bookmarks, ID: SafariBookmarksMenu
+	266 Develop
+	267 Window, ID: SafariWindowMenu
+	268 Help, ID: SafariHelpMenu
+
+The focused UI element is 75 summary Show Detailed Solution −, Value: on

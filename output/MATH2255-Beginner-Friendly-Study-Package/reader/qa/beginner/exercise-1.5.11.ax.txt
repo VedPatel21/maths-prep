@@ -1,0 +1,1759 @@
+Window: "Exercise 1.5.11 · Study Corner", App: Safari.
+0 standard window Exercise 1.5.11 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 1.5.11 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.5.11
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 1.5.11
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 1.5, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.5
+						60 text 1.5.11
+						61 container
+							62 text PRACTICE · SECTION 1.5
+							63 heading Exercise 1.5.11, Value: 1
+								64 text Exercise 1.5.11
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 1.5.11, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 text Describe all solutions of Ax = 0 in parametric vector form, where A is row equivalent to the given matrix. The displayed matrix is a coefficient matrix, not an augmented matrix.
+						71 container Matrix; scroll horizontally if needed
+							72 container Matrix: 1, -4, -2, 0, 3, -5; 0, 0, 1, 0, 0, -1; 0, 0, 0, 0, 1, -4; 0, 0, 0, 0, 0, 0
+								73 container
+									74 text [
+									75 container
+										76 text 1
+										77 container
+											78 text − 4
+										79 container
+											80 text − 2
+										81 text 0
+										82 text 3
+										83 container
+											84 text − 5
+									85 container
+										86 text 0
+										87 text 0
+										88 text 1
+										89 text 0
+										90 text 0
+										91 container
+											92 text − 1
+									93 container
+										94 text 0
+										95 text 0
+										96 text 0
+										97 text 0
+										98 text 1
+										99 container
+											100 text − 4
+									101 container
+										102 text 0
+										103 text 0
+										104 text 0
+										105 text 0
+										106 text 0
+										107 text 0
+									108 text ]
+						109 text Exercises_Merged.pdf · physical page 9 Independently derived teaching solution
+						110 container (expanded) Secondary Actions: Collapse
+							111 summary Show Detailed Solution −, Value: on
+								112 text Show Detailed Solution
+								113 text −
+							114 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							115 text Your task. Describe all homogeneous solutions in parametric vector form.
+							116 text The calculation below starts with 4 rows. Its 6 columns before the divider record the coefficients; the 1 column after the divider record the right-hand side.
+							117 heading Read the actual first row, Value: 4
+								118 text Read the actual first row
+							119 container Calculation
+								120 container
+									121 text (
+									122 text 1
+									123 text )
+									124 text x
+									125 text 1
+									126 text +
+									127 text (
+									128 container
+										129 text − 4
+									130 text )
+									131 text x
+									132 text 2
+									133 text +
+									134 text (
+									135 container
+										136 text − 2
+									137 text )
+									138 text x
+									139 text 3
+									140 text +
+									141 text (
+									142 text 0
+									143 text )
+									144 text x
+									145 text 4
+									146 text +
+									147 text (
+									148 text 3
+									149 text )
+									150 text x
+									151 text 5
+									152 text +
+									153 text (
+									154 container
+										155 text − 5
+									156 text )
+									157 text x
+									158 text 6
+									159 text = 0
+							160 text Words used in this question
+							161 text A coefficient is the number multiplying an unknown. A missing term has coefficient 0.
+							162 text In a row staircase, a leading entry is the first nonzero entry when reading a nonzero row from left to right. Its position is a pivot position. A pivot coefficient column determines a basic coordinate; a nonpivot coefficient column allows a free coordinate.
+							163 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							164 container
+								165 container In Exercises 7-12 the displayed source matrix is row equivalent to A, not an augmented matrix.
+									166 text In Exercises 7-12 the displayed source matrix is row equivalent to A, not an augmented matrix.
+								167 container Append a zero column to every displayed row;
+									168 text Append a zero column to every displayed row;
+								169 container every original column remains a coefficient column.
+									170 text every original column remains a coefficient column.
+							171 container
+								172 container Each coefficient column corresponds to one unknown;
+									173 text Each coefficient column corresponds to one unknown;
+								174 container the column after the vertical divider records the right-hand sides.
+									175 text the column after the vertical divider records the right-hand sides.
+								176 container We use reversible row operations to reveal the constraints.
+									177 text We use reversible row operations to reveal the constraints.
+							178 text The starting matrix is:
+							179 container Matrix; scroll horizontally if needed
+								180 container Matrix: 1, -4, -2, 0, 3, -5 | 0; 0, 0, 1, 0, 0, -1 | 0; 0, 0, 0, 0, 1, -4 | 0; 0, 0, 0, 0, 0, 0 | 0
+									181 container
+										182 text [
+										183 container
+											184 text 1
+											185 container
+												186 text − 4
+											187 container
+												188 text − 2
+											189 text 0
+											190 text 3
+											191 container
+												192 text − 5
+											193 text 0
+										194 container
+											195 text 0
+											196 text 0
+											197 text 1
+											198 text 0
+											199 text 0
+											200 container
+												201 text − 1
+											202 text 0
+										203 container
+											204 text 0
+											205 text 0
+											206 text 0
+											207 text 0
+											208 text 1
+											209 container
+												210 text − 4
+											211 text 0
+										212 container
+											213 text 0
+											214 text 0
+											215 text 0
+											216 text 0
+											217 text 0
+											218 text 0
+											219 text 0
+										220 text ]
+							221 container Mathematical walkthrough 1
+								222 text MATHEMATICAL WALKTHROUGH
+								223 heading One operation at a time, Value: 3
+									224 text One operation at a time
+								225 text Step 1 of 2 · Use the pivot row to clear a target entry
+								226 button (disabled) ← Previous Step
+								227 button Next Step →
+								228 toggle button Show All Steps, Value: off
+								229 container Row operation 1 of 2
+									230 container
+										231 text Step 1: 
+										232 container
+											233 text R
+											234 text 1
+										235 text  ← 
+										236 container
+											237 text R
+											238 text 1
+										239 text  + (-3)
+										240 container
+											241 text R
+											242 text 3
+										243 text .
+									244 text Add -3 times row 3 to row 1. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+									245 container Matrix; scroll horizontally if needed
+										246 container Matrix: 1, -4, -2, 0, 3, -5 | 0; 0, 0, 1, 0, 0, -1 | 0; 0, 0, 0, 0, 1, -4 | 0; 0, 0, 0, 0, 0, 0 | 0
+											247 container
+												248 text [
+												249 container
+													250 text 1
+													251 container
+														252 text − 4
+													253 container
+														254 text − 2
+													255 text 0
+													256 text 3
+													257 container
+														258 text − 5
+													259 text 0
+												260 container
+													261 text 0
+													262 text 0
+													263 text 1
+													264 text 0
+													265 text 0
+													266 container
+														267 text − 1
+													268 text 0
+												269 container
+													270 text 0
+													271 text 0
+													272 text 0
+													273 text 0
+													274 text 1
+													275 container
+														276 text − 4
+													277 text 0
+												278 container
+													279 text 0
+													280 text 0
+													281 text 0
+													282 text 0
+													283 text 0
+													284 text 0
+													285 text 0
+												286 text ]
+									287 text AFTER
+									288 container Matrix; scroll horizontally if needed
+										289 container Matrix: 1, -4, -2, 0, 0, 7 | 0; 0, 0, 1, 0, 0, -1 | 0; 0, 0, 0, 0, 1, -4 | 0; 0, 0, 0, 0, 0, 0 | 0
+											290 container
+												291 text [
+												292 container
+													293 text 1
+													294 container
+														295 text − 4
+													296 container
+														297 text − 2
+													298 text 0
+													299 text 0
+													300 text 7
+													301 text 0
+												302 container
+													303 text 0
+													304 text 0
+													305 text 1
+													306 text 0
+													307 text 0
+													308 container
+														309 text − 1
+													310 text 0
+												311 container
+													312 text 0
+													313 text 0
+													314 text 0
+													315 text 0
+													316 text 1
+													317 container
+														318 text − 4
+													319 text 0
+												320 container
+													321 text 0
+													322 text 0
+													323 text 0
+													324 text 0
+													325 text 0
+													326 text 0
+													327 text 0
+												328 text ]
+									329 text Lavender: affected row. Sage: pivot used.
+									330 heading Calculate every entry in the changed row, Value: 4
+										331 text Calculate every entry in the changed row
+									332 text Multiply each entry of old row 3 by -3, then add it to the matching entry of old row 1. The other row is retained.
+									333 text Row 1, column 1
+									334 container Calculation
+										335 container
+											336 text 1 +
+											337 text (
+											338 container
+												339 text − 3
+											340 text )
+											341 text (
+											342 text 0
+											343 text )
+											344 text = 1 + 0 = 1
+									345 text Row 1, column 2
+									346 container Calculation
+										347 container
+											348 text − 4 +
+											349 text (
+											350 container
+												351 text − 3
+											352 text )
+											353 text (
+											354 text 0
+											355 text )
+											356 text = − 4 + 0 = − 4
+									357 text Row 1, column 3
+									358 container Calculation
+										359 container
+											360 text − 2 +
+											361 text (
+											362 container
+												363 text − 3
+											364 text )
+											365 text (
+											366 text 0
+											367 text )
+											368 text = − 2 + 0 = − 2
+									369 text Row 1, column 4
+									370 container Calculation
+										371 container
+											372 text 0 +
+											373 text (
+											374 container
+												375 text − 3
+											376 text )
+											377 text (
+											378 text 0
+											379 text )
+											380 text = 0 + 0 = 0
+									381 text Row 1, column 5
+									382 container Calculation
+										383 container
+											384 text 3 +
+											385 text (
+											386 container
+												387 text − 3
+											388 text )
+											389 text (
+											390 text 1
+											391 text )
+											392 text = 3 − 3 = 0
+									393 text Row 1, column 6
+									394 container Calculation
+										395 container
+											396 text − 5 +
+											397 text (
+											398 container
+												399 text − 3
+											400 text )
+											401 text (
+											402 container
+												403 text − 4
+											404 text )
+											405 text = − 5 + 12 = 7
+									406 text Row 1, column 7 (right-hand side)
+									407 container Calculation
+										408 container
+											409 text 0 +
+											410 text (
+											411 container
+												412 text − 3
+											413 text )
+											414 text (
+											415 text 0
+											416 text )
+											417 text = 0 + 0 = 0
+							418 container
+								419 container Read the equations.
+									420 text Read the equations.
+									421 container Calculation
+										422 container
+											423 text x
+											424 text 1
+											425 text − 4
+											426 text x
+											427 text 2
+											428 text + 5
+											429 text x
+											430 text 6
+											431 text = 0
+								432 container Calculation
+									433 container
+										434 text x
+										435 text 3
+										436 text −
+										437 text x
+										438 text 6
+										439 text = 0
+								440 container Calculation
+									441 container
+										442 text x
+										443 text 5
+										444 text − 4
+										445 text x
+										446 text 6
+										447 text = 0
+							448 container
+								449 container The pivot columns are 1, 3, 5.
+									450 text The pivot columns are 1, 3, 5.
+								451 container Thus x 1, x 3, x 5 are basic variables. x 2, x 4, x 6 have no leading pivots.
+									452 container
+										453 text Thus 
+										454 container
+											455 text x
+											456 text 1
+										457 text , 
+										458 container
+											459 text x
+											460 text 3
+										461 text , 
+										462 container
+											463 text x
+											464 text 5
+										465 text  are basic variables. 
+										466 container
+											467 text x
+											468 text 2
+										469 text , 
+										470 container
+											471 text x
+											472 text 4
+										473 text , 
+										474 container
+											475 text x
+											476 text 6
+										477 text  have no leading pivots.
+								478 container Their values may be chosen arbitrarily;
+									479 text Their values may be chosen arbitrarily;
+								480 container the pivot equations then determine the remaining entries.
+									481 text the pivot equations then determine the remaining entries.
+								482 container A zero row means and imposes no additional restriction.
+									483 text A zero row means
+									484 container Calculation
+										485 container
+											486 text 0 = 0
+									487 text and imposes no additional restriction.
+							488 container
+								489 container Set with all parameters real.
+									490 text Set
+									491 container Calculation
+										492 container
+											493 text x
+											494 text 2
+											495 text = s ,
+											496 text x
+											497 text 4
+											498 text = t ,
+											499 text x
+											500 text 6
+											501 text = u
+									502 text with all parameters real.
+								503 container The complete coordinate answer is:
+									504 text The complete coordinate answer is:
+							505 container Equation; scroll horizontally if needed
+								506 container
+									507 text x
+									508 text 1
+									509 text = 4 s − 5 u
+							510 container Equation; scroll horizontally if needed
+								511 container
+									512 text x
+									513 text 2
+									514 text = s
+							515 container Equation; scroll horizontally if needed
+								516 container
+									517 text x
+									518 text 3
+									519 text = u
+							520 container Equation; scroll horizontally if needed
+								521 container
+									522 text x
+									523 text 4
+									524 text = t
+							525 container Equation; scroll horizontally if needed
+								526 container
+									527 text x
+									528 text 5
+									529 text = 4 u
+							530 container Equation; scroll horizontally if needed
+								531 container
+									532 text x
+									533 text 6
+									534 text = u
+							535 container
+								536 container In vector form, assemble the constant entries into p and the coefficients of each parameter into a direction vector.
+									537 text In vector form, assemble the constant entries into p and the coefficients of each parameter into a direction vector.
+								538 container Every solution is , where:
+									539 text Every solution is
+									540 container Calculation
+										541 container
+											542 text x = p + s
+											543 text v
+											544 text 1
+											545 text + t
+											546 text v
+											547 text 2
+											548 text + u
+											549 text v
+											550 text 3
+									551 text , where:
+							552 text p =
+							553 container Matrix; scroll horizontally if needed
+								554 container Matrix: 0; 0; 0; 0; 0; 0
+									555 container
+										556 text [
+										557 text 0
+										558 text 0
+										559 text 0
+										560 text 0
+										561 text 0
+										562 text 0
+										563 text ]
+							564 container
+								565 container
+									566 text v
+									567 text 1
+								568 text  =
+							569 container Matrix; scroll horizontally if needed
+								570 container Matrix: 4; 1; 0; 0; 0; 0
+									571 container
+										572 text [
+										573 text 4
+										574 text 1
+										575 text 0
+										576 text 0
+										577 text 0
+										578 text 0
+										579 text ]
+							580 container
+								581 container
+									582 text v
+									583 text 2
+								584 text  =
+							585 container Matrix; scroll horizontally if needed
+								586 container Matrix: 0; 0; 0; 1; 0; 0
+									587 container
+										588 text [
+										589 text 0
+										590 text 0
+										591 text 0
+										592 text 1
+										593 text 0
+										594 text 0
+										595 text ]
+							596 container
+								597 container
+									598 text v
+									599 text 3
+								600 text  =
+							601 container Matrix; scroll horizontally if needed
+								602 container Matrix: -5; 0; 1; 0; 4; 1
+									603 container
+										604 text [
+										605 container
+											606 text − 5
+										607 text 0
+										608 text 1
+										609 text 0
+										610 text 4
+										611 text 1
+										612 text ]
+							613 container
+								614 container For example, setting all parameters to 0 gives
+									615 text For example, setting all parameters to 0 gives
+									616 container Calculation
+										617 container
+											618 text x = p
+								619 container Setting and all other parameters to 0 gives:
+									620 text Setting
+									621 container Calculation
+										622 container
+											623 text s = 1
+									624 text and all other parameters to 0 gives:
+							625 container Matrix; scroll horizontally if needed
+								626 container Matrix: 4; 1; 0; 0; 0; 0
+									627 container
+										628 text [
+										629 text 4
+										630 text 1
+										631 text 0
+										632 text 0
+										633 text 0
+										634 text 0
+										635 text ]
+							636 text These are different because the selected free coordinate changes. Infinitely many real parameter values give infinitely many different solutions. Because p = 0, choosing a nonzero parameter gives a nontrivial homogeneous solution.
+							637 text Verification in the original equations. For p, the left-hand sides A p are:
+							638 container Matrix; scroll horizontally if needed
+								639 container Matrix: 0; 0; 0; 0
+									640 container
+										641 text [
+										642 text 0
+										643 text 0
+										644 text 0
+										645 text 0
+										646 text ]
+							647 container
+								648 container These entries equal the original right-hand sides, in order.
+									649 text These entries equal the original right-hand sides, in order.
+								650 container For direction v 1, multiplying by the original A gives the zero vector.
+									651 container
+										652 text For direction 
+										653 container
+											654 text v
+											655 text 1
+										656 text , multiplying by the original A gives the zero vector.
+								657 container For direction v 2, multiplying by the original A gives the zero vector.
+									658 container
+										659 text For direction 
+										660 container
+											661 text v
+											662 text 2
+										663 text , multiplying by the original A gives the zero vector.
+								664 container For direction v 3, multiplying by the original A gives the zero vector.
+									665 container
+										666 text For direction 
+										667 container
+											668 text v
+											669 text 3
+										670 text , multiplying by the original A gives the zero vector.
+								671 container Therefore for every parameter choice.
+									672 text Therefore
+									673 container Calculation
+										674 container
+											675 text A
+											676 text (
+											677 container
+												678 text p + s
+												679 text v
+												680 text 1
+												681 text + t
+												682 text v
+												683 text 2
+												684 text + u
+												685 text v
+												686 text 3
+											687 text )
+											688 text = A p + s A
+											689 text v
+											690 text 1
+											691 text + t A
+											692 text v
+											693 text 2
+											694 text + u A
+											695 text v
+											696 text 3
+											697 text = b
+									698 text for every parameter choice.
+								699 container Conversely, the pivot equations show that every solution has this form.
+									700 text Conversely, the pivot equations show that every solution has this form.
+							701 heading What does the reduced matrix say?, Value: 4
+								702 text What does the reduced matrix say?
+							703 container Matrix; scroll horizontally if needed
+								704 container Matrix: 1, -4, 0, 0, 0, 5 | 0; 0, 0, 1, 0, 0, -1 | 0; 0, 0, 0, 0, 1, -4 | 0; 0, 0, 0, 0, 0, 0 | 0
+									705 container
+										706 text [
+										707 container
+											708 text 1
+											709 container
+												710 text − 4
+											711 text 0
+											712 text 0
+											713 text 0
+											714 text 5
+											715 text 0
+										716 container
+											717 text 0
+											718 text 0
+											719 text 1
+											720 text 0
+											721 text 0
+											722 container
+												723 text − 1
+											724 text 0
+										725 container
+											726 text 0
+											727 text 0
+											728 text 0
+											729 text 0
+											730 text 1
+											731 container
+												732 text − 4
+											733 text 0
+										734 container
+											735 text 0
+											736 text 0
+											737 text 0
+											738 text 0
+											739 text 0
+											740 text 0
+											741 text 0
+										742 text ]
+							743 text There are 4 equations and 6 unknown weights or coordinates. The divider separates the constants from those unknowns.
+							744 heading Separate determined coordinates from free choices, Value: 4
+								745 text Separate determined coordinates from free choices
+							746 container Comparison table
+								747 table
+									748 row (selectable) Coordinate
+Look at its column
+What you may do
+									749 row (selectable)
+										750 cell (selectable) x
+1
+										751 cell (selectable) Pivot column → basic
+										752 cell (selectable) Determined by its pivot equation
+									753 row (selectable)
+										754 cell (selectable) x
+2
+										755 cell (selectable) No pivot → free
+										756 cell (selectable) Choose an arbitrary real parameter
+									757 row (selectable)
+										758 cell (selectable) x
+3
+										759 cell (selectable) Pivot column → basic
+										760 cell (selectable) Determined by its pivot equation
+									761 row (selectable)
+										762 cell (selectable) x
+4
+										763 cell (selectable) No pivot → free
+										764 cell (selectable) Choose an arbitrary real parameter
+									765 row (selectable)
+										766 cell (selectable) x
+5
+										767 cell (selectable) Pivot column → basic
+										768 cell (selectable) Determined by its pivot equation
+									769 row (selectable)
+										770 cell (selectable) x
+6
+										771 cell (selectable) No pivot → free
+										772 cell (selectable) Choose an arbitrary real parameter
+							773 heading Determine x1 from its row, Value: 4
+								774 text Determine x1 from its row
+							775 container Calculation
+								776 container
+									777 text x
+									778 text 1
+									779 text +
+									780 text (
+									781 container
+										782 text − 4
+									783 text )
+									784 text x
+									785 text 2
+									786 text +
+									787 text (
+									788 text 5
+									789 text )
+									790 text x
+									791 text 6
+									792 text = 0
+							793 container Calculation
+								794 container
+									795 text x
+									796 text 2
+									797 text = s
+							798 container Calculation
+								799 container
+									800 text x
+									801 text 4
+									802 text = t
+							803 container Calculation
+								804 container
+									805 text x
+									806 text 6
+									807 text = u
+							808 container Calculation
+								809 container
+									810 text x
+									811 text 1
+									812 text = 0 +
+									813 text (
+									814 text 4
+									815 text )
+									816 text s +
+									817 text (
+									818 container
+										819 text − 5
+									820 text )
+									821 text u
+							822 text Subtract each free-variable term from both sides. The pivot coefficient is 1, so no further division is needed.
+							823 heading Determine x3 from its row, Value: 4
+								824 text Determine x3 from its row
+							825 container Calculation
+								826 container
+									827 text x
+									828 text 3
+									829 text +
+									830 text (
+									831 container
+										832 text − 1
+									833 text )
+									834 text x
+									835 text 6
+									836 text = 0
+							837 container Calculation
+								838 container
+									839 text x
+									840 text 2
+									841 text = s
+							842 container Calculation
+								843 container
+									844 text x
+									845 text 4
+									846 text = t
+							847 container Calculation
+								848 container
+									849 text x
+									850 text 6
+									851 text = u
+							852 container Calculation
+								853 container
+									854 text x
+									855 text 3
+									856 text = 0 +
+									857 text (
+									858 text 1
+									859 text )
+									860 text u
+							861 text Subtract each free-variable term from both sides. The pivot coefficient is 1, so no further division is needed.
+							862 heading Determine x5 from its row, Value: 4
+								863 text Determine x5 from its row
+							864 container Calculation
+								865 container
+									866 text x
+									867 text 5
+									868 text +
+									869 text (
+									870 container
+										871 text − 4
+									872 text )
+									873 text x
+									874 text 6
+									875 text = 0
+							876 container Calculation
+								877 container
+									878 text x
+									879 text 2
+									880 text = s
+							881 container Calculation
+								882 container
+									883 text x
+									884 text 4
+									885 text = t
+							886 container Calculation
+								887 container
+									888 text x
+									889 text 6
+									890 text = u
+							891 container Calculation
+								892 container
+									893 text x
+									894 text 5
+									895 text = 0 +
+									896 text (
+									897 text 4
+									898 text )
+									899 text u
+							900 text Subtract each free-variable term from both sides. The pivot coefficient is 1, so no further division is needed.
+							901 heading See the freedom with actual choices, Value: 4
+								902 text See the freedom with actual choices
+							903 container Comparison table
+								904 table
+									905 row (selectable) Independent choice
+Resulting solution
+									906 row (selectable)
+										907 cell (selectable) All parameters 0
+										908 cell (selectable) (0,0,0,0,0,0)
+									909 row (selectable)
+										910 cell (selectable) s = 1; all other parameters 0
+										911 cell (selectable) (4,1,0,0,0,0)
+									912 row (selectable)
+										913 cell (selectable) t = 1; all other parameters 0
+										914 cell (selectable) (0,0,0,1,0,0)
+									915 row (selectable)
+										916 cell (selectable) u = 1; all other parameters 0
+										917 cell (selectable) (-5,0,1,0,4,1)
+							918 text Changing a free coordinate changes the input. Each parameter is independent; forcing two parameters to have the same value would wrongly discard solutions.
+							919 heading Verify the starting point in every original equation, Value: 4
+								920 text Verify the starting point in every original equation
+							921 container Calculation
+								922 text Scroll ↔
+								923 container
+									924 text (
+									925 text 1
+									926 text )
+									927 text (
+									928 text 0
+									929 text )
+									930 text +
+									931 text (
+									932 container
+										933 text − 4
+									934 text )
+									935 text (
+									936 text 0
+									937 text )
+									938 text +
+									939 text (
+									940 container
+										941 text − 2
+									942 text )
+									943 text (
+									944 text 0
+									945 text )
+									946 text +
+									947 text (
+									948 text 0
+									949 text )
+									950 text (
+									951 text 0
+									952 text )
+									953 text +
+									954 text (
+									955 text 3
+									956 text )
+									957 text (
+									958 text 0
+									959 text )
+									960 text +
+									961 text (
+									962 container
+										963 text − 5
+									964 text )
+									965 text (
+									966 text 0
+									967 text )
+									968 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							969 container Calculation
+								970 container
+									971 text (
+									972 text 0
+									973 text )
+									974 text (
+									975 text 0
+									976 text )
+									977 text +
+									978 text (
+									979 text 0
+									980 text )
+									981 text (
+									982 text 0
+									983 text )
+									984 text +
+									985 text (
+									986 text 1
+									987 text )
+									988 text (
+									989 text 0
+									990 text )
+									991 text +
+									992 text (
+									993 text 0
+									994 text )
+									995 text (
+									996 text 0
+									997 text )
+									998 text +
+									999 text (
+									1000 text 0
+									1001 text )
+									1002 text (
+									1003 text 0
+									1004 text )
+									1005 text +
+									1006 text (
+									1007 container
+										1008 text − 1
+									1009 text )
+									1010 text (
+									1011 text 0
+									1012 text )
+									1013 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1014 container Calculation
+								1015 container
+									1016 text (
+									1017 text 0
+									1018 text )
+									1019 text (
+									1020 text 0
+									1021 text )
+									1022 text +
+									1023 text (
+									1024 text 0
+									1025 text )
+									1026 text (
+									1027 text 0
+									1028 text )
+									1029 text +
+									1030 text (
+									1031 text 0
+									1032 text )
+									1033 text (
+									1034 text 0
+									1035 text )
+									1036 text +
+									1037 text (
+									1038 text 0
+									1039 text )
+									1040 text (
+									1041 text 0
+									1042 text )
+									1043 text +
+									1044 text (
+									1045 text 1
+									1046 text )
+									1047 text (
+									1048 text 0
+									1049 text )
+									1050 text +
+									1051 text (
+									1052 container
+										1053 text − 4
+									1054 text )
+									1055 text (
+									1056 text 0
+									1057 text )
+									1058 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1059 container Calculation
+								1060 container
+									1061 text (
+									1062 text 0
+									1063 text )
+									1064 text (
+									1065 text 0
+									1066 text )
+									1067 text +
+									1068 text (
+									1069 text 0
+									1070 text )
+									1071 text (
+									1072 text 0
+									1073 text )
+									1074 text +
+									1075 text (
+									1076 text 0
+									1077 text )
+									1078 text (
+									1079 text 0
+									1080 text )
+									1081 text +
+									1082 text (
+									1083 text 0
+									1084 text )
+									1085 text (
+									1086 text 0
+									1087 text )
+									1088 text +
+									1089 text (
+									1090 text 0
+									1091 text )
+									1092 text (
+									1093 text 0
+									1094 text )
+									1095 text +
+									1096 text (
+									1097 text 0
+									1098 text )
+									1099 text (
+									1100 text 0
+									1101 text )
+									1102 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1103 heading Verify the s direction produces zero, Value: 4
+								1104 text Verify the s direction produces zero
+							1105 container Calculation
+								1106 text Scroll ↔
+								1107 container
+									1108 text (
+									1109 text 1
+									1110 text )
+									1111 text (
+									1112 text 4
+									1113 text )
+									1114 text +
+									1115 text (
+									1116 container
+										1117 text − 4
+									1118 text )
+									1119 text (
+									1120 text 1
+									1121 text )
+									1122 text +
+									1123 text (
+									1124 container
+										1125 text − 2
+									1126 text )
+									1127 text (
+									1128 text 0
+									1129 text )
+									1130 text +
+									1131 text (
+									1132 text 0
+									1133 text )
+									1134 text (
+									1135 text 0
+									1136 text )
+									1137 text +
+									1138 text (
+									1139 text 3
+									1140 text )
+									1141 text (
+									1142 text 0
+									1143 text )
+									1144 text +
+									1145 text (
+									1146 container
+										1147 text − 5
+									1148 text )
+									1149 text (
+									1150 text 0
+									1151 text )
+									1152 text = 4 − 4 + 0 + 0 + 0 + 0 = 0
+							1153 container Calculation
+								1154 container
+									1155 text (
+									1156 text 0
+									1157 text )
+									1158 text (
+									1159 text 4
+									1160 text )
+									1161 text +
+									1162 text (
+									1163 text 0
+									1164 text )
+									1165 text (
+									1166 text 1
+									1167 text )
+									1168 text +
+									1169 text (
+									1170 text 1
+									1171 text )
+									1172 text (
+									1173 text 0
+									1174 text )
+									1175 text +
+									1176 text (
+									1177 text 0
+									1178 text )
+									1179 text (
+									1180 text 0
+									1181 text )
+									1182 text +
+									1183 text (
+									1184 text 0
+									1185 text )
+									1186 text (
+									1187 text 0
+									1188 text )
+									1189 text +
+									1190 text (
+									1191 container
+										1192 text − 1
+									1193 text )
+									1194 text (
+									1195 text 0
+									1196 text )
+									1197 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1198 container Calculation
+								1199 container
+									1200 text (
+									1201 text 0
+									1202 text )
+									1203 text (
+									1204 text 4
+									1205 text )
+									1206 text +
+									1207 text (
+									1208 text 0
+									1209 text )
+									1210 text (
+									1211 text 1
+									1212 text )
+									1213 text +
+									1214 text (
+									1215 text 0
+									1216 text )
+									1217 text (
+									1218 text 0
+									1219 text )
+									1220 text +
+									1221 text (
+									1222 text 0
+									1223 text )
+									1224 text (
+									1225 text 0
+									1226 text )
+									1227 text +
+									1228 text (
+									1229 text 1
+									1230 text )
+									1231 text (
+									1232 text 0
+									1233 text )
+									1234 text +
+									1235 text (
+									1236 container
+										1237 text − 4
+									1238 text )
+									1239 text (
+									1240 text 0
+									1241 text )
+									1242 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1243 container Calculation
+								1244 container
+									1245 text (
+									1246 text 0
+									1247 text )
+									1248 text (
+									1249 text 4
+									1250 text )
+									1251 text +
+									1252 text (
+									1253 text 0
+									1254 text )
+									1255 text (
+									1256 text 1
+									1257 text )
+									1258 text +
+									1259 text (
+									1260 text 0
+									1261 text )
+									1262 text (
+									1263 text 0
+									1264 text )
+									1265 text +
+									1266 text (
+									1267 text 0
+									1268 text )
+									1269 text (
+									1270 text 0
+									1271 text )
+									1272 text +
+									1273 text (
+									1274 text 0
+									1275 text )
+									1276 text (
+									1277 text 0
+									1278 text )
+									1279 text +
+									1280 text (
+									1281 text 0
+									1282 text )
+									1283 text (
+									1284 text 0
+									1285 text )
+									1286 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1287 heading Verify the t direction produces zero, Value: 4
+								1288 text Verify the t direction produces zero
+							1289 container Calculation
+								1290 text Scroll ↔
+								1291 container
+									1292 text (
+									1293 text 1
+									1294 text )
+									1295 text (
+									1296 text 0
+									1297 text )
+									1298 text +
+									1299 text (
+									1300 container
+										1301 text − 4
+									1302 text )
+									1303 text (
+									1304 text 0
+									1305 text )
+									1306 text +
+									1307 text (
+									1308 container
+										1309 text − 2
+									1310 text )
+									1311 text (
+									1312 text 0
+									1313 text )
+									1314 text +
+									1315 text (
+									1316 text 0
+									1317 text )
+									1318 text (
+									1319 text 1
+									1320 text )
+									1321 text +
+									1322 text (
+									1323 text 3
+									1324 text )
+									1325 text (
+									1326 text 0
+									1327 text )
+									1328 text +
+									1329 text (
+									1330 container
+										1331 text − 5
+									1332 text )
+									1333 text (
+									1334 text 0
+									1335 text )
+									1336 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1337 container Calculation
+								1338 container
+									1339 text (
+									1340 text 0
+									1341 text )
+									1342 text (
+									1343 text 0
+									1344 text )
+									1345 text +
+									1346 text (
+									1347 text 0
+									1348 text )
+									1349 text (
+									1350 text 0
+									1351 text )
+									1352 text +
+									1353 text (
+									1354 text 1
+									1355 text )
+									1356 text (
+									1357 text 0
+									1358 text )
+									1359 text +
+									1360 text (
+									1361 text 0
+									1362 text )
+									1363 text (
+									1364 text 1
+									1365 text )
+									1366 text +
+									1367 text (
+									1368 text 0
+									1369 text )
+									1370 text (
+									1371 text 0
+									1372 text )
+									1373 text +
+									1374 text (
+									1375 container
+										1376 text − 1
+									1377 text )
+									1378 text (
+									1379 text 0
+									1380 text )
+									1381 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1382 container Calculation
+								1383 container
+									1384 text (
+									1385 text 0
+									1386 text )
+									1387 text (
+									1388 text 0
+									1389 text )
+									1390 text +
+									1391 text (
+									1392 text 0
+									1393 text )
+									1394 text (
+									1395 text 0
+									1396 text )
+									1397 text +
+									1398 text (
+									1399 text 0
+									1400 text )
+									1401 text (
+									1402 text 0
+									1403 text )
+									1404 text +
+									1405 text (
+									1406 text 0
+									1407 text )
+									1408 text (
+									1409 text 1
+									1410 text )
+									1411 text +
+									1412 text (
+									1413 text 1
+									1414 text )
+									1415 text (
+									1416 text 0
+									1417 text )
+									1418 text +
+									1419 text (
+									1420 container
+										1421 text − 4
+									1422 text )
+									1423 text (
+									1424 text 0
+									1425 text )
+									1426 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1427 container Calculation
+								1428 container
+									1429 text (
+									1430 text 0
+									1431 text )
+									1432 text (
+									1433 text 0
+									1434 text )
+									1435 text +
+									1436 text (
+									1437 text 0
+									1438 text )
+									1439 text (
+									1440 text 0
+									1441 text )
+									1442 text +
+									1443 text (
+									1444 text 0
+									1445 text )
+									1446 text (
+									1447 text 0
+									1448 text )
+									1449 text +
+									1450 text (
+									1451 text 0
+									1452 text )
+									1453 text (
+									1454 text 1
+									1455 text )
+									1456 text +
+									1457 text (
+									1458 text 0
+									1459 text )
+									1460 text (
+									1461 text 0
+									1462 text )
+									1463 text +
+									1464 text (
+									1465 text 0
+									1466 text )
+									1467 text (
+									1468 text 0
+									1469 text )
+									1470 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1471 heading Verify the u direction produces zero, Value: 4
+								1472 text Verify the u direction produces zero
+							1473 container Calculation
+								1474 text Scroll ↔
+								1475 container
+									1476 text (
+									1477 text 1
+									1478 text )
+									1479 text (
+									1480 container
+										1481 text − 5
+									1482 text )
+									1483 text +
+									1484 text (
+									1485 container
+										1486 text − 4
+									1487 text )
+									1488 text (
+									1489 text 0
+									1490 text )
+									1491 text +
+									1492 text (
+									1493 container
+										1494 text − 2
+									1495 text )
+									1496 text (
+									1497 text 1
+									1498 text )
+									1499 text +
+									1500 text (
+									1501 text 0
+									1502 text )
+									1503 text (
+									1504 text 0
+									1505 text )
+									1506 text +
+									1507 text (
+									1508 text 3
+									1509 text )
+									1510 text (
+									1511 text 4
+									1512 text )
+									1513 text +
+									1514 text (
+									1515 container
+										1516 text − 5
+									1517 text )
+									1518 text (
+									1519 text 1
+									1520 text )
+									1521 text = − 5 + 0 − 2 + 0 + 12 − 5 = 0
+							1522 container Calculation
+								1523 text Scroll ↔
+								1524 container
+									1525 text (
+									1526 text 0
+									1527 text )
+									1528 text (
+									1529 container
+										1530 text − 5
+									1531 text )
+									1532 text +
+									1533 text (
+									1534 text 0
+									1535 text )
+									1536 text (
+									1537 text 0
+									1538 text )
+									1539 text +
+									1540 text (
+									1541 text 1
+									1542 text )
+									1543 text (
+									1544 text 1
+									1545 text )
+									1546 text +
+									1547 text (
+									1548 text 0
+									1549 text )
+									1550 text (
+									1551 text 0
+									1552 text )
+									1553 text +
+									1554 text (
+									1555 text 0
+									1556 text )
+									1557 text (
+									1558 text 4
+									1559 text )
+									1560 text +
+									1561 text (
+									1562 container
+										1563 text − 1
+									1564 text )
+									1565 text (
+									1566 text 1
+									1567 text )
+									1568 text = 0 + 0 + 1 + 0 + 0 − 1 = 0
+							1569 container Calculation
+								1570 text Scroll ↔
+								1571 container
+									1572 text (
+									1573 text 0
+									1574 text )
+									1575 text (
+									1576 container
+										1577 text − 5
+									1578 text )
+									1579 text +
+									1580 text (
+									1581 text 0
+									1582 text )
+									1583 text (
+									1584 text 0
+									1585 text )
+									1586 text +
+									1587 text (
+									1588 text 0
+									1589 text )
+									1590 text (
+									1591 text 1
+									1592 text )
+									1593 text +
+									1594 text (
+									1595 text 0
+									1596 text )
+									1597 text (
+									1598 text 0
+									1599 text )
+									1600 text +
+									1601 text (
+									1602 text 1
+									1603 text )
+									1604 text (
+									1605 text 4
+									1606 text )
+									1607 text +
+									1608 text (
+									1609 container
+										1610 text − 4
+									1611 text )
+									1612 text (
+									1613 text 1
+									1614 text )
+									1615 text = 0 + 0 + 0 + 0 + 4 − 4 = 0
+							1616 container Calculation
+								1617 container
+									1618 text (
+									1619 text 0
+									1620 text )
+									1621 text (
+									1622 container
+										1623 text − 5
+									1624 text )
+									1625 text +
+									1626 text (
+									1627 text 0
+									1628 text )
+									1629 text (
+									1630 text 0
+									1631 text )
+									1632 text +
+									1633 text (
+									1634 text 0
+									1635 text )
+									1636 text (
+									1637 text 1
+									1638 text )
+									1639 text +
+									1640 text (
+									1641 text 0
+									1642 text )
+									1643 text (
+									1644 text 0
+									1645 text )
+									1646 text +
+									1647 text (
+									1648 text 0
+									1649 text )
+									1650 text (
+									1651 text 4
+									1652 text )
+									1653 text +
+									1654 text (
+									1655 text 0
+									1656 text )
+									1657 text (
+									1658 text 1
+									1659 text )
+									1660 text = 0 + 0 + 0 + 0 + 0 + 0 = 0
+							1661 heading Why this is the whole solution set, Value: 4
+								1662 text Why this is the whole solution set
+							1663 text A times the starting point gives the original right side. A times every direction gives zero. Therefore every parameter choice still gives that right side. Conversely, the pivot equations force exactly these coordinates, so no solution is missing.
+							1664 text FINAL ANSWER
+							1665 container Calculation
+								1666 container
+									1667 text x =
+									1668 text [
+									1669 container
+										1670 text 0
+										1671 text 0
+										1672 text 0
+										1673 text 0
+										1674 text 0
+										1675 text 0
+									1676 text ]
+									1677 text + s
+									1678 text [
+									1679 container
+										1680 text 4
+										1681 text 1
+										1682 text 0
+										1683 text 0
+										1684 text 0
+										1685 text 0
+									1686 text ]
+									1687 text + t
+									1688 text [
+									1689 container
+										1690 text 0
+										1691 text 0
+										1692 text 0
+										1693 text 1
+										1694 text 0
+										1695 text 0
+									1696 text ]
+									1697 text + u
+									1698 text [
+									1699 container
+										1700 container
+											1701 text − 5
+										1702 text 0
+										1703 text 1
+										1704 text 0
+										1705 text 4
+										1706 text 1
+									1707 text ]
+							1708 text All displayed parameters are arbitrary real numbers.
+						1709 summary View the original source page 9, Value: off
+							1710 text View the original source page 9
+						1711 summary Compare the original question crop, Value: off
+							1712 text Compare the original question crop
+						1713 container Previous and next question
+							1714 link ← PREVIOUS QUESTION 1.5.10, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.5.10
+							1715 link NEXT QUESTION → 1.5.12, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.5.12
+					1716 text Made for thoughtful studying  · MATH 2255
+				1717 scroll bar (settable, float) 0.008124627
+	1718 toolbar
+		1719 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			1720 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			1721 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		1722 container BackForwardSegmentedControl
+			1723 button Description: Go back, Help: Show the previous page, ID: BackButton
+			1724 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		1725 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			1726 button Page Menu, ID: AssistantButton
+			1727 button Add page to Reading List, ID: OneStepBookmarkingButton
+			1728 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.5.11
+			1729 button Reload this page, ID: ReloadButton
+		1730 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		1731 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		1732 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		1733 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	1734 close button
+	1735 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	1736 minimise button
+1737 menu bar
+	1738 Safari
+	1739 File
+	1740 Edit
+	1741 View, ID: SafariViewMenu
+	1742 History
+	1743 Bookmarks, ID: SafariBookmarksMenu
+	1744 Develop
+	1745 Window, ID: SafariWindowMenu
+	1746 Help, ID: SafariHelpMenu
+
+The focused UI element is 111 summary Show Detailed Solution −, Value: on

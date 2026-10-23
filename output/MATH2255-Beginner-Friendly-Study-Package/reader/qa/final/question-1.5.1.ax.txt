@@ -1,0 +1,407 @@
+Window: "Exercise 1.5.1 · Study Corner", App: Safari.
+0 standard window Exercise 1.5.1 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=605B5E66-7D8E-4CA6-8645-4223AA3C3F3F, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 pop-up button Description: Viewport Size, Value: Custom size, ID: ViewportPresetButton
+			5 toggle button Description: Rotate Left, Help: Rotate viewport, Value: off
+			6 text field (settable) Description: Width, Value: 1440
+			7 text ×
+			8 text field (settable) Description: Height, Value: 812
+			9 text Description: Zoom Level, Value: ( 82% )
+			10 pop-up button Description: Pixel Ratio, Value: 2x
+			11 menu button Open with Simulator, ID: OpenWithSimulatorButton
+			12 scroll area
+				13 HTML content Description: Exercise 1.5.1 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/1.5.1
+					14 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reading
+					15 container
+						16 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						17 container Main navigation
+							18 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							19 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice
+							20 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+							21 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+					22 container Study navigation
+						23 text YOUR MATH NOTEBOOK
+						24 text MATH 2255 · Linear Algebra
+						25 container
+							26 text Find a topic or exercise
+							27 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								28 text Try “2.2.39” or “span”
+							29 button Search
+						30 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+						31 container Chapters
+							32 heading GETTING STARTED, Value: 2
+								33 text GETTING STARTED
+							34 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/about
+							35 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/how-to
+							36 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							37 heading LINEAR EQUATIONS, Value: 2
+								38 text LINEAR EQUATIONS
+							39 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-1
+							40 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+							41 heading VECTORS & MATRICES, Value: 2
+								42 text VECTORS & MATRICES
+							43 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-3
+							44 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-4
+							45 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-5
+							46 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								47 text INDEPENDENCE & TRANSFORMATIONS
+							48 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-7
+							49 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-8
+							50 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-9
+							51 heading MATRIX ALGEBRA, Value: 2
+								52 text MATRIX ALGEBRA
+							53 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-1
+							54 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-2
+							55 heading ADDITIONAL LEARNING, Value: 2
+								56 text ADDITIONAL LEARNING
+							57 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/proofs
+							58 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/practice-answers
+							59 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/reference
+							60 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						61 text A little clarity, one concept at a time.
+						62 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						63 text Available entirely offline
+					64 container Exercise 1.5.1
+						65 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						66 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice
+						67 link Section 1.5, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/section/1.5
+						68 text 1.5.1
+						69 container
+							70 text PRACTICE · SECTION 1.5
+							71 heading Exercise 1.5.1, Value: 1
+								72 text Exercise 1.5.1
+						73 text Original exercise Jump to question
+						74 pop-up button (collapsed) Jump to question, Value: 1.5.1, Secondary Actions: Expand
+						75 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-5
+						76 heading Original question, Value: 2
+							77 text Original question
+						78 text Determine if the system has a nontrivial solution. Try to use as few row operations as possible.
+						79 container Equation; scroll horizontally if needed
+							80 container
+								81 text 2
+								82 text x
+								83 text 1
+								84 text − 5
+								85 text x
+								86 text 2
+								87 text + 8
+								88 text x
+								89 text 3
+								90 text = 0
+						91 container Equation; scroll horizontally if needed
+							92 container
+								93 text − 2
+								94 text x
+								95 text 1
+								96 text − 7
+								97 text x
+								98 text 2
+								99 text +
+								100 text x
+								101 text 3
+								102 text = 0
+						103 container Equation; scroll horizontally if needed
+							104 container
+								105 text 4
+								106 text x
+								107 text 1
+								108 text + 2
+								109 text x
+								110 text 2
+								111 text + 7
+								112 text x
+								113 text 3
+								114 text = 0
+						115 text Exercises_Merged.pdf · physical page 9 Independently derived teaching solution
+						116 container (expanded) Secondary Actions: Collapse
+							117 summary Show Detailed Solution −, Value: on
+								118 text Show Detailed Solution
+								119 text −
+							120 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							121 text WHAT IS BEING ASKED?
+							122 text Does a nontrivial homogeneous solution exist?. Find all inputs that satisfy every equation.
+							123 text Important concept
+							124 text Reversible row operations preserve the same solution set.
+							125 content list
+								126 container 1 Record [A | b] →
+								127 container 2 Reduce and check consistency →
+								128 container 3 Identify basic/free variables →
+								129 container 4 Describe every solution and verify it
+							130 heading Let’s solve it, Value: 3
+								131 text Let’s solve it
+							132 text The all-zero input is always a solution. Nontrivial solutions exist precisely when a coefficient variable is free. Although a partial forward reduction often suffices, the full reduction here makes the distinction and verification explicit.
+							133 text Each coefficient column corresponds to one unknown; the column after the vertical divider records the right-hand sides. We use reversible row operations to reveal the constraints.
+							134 text The starting matrix is:
+							135 container Matrix; scroll horizontally if needed
+								136 container Matrix: 2, -5, 8 | 0; -2, -7, 1 | 0; 4, 2, 7 | 0
+									137 container
+										138 text [
+										139 container
+											140 text 2
+											141 container
+												142 text − 5
+											143 text 8
+											144 text 0
+										145 container
+											146 container
+												147 text − 2
+											148 container
+												149 text − 7
+											150 text 1
+											151 text 0
+										152 container
+											153 text 4
+											154 text 2
+											155 text 7
+											156 text 0
+										157 text ]
+							158 container Mathematical walkthrough 1
+								159 text MATHEMATICAL WALKTHROUGH
+								160 heading One operation at a time, Value: 3
+									161 text One operation at a time
+								162 text Step 1 of 6 · Scale the pivot row so its leading entry becomes 1
+								163 button (disabled) ← Previous Step
+								164 button Next Step →
+								165 toggle button Show All Steps, Value: off
+								166 container Row operation 1 of 6
+									167 container
+										168 text Step 1: 
+										169 container
+											170 text R
+											171 text 1
+										172 text  ← (
+										173 container
+											174 text 1 2
+										175 text )
+										176 container
+											177 text R
+											178 text 1
+										179 text .
+									180 text Multiply every entry of row 1, including any right-hand side, by 
+									181 container
+										182 text 1 2
+									183 text . The pivot becomes 1; the multiplier is nonzero, so this step is reversible. BEFORE
+									184 container Matrix; scroll horizontally if needed
+										185 container Matrix: 2, -5, 8 | 0; -2, -7, 1 | 0; 4, 2, 7 | 0
+											186 container
+												187 text [
+												188 container
+													189 text 2
+													190 container
+														191 text − 5
+													192 text 8
+													193 text 0
+												194 container
+													195 container
+														196 text − 2
+													197 container
+														198 text − 7
+													199 text 1
+													200 text 0
+												201 container
+													202 text 4
+													203 text 2
+													204 text 7
+													205 text 0
+												206 text ]
+									207 text AFTER
+									208 container Matrix; scroll horizontally if needed
+										209 container Matrix: 1, -5/2, 4 | 0; -2, -7, 1 | 0; 4, 2, 7 | 0
+											210 container
+												211 text [
+												212 container
+													213 text 1
+													214 container
+														215 text −
+														216 text 5
+														217 text 2
+													218 text 4
+													219 text 0
+												220 container
+													221 container
+														222 text − 2
+													223 container
+														224 text − 7
+													225 text 1
+													226 text 0
+												227 container
+													228 text 4
+													229 text 2
+													230 text 7
+													231 text 0
+												232 text ]
+									233 text Lavender: affected row. Sage: pivot used.
+							234 container
+								235 text Read the equations. 
+								236 container
+									237 text x
+									238 text 1
+								239 text  + 
+								240 container
+									241 text 17 8
+								242 container
+									243 text x
+									244 text 3
+								245 text  = 0; 
+								246 container
+									247 text x
+									248 text 2
+								249 text  - 
+								250 container
+									251 text 3 4
+								252 container
+									253 text x
+									254 text 3
+								255 text  = 0
+							256 container
+								257 text The pivot columns are 1, 2. Thus 
+								258 container
+									259 text x
+									260 text 1
+								261 text , 
+								262 container
+									263 text x
+									264 text 2
+								265 text  are basic variables. 
+								266 container
+									267 text x
+									268 text 3
+								269 text  have no leading pivots. Their values may be chosen arbitrarily; the pivot equations then determine the remaining entries. A zero row means 0 = 0 and imposes no additional restriction.
+							270 container
+								271 text Set 
+								272 container
+									273 text x
+									274 text 3
+								275 text  = s with all parameters real. The complete coordinate answer is:
+							276 container Equation; scroll horizontally if needed
+								277 container
+									278 text x
+									279 text 1
+									280 text = −
+									281 text 17
+									282 text 8
+									283 text s
+							284 container Equation; scroll horizontally if needed
+								285 container
+									286 text x
+									287 text 2
+									288 text =
+									289 text 3
+									290 text 4
+									291 text s
+							292 container Equation; scroll horizontally if needed
+								293 container
+									294 text x
+									295 text 3
+									296 text = s
+							297 container
+								298 text In vector form, assemble the constant entries into p and the coefficients of each parameter into a direction vector. Every solution is x = p + s 
+								299 container
+									300 text v
+									301 text 1
+								302 text , where:
+							303 text p =
+							304 container Matrix; scroll horizontally if needed
+								305 container Matrix: 0; 0; 0
+									306 container
+										307 text [
+										308 text 0
+										309 text 0
+										310 text 0
+										311 text ]
+							312 container
+								313 container
+									314 text v
+									315 text 1
+								316 text  =
+							317 container Matrix; scroll horizontally if needed
+								318 container Matrix: -17/8; 3/4; 1
+									319 container
+										320 text [
+										321 container
+											322 text −
+											323 text 17
+											324 text 8
+										325 container
+											326 text 3 4
+										327 text 1
+										328 text ]
+							329 text For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other parameters to 0 gives:
+							330 container Matrix; scroll horizontally if needed
+								331 container Matrix: -17/8; 3/4; 1
+									332 container
+										333 text [
+										334 container
+											335 text −
+											336 text 17
+											337 text 8
+										338 container
+											339 text 3 4
+										340 text 1
+										341 text ]
+							342 text These are different because the selected free coordinate changes. Infinitely many real parameter values give infinitely many different solutions. Because p = 0, choosing a nonzero parameter gives a nontrivial homogeneous solution.
+							343 text Verification in the original equations. For p, the left-hand sides A p are:
+							344 container Matrix; scroll horizontally if needed
+								345 container Matrix: 0; 0; 0
+									346 container
+										347 text [
+										348 text 0
+										349 text 0
+										350 text 0
+										351 text ]
+							352 container
+								353 text These entries equal the original right-hand sides, in order. For direction 
+								354 container
+									355 text v
+									356 text 1
+								357 text , multiplying by the original A gives the zero vector. Therefore A(p + s 
+								358 container
+									359 text v
+									360 text 1
+								361 text ) = A p + s A 
+								362 container
+									363 text v
+									364 text 1
+								365 text  = b for every parameter choice. Conversely, the pivot equations show that every solution has this form.
+						366 summary View the original source page 9, Value: off
+							367 text View the original source page 9
+						368 summary Compare the original question crop, Value: off
+							369 text Compare the original question crop
+						370 container Previous and next question
+							371 link ← Section questions, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/section/1.5
+							372 link NEXT QUESTION → 1.5.2, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/1.5.2
+					373 text Made for thoughtful studying  · MATH 2255
+				374 scroll bar (settable, float) 0.02246279
+	375 toolbar
+		376 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			377 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			378 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		379 container BackForwardSegmentedControl
+			380 button Description: Go back, Help: Show the previous page, ID: BackButton
+			381 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		382 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			383 button Page Menu, ID: AssistantButton
+			384 button Add page to Reading List, ID: OneStepBookmarkingButton
+			385 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/1.5.1
+			386 button Reload this page, ID: ReloadButton
+		387 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		388 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		389 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		390 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	391 close button
+	392 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	393 minimise button
+394 menu bar
+	395 Safari
+	396 File
+	397 Edit
+	398 View, ID: SafariViewMenu
+	399 History
+	400 Bookmarks, ID: SafariBookmarksMenu
+	401 Develop
+	402 Window, ID: SafariWindowMenu
+	403 Help, ID: SafariHelpMenu
+
+The focused UI element is 117 summary Show Detailed Solution −, Value: on

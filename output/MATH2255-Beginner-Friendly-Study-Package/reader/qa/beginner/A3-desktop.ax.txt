@@ -1,0 +1,1603 @@
+Window: "4. Section 1.4 - The matrix equation Ax = b · Study Corner", App: Safari.
+0 standard window 4. Section 1.4 - The matrix equation Ax = b · Study Corner, ID: SafariWindow?IsSecure=false&UUID=C1B33E9F-AF64-4902-876F-3FEABFE48642, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: 4. Section 1.4 - The matrix equation Ax = b · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4/4-6-practice
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container 4. Section 1.4 - The matrix equation Ax = b
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#topics
+						59 text The matrix equation Ax = b
+						60 container
+							61 text COURSE SECTION 1.4
+							62 heading 4. Section 1.4 - The matrix equation Ax = b, Value: 1
+								63 text 4. Section 1.4 - The matrix equation Ax = b
+						64 link Practice this section ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.4
+						65 container
+							66 text Text size 
+							67 pop-up button (collapsed) Text size, Value: Comfortable, Secondary Actions: Expand
+						68 summary In this chapter · 6 sections, Value: off
+							69 text In this chapter · 6 sections
+						70 text Source correspondence: Combined PDF pages 37-43; exercise PDF pages 7-8.
+						71 heading 4.1 Multiplication combines columns, Value: 2
+							72 text 4.1 Multiplication combines columns
+						73 text SEE THE IDEA
+						74 heading Ax is a weighted sum of columns, Value: 3
+							75 text Ax is a weighted sum of columns
+						76 text Each input entry weights the column in the same position.
+						77 container a₁ = (2,1), a₂ = (−1,3).
+							78 container Matrix; scroll horizontally if needed
+								79 container Matrix: 2, -1; 1, 3
+									80 container
+										81 text [
+										82 container
+											83 text 2
+											84 container
+												85 text − 1
+										86 container
+											87 text 1
+											88 text 3
+										89 text ]
+							90 container
+								91 container
+									92 text a
+									93 text 1
+								94 text  = (2,1), 
+								95 container
+									96 text a
+									97 text 2
+								98 text  = (−1,3).
+						99 container Example equation
+							100 container
+								101 text A
+								102 text (
+								103 container
+									104 text 3 , 2
+								105 text )
+								106 text = 3
+								107 text (
+								108 container
+									109 text 2 , 1
+								110 text )
+								111 text + 2
+								112 text (
+								113 container
+									114 text − 1 , 3
+								115 text )
+								116 text =
+								117 text (
+								118 container
+									119 text 4 , 9
+								120 text )
+						121 container
+							122 container If A has m rows and n columns and x has n entries, Ax is the vector formed by using the entries of x as weights on the columns of A.
+								123 text If A has m rows and n columns and x has n entries, Ax is the vector formed by using the entries of x as weights on the columns of A.
+							124 container Its size is m × 1.
+								125 text Its size is m × 1.
+							126 container Thus an m × n matrix takes an input in ℝ n and produces an output in ℝ m.
+								127 container
+									128 text Thus an m × n matrix takes an input in 
+									129 container
+										130 text ℝ
+										131 text n
+									132 text  and produces an output in 
+									133 container
+										134 text ℝ
+										135 text m
+									136 text .
+							137 container The number of columns must match the number of input entries.
+								138 text The number of columns must match the number of input entries.
+						139 container
+							140 container Write A = [a 1 ... a n].
+								141 container
+									142 text Write A = [
+									143 container
+										144 text a
+										145 text 1
+									146 text  ... 
+									147 container
+										148 text a
+										149 text n
+									150 text ].
+							151 container Then ... + x n a n.
+								152 text Then
+								153 container Calculation
+									154 container
+										155 text A x =
+										156 text x
+										157 text 1
+										158 text a
+										159 text 1
+										160 text +
+								161 container
+									162 text ... + 
+									163 container
+										164 text x
+										165 text n
+									166 container
+										167 text a
+										168 text n
+									169 text .
+							170 container This definition explains the multiplication: every column is a possible output contribution, and the input tells us how to combine them.
+								171 text This definition explains the multiplication: every column is a possible output contribution, and the input tells us how to combine them.
+							172 container An m × n matrix multiplied by an input with m entries is not automatically valid;
+								173 text An m × n matrix multiplied by an input with m entries is not automatically valid;
+							174 container check n, not m.
+								175 text check n, not m.
+						176 container
+							177 container The row computation rule follows by examining one entry.
+								178 text The row computation rule follows by examining one entry.
+							179 container Entry i of Ax is a i 1x 1 + ... + a inx n.
+								180 container
+									181 text Entry i of Ax is 
+									182 container
+										183 text a
+										184 text i
+										185 text 1
+									186 container
+										187 text x
+										188 text 1
+									189 text  + ... + 
+									190 container
+										191 text a
+										192 text in
+									193 container
+										194 text x
+										195 text n
+									196 text .
+							197 container Multiply matching entries across row i of A and down x, then add.
+								198 text Multiply matching entries across row i of A and down x, then add.
+							199 container This sum of products is sometimes called a dot product here.
+								200 text This sum of products is sometimes called a dot product here.
+							201 container It is a scalar;
+								202 text It is a scalar;
+							203 container the collection of m such scalars is the output vector.
+								204 text the collection of m such scalars is the output vector.
+						205 heading 4.2 Worked product using both views, Value: 2
+							206 text 4.2 Worked product using both views
+						207 text SEE THE IDEA
+						208 heading Two views give the same output, Value: 3
+							209 text Two views give the same output
+						210 text Compute by columns or by row–column products; the coordinates must agree.
+						211 heading Choose one row, Value: 4
+							212 text Choose one row
+						213 container Row 1 of A is (2,3).
+							214 container Matrix; scroll horizontally if needed
+								215 container Matrix: 2, 3; 1, -5
+									216 container
+										217 text [
+										218 container
+											219 text 2
+											220 text 3
+										221 container
+											222 text 1
+											223 container
+												224 text − 5
+										225 text ]
+							226 text Row 1 of A is (2,3).
+						227 heading Choose one column, Value: 4
+							228 text Choose one column
+						229 container Column 1 of B is (4,1).
+							230 container Matrix; scroll horizontally if needed
+								231 container Matrix: 4, 3, 6; 1, -2, 3
+									232 container
+										233 text [
+										234 container
+											235 text 4
+											236 text 3
+											237 text 6
+										238 container
+											239 text 1
+											240 container
+												241 text − 2
+											242 text 3
+										243 text ]
+							244 text Column 1 of B is (4,1).
+						245 container Example equation
+							246 container
+								247 text c
+								248 text 11
+								249 text =
+								250 text (
+								251 text 2
+								252 text )
+								253 text (
+								254 text 4
+								255 text )
+								256 text +
+								257 text (
+								258 text 3
+								259 text )
+								260 text (
+								261 text 1
+								262 text )
+								263 text = 11
+						264 content list
+							265 container 1 Pair corresponding entries →
+							266 container 2 Multiply each pair →
+							267 container 3 Add to get one output entry
+						268 container
+							269 container Let and
+								270 text Let
+								271 container Calculation
+									272 container
+										273 text A =
+										274 text [
+										275 container
+											276 text 2
+											277 text 3
+											278 container
+												279 text − 1
+											280 text 5
+											281 text 4
+											282 text 0
+										283 text ]
+								284 text and
+								285 container Calculation
+									286 container
+										287 text x =
+										288 text (
+										289 container
+											290 text 2 , − 1
+										291 text )
+							292 container The column view gives
+								293 text The column view gives
+								294 container Calculation
+									295 container
+										296 text 2
+										297 text (
+										298 container
+											299 text 2 , − 1 , 4
+										300 text )
+										301 text −
+										302 text (
+										303 container
+											304 text 3 , 5 , 0
+										305 text )
+										306 text =
+										307 text (
+										308 container
+											309 text 1 , − 7 , 8
+										310 text )
+							311 container The row view gives the same result with each entry shown below.
+								312 text The row view gives the same result with each entry shown below.
+						313 text In this calculation, A is the left factor and x is the right factor.
+						314 heading Read A: 3 rows, 2 columns, Value: 4
+							315 text Read A: 3 rows, 2 columns
+						316 text A row runs horizontally, from left to right. A column runs vertically, from top to bottom. Count rows first when writing a size.
+						317 container
+							318 container Matrix; scroll horizontally if needed
+								319 container Matrix: 2, 3; -1, 5; 4, 0
+									320 container
+										321 text [
+										322 container
+											323 text 2
+											324 text 3
+										325 container
+											326 container
+												327 text − 1
+											328 text 5
+										329 container
+											330 text 4
+											331 text 0
+										332 text ]
+							333 text A has size 3 × 2.
+						334 heading Read x: 2 rows, 1 column, Value: 4
+							335 text Read x: 2 rows, 1 column
+						336 container
+							337 container Matrix; scroll horizontally if needed
+								338 container Matrix: 2; -1
+									339 container
+										340 text [
+										341 text 2
+										342 container
+											343 text − 1
+										344 text ]
+							345 text x has size 2 × 1.
+						346 heading Check that multiplication is allowed, Value: 4
+							347 text Check that multiplication is allowed
+						348 text (3 × 
+						349 text 2
+						350 text ) (
+						351 text 2
+						352 text  × 1) → 3 × 1
+						353 text The highlighted inner counts are both 2: every row of the left factor has one entry for every row of the right factor. The outside counts tell us the output has 3 rows and 1 column.
+						354 heading Calculate output row 1, Value: 4
+							355 text Calculate output row 1
+						356 text Take row 1 of A and column 1 of x. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+						357 container Use this highlighted row 1.
+							358 container Matrix; scroll horizontally if needed
+								359 container Matrix: 2, 3; -1, 5; 4, 0
+									360 container
+										361 text [
+										362 container
+											363 text 2
+											364 text 3
+										365 container
+											366 container
+												367 text − 1
+											368 text 5
+										369 container
+											370 text 4
+											371 text 0
+										372 text ]
+							373 text Use this highlighted row 1.
+						374 container Pair it with highlighted column 1.
+							375 container Matrix; scroll horizontally if needed
+								376 container Matrix: 2; -1
+									377 container
+										378 text [
+										379 text 2
+										380 container
+											381 text − 1
+										382 text ]
+							383 text Pair it with highlighted column 1.
+						384 container Calculation
+							385 container
+								386 text c
+								387 text 11
+								388 text =
+								389 text (
+								390 text 2
+								391 text )
+								392 text (
+								393 text 2
+								394 text )
+								395 text +
+								396 text (
+								397 text 3
+								398 text )
+								399 text (
+								400 container
+									401 text − 1
+								402 text )
+								403 text = 1
+						404 container Calculation
+							405 container
+								406 text 4 − 3
+						407 container Calculation
+							408 text 1
+						409 heading Calculate output row 2, Value: 4
+							410 text Calculate output row 2
+						411 text Take row 2 of A and column 1 of x. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+						412 container Use this highlighted row 2.
+							413 container Matrix; scroll horizontally if needed
+								414 container Matrix: 2, 3; -1, 5; 4, 0
+									415 container
+										416 text [
+										417 container
+											418 text 2
+											419 text 3
+										420 container
+											421 container
+												422 text − 1
+											423 text 5
+										424 container
+											425 text 4
+											426 text 0
+										427 text ]
+							428 text Use this highlighted row 2.
+						429 container Pair it with highlighted column 1.
+							430 container Matrix; scroll horizontally if needed
+								431 container Matrix: 2; -1
+									432 container
+										433 text [
+										434 text 2
+										435 container
+											436 text − 1
+										437 text ]
+							438 text Pair it with highlighted column 1.
+						439 container Calculation
+							440 container
+								441 text c
+								442 text 21
+								443 text =
+								444 text (
+								445 container
+									446 text − 1
+								447 text )
+								448 text (
+								449 text 2
+								450 text )
+								451 text +
+								452 text (
+								453 text 5
+								454 text )
+								455 text (
+								456 container
+									457 text − 1
+								458 text )
+								459 text = − 7
+						460 container Calculation
+							461 container
+								462 text − 2 − 5
+						463 container Calculation
+							464 container
+								465 text − 7
+						466 heading Calculate output row 3, Value: 4
+							467 text Calculate output row 3
+						468 text Take row 3 of A and column 1 of x. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+						469 container Use this highlighted row 3.
+							470 container Matrix; scroll horizontally if needed
+								471 container Matrix: 2, 3; -1, 5; 4, 0
+									472 container
+										473 text [
+										474 container
+											475 text 2
+											476 text 3
+										477 container
+											478 container
+												479 text − 1
+											480 text 5
+										481 container
+											482 text 4
+											483 text 0
+										484 text ]
+							485 text Use this highlighted row 3.
+						486 container Pair it with highlighted column 1.
+							487 container Matrix; scroll horizontally if needed
+								488 container Matrix: 2; -1
+									489 container
+										490 text [
+										491 text 2
+										492 container
+											493 text − 1
+										494 text ]
+							495 text Pair it with highlighted column 1.
+						496 container Calculation
+							497 container
+								498 text c
+								499 text 31
+								500 text =
+								501 text (
+								502 text 4
+								503 text )
+								504 text (
+								505 text 2
+								506 text )
+								507 text +
+								508 text (
+								509 text 0
+								510 text )
+								511 text (
+								512 container
+									513 text − 1
+								514 text )
+								515 text = 8
+						516 container Calculation
+							517 container
+								518 text 8 + 0
+						519 container Calculation
+							520 text 8
+						521 heading Put the entries into their output positions, Value: 4
+							522 text Put the entries into their output positions
+						523 container
+							524 container Matrix; scroll horizontally if needed
+								525 container Matrix: 1; -7; 8
+									526 container
+										527 text [
+										528 text 1
+										529 container
+											530 text − 7
+										531 text 8
+										532 text ]
+							533 text The result has 3 rows and 1 column.
+						534 heading Check with the column method, Value: 4
+							535 text Check with the column method
+						536 text The entries of x are weights. Weight 1 multiplies column 1 of A, weight 2 multiplies column 2, and so on. A negative weight reverses the sign of every entry in that column.
+						537 text Column 1, with weight 2:
+						538 container Calculation
+							539 container
+								540 text 2
+								541 text [
+								542 container
+									543 text 2
+									544 container
+										545 text − 1
+									546 text 4
+								547 text ]
+								548 text =
+								549 text [
+								550 container
+									551 text 4
+									552 container
+										553 text − 2
+									554 text 8
+								555 text ]
+						556 text Column 2, with weight -1:
+						557 container Calculation
+							558 container
+								559 text − 1
+								560 text [
+								561 container
+									562 text 3
+									563 text 5
+									564 text 0
+								565 text ]
+								566 text =
+								567 text [
+								568 container
+									569 container
+										570 text − 3
+									571 container
+										572 text − 5
+									573 text 0
+								574 text ]
+						575 container Calculation
+							576 container
+								577 text y
+								578 text 1
+								579 text = 4 − 3 = 1
+						580 container Calculation
+							581 container
+								582 text y
+								583 text 2
+								584 text = − 2 − 5 = − 7
+						585 container Calculation
+							586 container
+								587 text y
+								588 text 3
+								589 text = 8 + 0 = 8
+						590 container Matrix; scroll horizontally if needed
+							591 container Matrix: 1; -7; 8
+								592 container
+									593 text [
+									594 text 1
+									595 container
+										596 text − 7
+									597 text 8
+									598 text ]
+						599 text Both methods add exactly the same products. The row method groups them by output entry. The column method groups them by input weight. Regrouping a finite sum does not change its value.
+						600 text FINAL ANSWER
+						601 container Calculation
+							602 container
+								603 text A x =
+								604 text [
+								605 container
+									606 text 1
+									607 container
+										608 text − 7
+									609 text 8
+								610 text ]
+						611 text Dimensions: (3 × 2)(2 × 1) = 3 × 1.
+						612 heading 4.3 One problem, three equivalent languages, Value: 2
+							613 text 4.3 One problem, three equivalent languages
+						614 heading 1 · Start with the two equations, Value: 4
+							615 text 1 · Start with the two equations
+						616 container Calculation
+							617 container
+								618 text x
+								619 text 1
+								620 text + 2
+								621 text x
+								622 text 2
+								623 text −
+								624 text x
+								625 text 3
+								626 text = 4
+						627 container Calculation
+							628 container
+								629 text − 5
+								630 text x
+								631 text 2
+								632 text + 3
+								633 text x
+								634 text 3
+								635 text = 1
+						636 text We seek three numbers that make both equations true at the same time. At this stage we are changing notation, not finding their values.
+						637 heading 2 · Identify the three unknowns, Value: 4
+							638 text 2 · Identify the three unknowns
+						639 container Calculation
+							640 container
+								641 text x
+								642 text 1
+								643 text ,
+								644 text x
+								645 text 2
+								646 text ,
+								647 text x
+								648 text 3
+						649 text The subscripts 1, 2, and 3 are labels distinguishing three unknown values. They are not powers or multiplication instructions.
+						650 heading 3 · Read one coefficient for every variable, Value: 4
+							651 text 3 · Read one coefficient for every variable
+						652 container Comparison table
+							653 table
+								654 row (selectable) Equation
+x
+1
+x
+2
+x
+3
+Right side
+								655 row (selectable)
+									656 cell (selectable) First
+									657 cell (selectable) 1
+									658 cell (selectable) 2
+									659 cell (selectable) −1
+									660 cell (selectable) 4
+								661 row (selectable)
+									662 cell (selectable) Second
+									663 cell (selectable) 0
+									664 cell (selectable) −5
+									665 cell (selectable) 3
+									666 cell (selectable) 1
+						667 container
+							668 text A coefficient is the number multiplying an unknown. The second equation has no 
+							669 container
+								670 text x
+								671 text 1
+							672 text  term, so its 
+							673 container
+								674 text x
+								675 text 1
+							676 text  coefficient is 0. The term −
+							677 container
+								678 text x
+								679 text 3
+							680 text  means (−1)
+							681 container
+								682 text x
+								683 text 3
+							684 text .
+						685 heading 4 · Build A from the coefficient rows, Value: 4
+							686 text 4 · Build A from the coefficient rows
+						687 container
+							688 container Matrix; scroll horizontally if needed
+								689 container Matrix: 1, 2, -1; 0, -5, 3
+									690 container
+										691 text [
+										692 container
+											693 text 1
+											694 text 2
+											695 container
+												696 text − 1
+										697 container
+											698 text 0
+											699 container
+												700 text − 5
+											701 text 3
+										702 text ]
+							703 text A: 2 equations give 2 rows; 3 unknowns give 3 columns.
+						704 container
+							705 text Row 1 records the first equation. Row 2 records the second. Keep the variable order 
+							706 container
+								707 text x
+								708 text 1
+							709 text ,
+							710 container
+								711 text x
+								712 text 2
+							713 text ,
+							714 container
+								715 text x
+								716 text 3
+							717 text  in both rows. The constants do not belong in A.
+						718 heading 5 · Put the unknowns in a column, Value: 4
+							719 text 5 · Put the unknowns in a column
+						720 container Calculation
+							721 container
+								722 text x =
+								723 text [
+								724 container
+									725 container
+										726 text x
+										727 text 1
+									728 container
+										729 text x
+										730 text 2
+									731 container
+										732 text x
+										733 text 3
+								734 text ]
+						735 text The unknown vector has size 3 × 1. Its order matches the three columns of A.
+						736 heading 6 · Put the constants in a separate column, Value: 4
+							737 text 6 · Put the constants in a separate column
+						738 container Calculation
+							739 container
+								740 text b =
+								741 text [
+								742 container
+									743 text 4
+									744 text 1
+								745 text ]
+						746 text This vector has size 2 × 1. Its entries follow the order of the two equations.
+						747 heading 7 · Write the full matrix equation, Value: 4
+							748 text 7 · Write the full matrix equation
+						749 container Calculation
+							750 container
+								751 text [
+								752 container
+									753 text 1
+									754 text 2
+									755 container
+										756 text − 1
+									757 text 0
+									758 container
+										759 text − 5
+									760 text 3
+								761 text ]
+								762 text [
+								763 container
+									764 container
+										765 text x
+										766 text 1
+									767 container
+										768 text x
+										769 text 2
+									770 container
+										771 text x
+										772 text 3
+								773 text ]
+								774 text =
+								775 text [
+								776 container
+									777 text 4
+									778 text 1
+								779 text ]
+						780 container Calculation
+							781 container
+								782 text A x = b
+						783 text The sizes (2 × 3)(3 × 1) produce a 2 × 1 output, matching b.
+						784 heading 8 · Read the same multiplication by columns, Value: 4
+							785 text 8 · Read the same multiplication by columns
+						786 container Calculation
+							787 container
+								788 text x
+								789 text 1
+								790 text [
+								791 container
+									792 text 1
+									793 text 0
+								794 text ]
+								795 text +
+								796 text x
+								797 text 2
+								798 text [
+								799 container
+									800 text 2
+									801 container
+										802 text − 5
+								803 text ]
+								804 text +
+								805 text x
+								806 text 3
+								807 text [
+								808 container
+									809 container
+										810 text − 1
+									811 text 3
+								812 text ]
+								813 text =
+								814 text [
+								815 container
+									816 text 4
+									817 text 1
+								818 text ]
+						819 container
+							820 text The first column carries the 
+							821 container
+								822 text x
+								823 text 1
+							824 text  coefficients; multiply that entire column by 
+							825 container
+								826 text x
+								827 text 1
+							828 text . Do the same for columns 2 and 3, with weights 
+							829 container
+								830 text x
+								831 text 2
+							832 text  and 
+							833 container
+								834 text x
+								835 text 3
+							836 text . Add matching coordinates.
+						837 heading 9 · Expand the weighted columns to recover the system, Value: 4
+							838 text 9 · Expand the weighted columns to recover the system
+						839 container Calculation
+							840 container
+								841 text [
+								842 container
+									843 container
+										844 text x
+										845 text 1
+									846 text 0
+								847 text ]
+								848 text +
+								849 text [
+								850 container
+									851 container
+										852 text 2
+										853 text x
+										854 text 2
+									855 container
+										856 text − 5
+										857 text x
+										858 text 2
+								859 text ]
+								860 text +
+								861 text [
+								862 container
+									863 container
+										864 text −
+										865 text x
+										866 text 3
+									867 container
+										868 text 3
+										869 text x
+										870 text 3
+								871 text ]
+								872 text =
+								873 text [
+								874 container
+									875 text 4
+									876 text 1
+								877 text ]
+						878 container Calculation
+							879 container
+								880 text x
+								881 text 1
+								882 text + 2
+								883 text x
+								884 text 2
+								885 text −
+								886 text x
+								887 text 3
+								888 text = 4
+						889 container Calculation
+							890 container
+								891 text 0
+								892 text x
+								893 text 1
+								894 text − 5
+								895 text x
+								896 text 2
+								897 text + 3
+								898 text x
+								899 text 3
+								900 text = 1
+						901 text Matching first coordinates gives equation 1. Matching second coordinates gives equation 2. Every entry has returned to its original place.
+						902 text FINAL ANSWER
+						903 text Linear system ↔ vector equation ↔ matrix equation: the unknowns and constraints are identical. Converting between these representations does not solve the system.
+						904 summary Optional further study: solve this system after converting it, Value: off
+							905 text Optional further study: solve this system after converting it
+						906 heading 4.4 A particular b versus every b, Value: 2
+							907 text 4.4 A particular b versus every b
+						908 text SEE THE IDEA
+						909 heading One reachable target is not every target, Value: 3
+							910 text One reachable target is not every target
+						911 text Distinguish solving one system from proving that the columns fill the codomain.
+						912 container This A reaches (1,0), but never (0,1).
+							913 container Matrix; scroll horizontally if needed
+								914 container Matrix: 1, 0; 0, 0
+									915 container
+										916 text [
+										917 container
+											918 text 1
+											919 text 0
+										920 container
+											921 text 0
+											922 text 0
+										923 text ]
+							924 text This A reaches (1,0), but never (0,1).
+						925 container Comparison table
+							926 table
+								927 row (selectable) Question
+Test
+								928 row (selectable)
+									929 cell (selectable) This b?
+									930 cell (selectable) Reduce [A | b]
+								931 row (selectable)
+									932 cell (selectable) Every b ∈ ℝᵐ?
+									933 cell (selectable) Pivot in every row of A
+						934 text Remember. The row-pivot theorem applies to the coefficient matrix A.
+						935 container
+							936 container Theorem (supplied Theorem 4). For an m × n matrix A, the following four statements are equivalent: has a solution for every
+								937 text Theorem (supplied Theorem 4). For an m × n matrix A, the following four statements are equivalent:
+								938 container Calculation
+									939 container
+										940 text A x = b
+								941 text has a solution for every
+								942 container Calculation
+									943 container
+										944 text b ∈
+										945 text ℝ
+										946 text m
+							947 container every is a linear combination of the columns;
+								948 text every
+								949 container Calculation
+									950 container
+										951 text b ∈
+										952 text ℝ
+										953 text m
+								954 text is a linear combination of the columns;
+							955 container the columns span ℝ m;
+								956 container
+									957 text the columns span 
+									958 container
+										959 text ℝ
+										960 text m
+									961 text ;
+							962 container A has a pivot position in every row.
+								963 text A has a pivot position in every row.
+						964 container
+							965 container The first three formulations are equivalent by the definition of Ax and span.
+								966 text The first three formulations are equivalent by the definition of Ax and span.
+							967 container For the pivot formulation, imagine row-reducing A while carrying an arbitrary appended b.
+								968 text For the pivot formulation, imagine row-reducing A while carrying an arbitrary appended b.
+							969 container If each coefficient row has a pivot, no row is left over that could state 0 = nonzero,
+								970 text If each coefficient row has a pivot, no row is left over that could state 0 = nonzero,
+							971 container so every appended b is allowed.
+								972 text so every appended b is allowed.
+							973 container If a coefficient row has no pivot, an appropriate b can leave a nonzero entry in that zero row, producing inconsistency.
+								974 text If a coefficient row has no pivot, an appropriate b can leave a nonzero entry in that zero row, producing inconsistency.
+							975 container This last statement asserts some b will fail;
+								976 text This last statement asserts some b will fail;
+							977 container it does not say every b fails.
+								978 text it does not say every b fails.
+						979 container
+							980 container For works, since the second equation repeats the first.
+								981 text For
+								982 container Calculation
+									983 container
+										984 text A =
+										985 text [
+										986 container
+											987 text 1
+											988 text 2
+											989 text 2
+											990 text 4
+										991 text ]
+										992 text , b =
+										993 text (
+										994 container
+											995 text 3 , 6
+										996 text )
+								997 text works, since the second equation repeats the first.
+							998 container But fails.
+								999 text But
+								1000 container Calculation
+									1001 container
+										1002 text b =
+										1003 text (
+										1004 container
+											1005 text 3 , 7
+										1006 text )
+								1007 text fails.
+							1008 container The column span is a line in ℝ 2, not all of ℝ 2.
+								1009 container
+									1010 text The column span is a line in 
+									1011 container
+										1012 text ℝ
+										1013 text 2
+									1014 text , not all of 
+									1015 container
+										1016 text ℝ
+										1017 text 2
+									1018 text .
+							1019 container By contrast, has a pivot in each of its two rows and can produce every : choose
+								1020 text By contrast,
+								1021 container Calculation
+									1022 container
+										1023 text A =
+										1024 text [
+										1025 container
+											1026 text 1
+											1027 text 0
+											1028 text 2
+											1029 text 0
+											1030 text 1
+											1031 container
+												1032 text − 1
+										1033 text ]
+								1034 text has a pivot in each of its two rows and can produce every
+								1035 container Calculation
+									1036 container
+										1037 text b =
+										1038 text (
+										1039 container
+											1040 text b
+											1041 text 1
+											1042 text ,
+											1043 text b
+											1044 text 2
+										1045 text )
+								1046 text : choose
+								1047 container Calculation
+									1048 container
+										1049 text x =
+										1050 text (
+										1051 container
+											1052 text b
+											1053 text 1
+											1054 text ,
+											1055 text b
+											1056 text 2
+											1057 text , 0
+										1058 text )
+							1059 container It still has a free input coordinate,
+								1060 text It still has a free input coordinate,
+							1061 container so uniqueness does not follow.
+								1062 text so uniqueness does not follow.
+						1063 heading 4.5 Identity and distributivity, Value: 2
+							1064 text 4.5 Identity and distributivity
+						1065 text SEE THE IDEA
+						1066 heading Identity leaves every coordinate alone, Value: 3
+							1067 text Identity leaves every coordinate alone
+						1068 text Each identity column selects exactly one input coordinate.
+						1069 container I₃x = x for every three-entry input.
+							1070 container Matrix; scroll horizontally if needed
+								1071 container Matrix: 1, 0, 0; 0, 1, 0; 0, 0, 1
+									1072 container
+										1073 text [
+										1074 container
+											1075 text 1
+											1076 text 0
+											1077 text 0
+										1078 container
+											1079 text 0
+											1080 text 1
+											1081 text 0
+										1082 container
+											1083 text 0
+											1084 text 0
+											1085 text 1
+										1086 text ]
+							1087 container
+								1088 container
+									1089 text I
+									1090 text 3
+								1091 text x = x for every three-entry input.
+						1092 container Example equation
+							1093 container
+								1094 text A
+								1095 text (
+								1096 container
+									1097 text u + v
+								1098 text )
+								1099 text = A u + A v
+						1100 container
+							1101 container The identity matrix I n has 1 on its main diagonal and 0 elsewhere.
+								1102 container
+									1103 text The identity matrix 
+									1104 container
+										1105 text I
+										1106 text n
+									1107 text  has 1 on its main diagonal and 0 elsewhere.
+							1108 container Its columns are the standard coordinate vectors.
+								1109 text Its columns are the standard coordinate vectors.
+							1110 container Consequently : each coordinate is copied once and nothing is mixed.
+								1111 text Consequently
+								1112 container Calculation
+									1113 container
+										1114 text I
+										1115 text n
+										1116 text x = x
+								1117 text : each coordinate is copied once and nothing is mixed.
+							1118 container The subscript records the size,
+								1119 text The subscript records the size,
+							1120 container so I 2 and I 3 are different matrices.
+								1121 container
+									1122 text so 
+									1123 container
+										1124 text I
+										1125 text 2
+									1126 text  and 
+									1127 container
+										1128 text I
+										1129 text 3
+									1130 text  are different matrices.
+						1131 container
+							1132 container For compatible vectors u,v and scalar and A(cu) = cAu (supplied Theorem 5).
+								1133 text For compatible vectors u,v and scalar
+								1134 container Calculation
+									1135 container
+										1136 text c , A
+										1137 text (
+										1138 container
+											1139 text u + v
+										1140 text )
+										1141 text = A u + A v
+								1142 text and A(cu) = cAu (supplied Theorem 5).
+							1143 container A proof by columns writes ... + (u n + v n)a n.
+								1144 text A proof by columns writes
+								1145 container Calculation
+									1146 container
+										1147 text A
+										1148 text (
+										1149 container
+											1150 text u + v
+										1151 text )
+										1152 text =
+										1153 text (
+										1154 container
+											1155 text u
+											1156 text 1
+											1157 text +
+											1158 text v
+											1159 text 1
+										1160 text )
+										1161 text a
+										1162 text 1
+										1163 text +
+								1164 container
+									1165 text ... + (
+									1166 container
+										1167 text u
+										1168 text n
+									1169 text  + 
+									1170 container
+										1171 text v
+										1172 text n
+									1173 text )
+									1174 container
+										1175 text a
+										1176 text n
+									1177 text .
+							1178 container Distribute and regroup to obtain (u 1a 1 + ... + u n a n) + (v 1a 1 + ... + v n a n) = Au + Av.
+								1179 container
+									1180 text Distribute and regroup to obtain (
+									1181 container
+										1182 text u
+										1183 text 1
+									1184 container
+										1185 text a
+										1186 text 1
+									1187 text  + ... + 
+									1188 container
+										1189 text u
+										1190 text n
+									1191 container
+										1192 text a
+										1193 text n
+									1194 text ) + (
+									1195 container
+										1196 text v
+										1197 text 1
+									1198 container
+										1199 text a
+										1200 text 1
+									1201 text  + ... + 
+									1202 container
+										1203 text v
+										1204 text n
+									1205 container
+										1206 text a
+										1207 text n
+									1208 text ) = Au + Av.
+							1209 container Similarly, ... + (cu n)a n = cAu.
+								1210 text Similarly,
+								1211 container Calculation
+									1212 container
+										1213 text A
+										1214 text (
+										1215 container
+											1216 text c u
+										1217 text )
+										1218 text =
+										1219 text (
+										1220 container
+											1221 text c
+											1222 text u
+											1223 text 1
+										1224 text )
+										1225 text a
+										1226 text 1
+										1227 text +
+								1228 container
+									1229 text ... + (c
+									1230 container
+										1231 text u
+										1232 text n
+									1233 text )
+									1234 container
+										1235 text a
+										1236 text n
+									1237 text  = cAu.
+							1238 container These properties later explain why matrix transformations are linear.
+								1239 text These properties later explain why matrix transformations are linear.
+						1240 heading 4.6 Practice, Value: 2
+							1241 text 4.6 Practice
+						1242 text TRY IT YOURSELF · A1
+						1243 container A1. Write and as a vector equation and a matrix equation, then solve.
+							1244 text A1. Write
+							1245 container Calculation
+								1246 container
+									1247 text 2
+									1248 text x
+									1249 text 1
+									1250 text −
+									1251 text x
+									1252 text 2
+									1253 text = 3
+							1254 text and
+							1255 container Calculation
+								1256 container
+									1257 text x
+									1258 text 1
+									1259 text + 4
+									1260 text x
+									1261 text 2
+									1262 text = 5
+							1263 text as a vector equation and a matrix equation, then solve.
+						1264 summary Show Detailed Solution · A1, Value: off
+							1265 text Show Detailed Solution · A1
+						1266 text TRY IT YOURSELF · A2
+						1267 container
+							1268 container A2. A is 2 × 3 and has two pivots.
+								1269 text A2. A is 2 × 3 and has two pivots.
+							1270 container Explain what this says about every and about uniqueness.
+								1271 text Explain what this says about every
+								1272 container Calculation
+									1273 container
+										1274 text b ∈
+										1275 text ℝ
+										1276 text 2
+								1277 text and about uniqueness.
+						1278 summary Show Detailed Solution · A2, Value: off
+							1279 text Show Detailed Solution · A2
+						1280 text TRY IT YOURSELF · A3
+						1281 container
+							1282 container A3. Compute (2,1,-1) by the column and row rules.
+								1283 container
+									1284 text A3. Compute 
+									1285 container Inline matrix; scroll horizontally if needed
+										1286 container
+											1287 text [
+											1288 container
+												1289 text 1
+												1290 text 2
+												1291 text 3
+											1292 container
+												1293 text 0
+												1294 container
+													1295 text − 1
+												1296 text 4
+											1297 text ]
+									1298 text (2,1,-1) by the column and row rules.
+							1299 container State every size.
+								1300 text State every size.
+						1301 container
+							1302 summary Show Detailed Solution · A3, Value: on
+								1303 text Show Detailed Solution · A3
+							1304 text A3.
+							1305 heading Read A: 2 rows, 3 columns, Value: 4
+								1306 text Read A: 2 rows, 3 columns
+							1307 text A row runs horizontally, from left to right. A column runs vertically, from top to bottom. Count rows first when writing a size.
+							1308 container Matrix; scroll horizontally if needed
+								1309 container Matrix: 1, 2, 3; 0, -1, 4
+									1310 container
+										1311 text [
+										1312 container
+											1313 text 1
+											1314 text 2
+											1315 text 3
+										1316 container
+											1317 text 0
+											1318 container
+												1319 text − 1
+											1320 text 4
+										1321 text ]
+							1322 text A has size 2 × 3.
+							1323 text Row 1 is (1,2,3). Row 2 is (0,−1,4). Each row has three entries, so there are three columns.
+							1324 heading Read x: 3 rows, 1 column, Value: 4
+								1325 text Read x: 3 rows, 1 column
+							1326 container Matrix; scroll horizontally if needed
+								1327 container Matrix: 2; 1; -1
+									1328 container
+										1329 text [
+										1330 text 2
+										1331 text 1
+										1332 container
+											1333 text − 1
+										1334 text ]
+							1335 text x has size 3 × 1.
+							1336 heading Check that multiplication is allowed, Value: 4
+								1337 text Check that multiplication is allowed
+							1338 text (2 ×  3 ) ( 3  × 1) → 2 × 1 The highlighted inner counts are both 3: every row of the left factor has one entry for every row of the right factor. The outside counts tell us the output has 2 rows and 1 column.
+							1339 heading Calculate output row 1, Value: 4
+								1340 text Calculate output row 1
+							1341 text Take row 1 of A and column 1 of x. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							1342 container Use this highlighted row 1.
+								1343 container Matrix; scroll horizontally if needed
+									1344 container Matrix: 1, 2, 3; 0, -1, 4
+										1345 container
+											1346 text [
+											1347 container
+												1348 text 1
+												1349 text 2
+												1350 text 3
+											1351 container
+												1352 text 0
+												1353 container
+													1354 text − 1
+												1355 text 4
+											1356 text ]
+								1357 text Use this highlighted row 1.
+							1358 container Pair it with highlighted column 1.
+								1359 container Matrix; scroll horizontally if needed
+									1360 container Matrix: 2; 1; -1
+										1361 container
+											1362 text [
+											1363 text 2
+											1364 text 1
+											1365 container
+												1366 text − 1
+											1367 text ]
+								1368 text Pair it with highlighted column 1.
+							1369 container Calculation
+								1370 container
+									1371 text (
+									1372 text 1
+									1373 text )
+									1374 text (
+									1375 text 2
+									1376 text )
+									1377 text +
+									1378 text (
+									1379 text 2
+									1380 text )
+									1381 text (
+									1382 text 1
+									1383 text )
+									1384 text +
+									1385 text (
+									1386 text 3
+									1387 text )
+									1388 text (
+									1389 container
+										1390 text − 1
+									1391 text )
+							1392 container Calculation
+								1393 container
+									1394 text 2 + 2 − 3
+							1395 container Calculation
+								1396 text 1
+							1397 heading Calculate output row 2, Value: 4
+								1398 text Calculate output row 2
+							1399 text Take row 2 of A and column 1 of x. Pair entries in their original order: multiply the first pair, the second pair, and so on. Then add.
+							1400 container Use this highlighted row 2.
+								1401 container Matrix; scroll horizontally if needed
+									1402 container Matrix: 1, 2, 3; 0, -1, 4
+										1403 container
+											1404 text [
+											1405 container
+												1406 text 1
+												1407 text 2
+												1408 text 3
+											1409 container
+												1410 text 0
+												1411 container
+													1412 text − 1
+												1413 text 4
+											1414 text ]
+								1415 text Use this highlighted row 2.
+							1416 container Pair it with highlighted column 1.
+								1417 container Matrix; scroll horizontally if needed
+									1418 container Matrix: 2; 1; -1
+										1419 container
+											1420 text [
+											1421 text 2
+											1422 text 1
+											1423 container
+												1424 text − 1
+											1425 text ]
+								1426 text Pair it with highlighted column 1.
+							1427 container Calculation
+								1428 container
+									1429 text (
+									1430 text 0
+									1431 text )
+									1432 text (
+									1433 text 2
+									1434 text )
+									1435 text +
+									1436 text (
+									1437 container
+										1438 text − 1
+									1439 text )
+									1440 text (
+									1441 text 1
+									1442 text )
+									1443 text +
+									1444 text (
+									1445 text 4
+									1446 text )
+									1447 text (
+									1448 container
+										1449 text − 1
+									1450 text )
+							1451 container Calculation
+								1452 container
+									1453 text 0 − 1 − 4
+							1454 container Calculation
+								1455 container
+									1456 text − 5
+							1457 heading Put the entries into their output positions, Value: 4
+								1458 text Put the entries into their output positions
+							1459 container Matrix; scroll horizontally if needed
+								1460 container Matrix: 1; -5
+									1461 container
+										1462 text [
+										1463 text 1
+										1464 container
+											1465 text − 5
+										1466 text ]
+							1467 text The result has 2 rows and 1 column.
+							1468 heading Check with the column method, Value: 4
+								1469 text Check with the column method
+							1470 text The entries of x are weights. Weight 1 multiplies column 1 of A, weight 2 multiplies column 2, and so on. A negative weight reverses the sign of every entry in that column. Column 1, with weight 2:
+							1471 container Calculation
+								1472 container
+									1473 text 2
+									1474 text [
+									1475 container
+										1476 text 1
+										1477 text 0
+									1478 text ]
+									1479 text =
+									1480 text [
+									1481 container
+										1482 text 2
+										1483 text 0
+									1484 text ]
+							1485 text Column 2, with weight 1:
+							1486 container Calculation
+								1487 container
+									1488 text 1
+									1489 text [
+									1490 container
+										1491 text 2
+										1492 container
+											1493 text − 1
+									1494 text ]
+									1495 text =
+									1496 text [
+									1497 container
+										1498 text 2
+										1499 container
+											1500 text − 1
+									1501 text ]
+							1502 text Column 3, with weight -1:
+							1503 container Calculation
+								1504 container
+									1505 text − 1
+									1506 text [
+									1507 container
+										1508 text 3
+										1509 text 4
+									1510 text ]
+									1511 text =
+									1512 text [
+									1513 container
+										1514 container
+											1515 text − 3
+										1516 container
+											1517 text − 4
+									1518 text ]
+							1519 container Calculation
+								1520 container
+									1521 text y
+									1522 text 1
+									1523 text = 2 + 2 − 3 = 1
+							1524 container Calculation
+								1525 container
+									1526 text y
+									1527 text 2
+									1528 text = 0 − 1 − 4 = − 5
+							1529 container Matrix; scroll horizontally if needed
+								1530 container Matrix: 1; -5
+									1531 container
+										1532 text [
+										1533 text 1
+										1534 container
+											1535 text − 5
+										1536 text ]
+							1537 text Both methods add exactly the same products. The row method groups them by output entry. The column method groups them by input weight. Regrouping a finite sum does not change its value.
+							1538 heading Why the row and column methods agree, Value: 4
+								1539 text Why the row and column methods agree
+							1540 text Each output entry adds exactly the same three products in both methods. The row method gathers the products for one output entry. The column method first builds each whole weighted column, then adds corresponding entries. Neither method changes the order of the coordinates. FINAL ANSWER
+							1541 container Calculation
+								1542 container
+									1543 text A x =
+									1544 text [
+									1545 container
+										1546 text 1
+										1547 container
+											1548 text − 5
+									1549 text ]
+							1550 text Dimensions: (2 × 3)(3 × 1) = 2 × 1.
+						1551 container Previous and next chapter
+							1552 link ← PREVIOUS CHAPTER Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							1553 link NEXT CHAPTER → Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+					1554 text Made for thoughtful studying  · MATH 2255
+				1555 scroll bar (settable, float) 0.8107982
+	1556 toolbar
+		1557 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			1558 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			1559 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		1560 container BackForwardSegmentedControl
+			1561 button Description: Go back, Help: Show the previous page, ID: BackButton
+			1562 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		1563 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			1564 button Page Menu, ID: AssistantButton
+			1565 button Add page to Reading List, ID: OneStepBookmarkingButton
+			1566 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4/4-6-practice
+			1567 button Reload this page, ID: ReloadButton
+		1568 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		1569 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		1570 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		1571 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	1572 tab group Description: Tab bar, 2 tabs, ID: TabBar?isSeparate=false
+		1573 tab 4. Section 1.4 - The matrix equation Ax = b · Study Corner, Value: off, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=false
+			1574 image Description: safari, ID: FaviconImageView
+			1575 text Value: 4. Section 1.4 - The matrix equation Ax = b · Study Corner, ID: UnifiedTabBarButton._titleTextField
+		1576 tab 4. Section 1.4 - The matrix equation Ax = b · Study Corner, Help: To interact with the items in this button, press Control-Option-Shift-Down Arrow., Value: on, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=true
+			1577 image Description: safari, ID: FaviconImageView
+			1578 text Value: 4. Section 1.4 - The matrix equation Ax = b · Study Corner, ID: UnifiedTabBarButton._titleTextField
+	1579 close button
+	1580 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	1581 minimise button
+1582 menu bar
+	1583 Safari
+	1584 File
+	1585 Edit
+	1586 View, ID: SafariViewMenu
+	1587 History
+	1588 Bookmarks, ID: SafariBookmarksMenu
+	1589 Develop
+	1590 Window, ID: SafariWindowMenu
+	1591 Help, ID: SafariHelpMenu
+
+The focused UI element is 1302 summary Show Detailed Solution · A3, Value: on

@@ -1,0 +1,616 @@
+Window: "13. Glossary, formulas, and theorem reference · Study Corner", App: Safari.
+0 standard window 13. Glossary, formulas, and theorem reference · Study Corner, ID: SafariWindow?IsSecure=false&UUID=605B5E66-7D8E-4CA6-8645-4223AA3C3F3F, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 pop-up button Description: Viewport Size, Value: Custom size, ID: ViewportPresetButton
+			5 toggle button Description: Rotate Left, Help: Rotate viewport, Value: off
+			6 text field (settable) Description: Width, Value: 1280
+			7 text ×
+			8 text field (settable) Description: Height, Value: 812
+			9 text Description: Zoom Level, Value: ( 77% )
+			10 pop-up button Description: Pixel Ratio, Value: 2x
+			11 menu button Open with Simulator, ID: OpenWithSimulatorButton
+			12 scroll area
+				13 HTML content Description: 13. Glossary, formulas, and theorem reference · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+					14 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reading
+					15 container
+						16 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						17 container Main navigation
+							18 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							19 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice
+							20 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+							21 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+					22 container Study navigation
+						23 text YOUR MATH NOTEBOOK
+						24 text MATH 2255 · Linear Algebra
+						25 container
+							26 text Find a topic or exercise
+							27 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								28 text Try “2.2.39” or “span”
+							29 button Search
+						30 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+						31 container Chapters
+							32 heading GETTING STARTED, Value: 2
+								33 text GETTING STARTED
+							34 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/about
+							35 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/how-to
+							36 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							37 heading LINEAR EQUATIONS, Value: 2
+								38 text LINEAR EQUATIONS
+							39 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-1
+							40 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+							41 heading VECTORS & MATRICES, Value: 2
+								42 text VECTORS & MATRICES
+							43 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-3
+							44 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-4
+							45 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-5
+							46 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								47 text INDEPENDENCE & TRANSFORMATIONS
+							48 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-7
+							49 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-8
+							50 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-9
+							51 heading MATRIX ALGEBRA, Value: 2
+								52 text MATRIX ALGEBRA
+							53 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-1
+							54 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-2
+							55 heading ADDITIONAL LEARNING, Value: 2
+								56 text ADDITIONAL LEARNING
+							57 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/proofs
+							58 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/practice-answers
+							59 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/reference
+							60 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						61 text A little clarity, one concept at a time.
+						62 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						63 text Available entirely offline
+					64 container
+						65 container 13. Glossary, formulas, and theorem reference
+							66 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+							67 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+							68 text Glossary, formulas, and theorem reference
+							69 container
+								70 text YOUR LINEAR ALGEBRA NOTEBOOK
+								71 heading 13. Glossary, formulas, and theorem reference, Value: 1
+									72 text 13. Glossary, formulas, and theorem reference
+							73 link Workbook sources & reading notes, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#workbook-notes
+							74 container
+								75 text Text size 
+								76 pop-up button (collapsed) Text size, Value: Comfortable, Secondary Actions: Expand
+							77 summary In this chapter · 4 sections, Value: off
+								78 text In this chapter · 4 sections
+							79 text TAKE THE ESSENTIALS WITH YOU
+							80 heading A two-sided study reference, Value: 2
+								81 text A two-sided study reference
+							82 text Formulas, conditions, and method reminders on one printable US Letter sheet.
+							83 link View Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+							84 link Download PDF ↓, Value: blob:null/560c268b-eab0-4c9f-a8f0-1d32b948613f
+							85 heading 13.1 Glossary, Value: 2
+								86 text 13.1 Glossary
+							87 text SEE THE IDEA
+							88 heading Use the words as labels for visible features, Value: 3
+								89 text Use the words as labels for visible features
+							90 text Choose a term, then connect it to the matrices, systems, or maps where it is used.
+							91 content list
+								92 container 1 Pivot: a leading location →
+								93 container 2 Free variable: a coefficient column without a pivot →
+								94 container 3 Span: every obtainable weighted sum →
+								95 container 4 Inverse: an operation that undoes A
+							96 text THE COMPLETE EXPLANATION
+							97 description list
+								98 text Augmented matrix
+								99 text coefficient columns together with one or more right-hand-side columns.
+								100 text Basic variable
+								101 text a variable whose coefficient column contains a pivot.
+								102 text Coefficient
+								103 text a fixed number multiplying an unknown.
+								104 text Codomain
+								105 text declared output space of a function.
+								106 text Consistent
+								107 text possessing at least one solution.
+								108 text Dependent
+								109 text admitting a zero combination with weights not all zero.
+								110 text Domain
+								111 text allowed input space.
+								112 text Echelon form
+								113 text zero rows last, leading entries moving right, zeros below leading entries.
+								114 text Elementary matrix
+								115 text identity after one elementary row operation.
+								116 text Equivalent systems
+								117 text systems with the same solution set.
+							118 description list
+								119 text Free variable
+								120 text a nonpivot coefficient variable that can be chosen arbitrarily in a consistent system.
+								121 text Homogeneous
+								122 text having zero right-hand side.
+								123 text Identity matrix
+								124 text square matrix with diagonal 1 and off-diagonal 0.
+								125 text Image
+								126 text output of a specified input.
+								127 text Independent
+								128 text only the all-zero weights combine the vectors to zero.
+								129 text Inverse
+								130 text square matrix undoing another matrix in both multiplication orders.
+								131 text Linear combination
+								132 text weighted sum of vectors.
+								133 text Linear transformation
+								134 text function preserving addition and scalar multiplication.
+							135 description list
+								136 text Matrix dimensions
+								137 text rows × columns.
+								138 text Nontrivial solution
+								139 text a solution vector other than zero.
+								140 text One-to-one
+								141 text different inputs always have different outputs.
+								142 text Onto
+								143 text every codomain vector is attained.
+								144 text Parametric vector form
+								145 text a fixed vector plus arbitrary scalar multiples of fixed direction vectors.
+								146 text Particular solution
+								147 text any one fixed solution of Ax = b.
+								148 text Pivot column
+								149 text original matrix column corresponding to a leading entry in its echelon form.
+								150 text Pivot position
+								151 text location corresponding to a leading 1 in RREF.
+								152 text Range
+								153 text set of outputs actually attained.
+							154 description list
+								155 text Reduced echelon form
+								156 text echelon form with leading 1s, each alone as a nonzero entry in its column.
+								157 text Row equivalent
+								158 text connected by elementary row operations.
+								159 text Scalar
+								160 text real-number multiplier in this book.
+								161 text Singular
+								162 text square and not invertible.
+								163 text Solution set
+								164 text all lists satisfying every equation.
+								165 text Span
+								166 text all linear combinations of the listed generators.
+								167 text Standard matrix
+								168 text matrix whose columns are images of standard basis vectors.
+								169 text Transpose
+								170 text matrix with rows and columns exchanged.
+								171 text Trivial solution
+								172 text zero input in a homogeneous system.
+							173 heading 13.2 Formula reference, Value: 2
+								174 text 13.2 Formula reference
+							175 text SEE THE IDEA
+							176 heading Keep each formula attached to its condition, Value: 3
+								177 text Keep each formula attached to its condition
+							178 text Read the assumptions before choosing a rule.
+							179 container Comparison table
+								180 table
+									181 row (selectable) Formula family
+Check first
+									182 row (selectable)
+										183 cell (selectable) Matrix product
+										184 cell (selectable) Inner dimensions match
+									185 row (selectable)
+										186 cell (selectable) Unique system solution
+										187 cell (selectable) Consistency, then no free variables
+									188 row (selectable)
+										189 cell (selectable) Inverse
+										190 cell (selectable) A is square and invertible
+									191 row (selectable)
+										192 cell (selectable) Plane span
+										193 cell (selectable) Two generators are independent
+							194 text THE COMPLETE EXPLANATION
+							195 container
+								196 text Vectors: cu + dv is computed entrywise. Span{
+								197 container
+									198 text v
+									199 text 1
+								200 text ,...,
+								201 container
+									202 text v
+									203 text p
+								204 text } = {
+								205 container
+									206 text c
+									207 text 1
+								208 container
+									209 text v
+									210 text 1
+								211 text  + ... + 
+								212 container
+									213 text c
+									214 text p
+								215 container
+									216 text v
+									217 text p
+								218 text  : 
+								219 container
+									220 text c
+									221 text i
+								222 text  ∈ ℝ}. For A = [
+								223 container
+									224 text a
+									225 text 1
+								226 text  ... 
+								227 container
+									228 text a
+									229 text n
+								230 text ], Ax =
+								231 container
+									232 text x
+									233 text 1
+								234 container
+									235 text a
+									236 text 1
+								237 text  + ... + 
+								238 container
+									239 text x
+									240 text n
+								241 container
+									242 text a
+									243 text n
+								244 text  and entry i is 
+								245 container
+									246 text a
+									247 text i
+									248 text 1
+								249 container
+									250 text x
+									251 text 1
+								252 text  + ... + 
+								253 container
+									254 text a
+									255 text in
+								256 container
+									257 text x
+									258 text n
+								259 text .
+							260 container
+								261 text Solutions: homogeneous solutions satisfy Ax = 0. A consistent nonhomogeneous solution set is x = p + 
+								262 container
+									263 text s
+									264 text 1
+								265 container
+									266 text v
+									267 text 1
+								268 text  + ... + 
+								269 container
+									270 text s
+									271 text k
+								272 container
+									273 text v
+									274 text k
+								275 text , where Ap = b and A
+								276 container
+									277 text v
+									278 text j
+								279 text  = 0. Each free variable needs its own parameter.
+							280 container
+								281 text Products: (m × n)(n × p) gives m × p. Entry (i,j) of AB is Σ from k=1 to n of 
+								282 container
+									283 text a
+									284 text i
+									285 text k
+								286 container
+									287 text b
+									288 text k
+									289 text j
+								290 text . The standard matrix of T is [T(
+								291 container
+									292 text e
+									293 text 1
+								294 text ) ... T(
+								295 container
+									296 text e
+									297 text n
+								298 text )]. The matrix of first S then T is A_T A_S.
+							299 container
+								300 text Transpose: (
+								301 container
+									302 text A
+									303 text T
+								304 text )^T = A; (A + B)^T = 
+								305 container
+									306 text A
+									307 text T
+								308 text  + 
+								309 container
+									310 text B
+									311 text T
+								312 text ; (rA)^T = r
+								313 container
+									314 text A
+									315 text T
+								316 text ; (AB)^T = 
+								317 container
+									318 text B
+									319 text T
+								320 container
+									321 text A
+									322 text T
+								323 text , with matching dimensions throughout.
+							324 container
+								325 text Inverses: for A = 
+								326 container Inline matrix; scroll horizontally if needed
+									327 container
+										328 text [
+										329 container
+											330 text a
+											331 text b
+										332 container
+											333 text c
+											334 text d
+										335 text ]
+								336 text , det A = ad - bc and 
+								337 container
+									338 text A
+									339 text −
+									340 text 1
+								341 text  = 
+								342 container Inline matrix; scroll horizontally if needed
+									343 container
+										344 text [
+										345 container
+											346 text d
+											347 container
+												348 text − b
+										349 container
+											350 container
+												351 text − c
+											352 text a
+										353 text ]
+								354 text /(ad - bc) when det A ≠ 0. For larger square A, [A | I] reduces to [I | 
+								355 container
+									356 text A
+									357 text −
+									358 text 1
+								359 text ] exactly when A is invertible. When invertible, Ax = b has x = 
+								360 container
+									361 text A
+									362 text −
+									363 text 1
+								364 text b. Also (AB)^(-1) = 
+								365 container
+									366 text B
+									367 text −
+									368 text 1
+								369 container
+									370 text A
+									371 text −
+									372 text 1
+								373 text , (
+								374 container
+									375 text A
+									376 text T
+								377 text )^(-1) = (
+								378 container
+									379 text A
+									380 text −
+									381 text 1
+								382 text )^T, and (
+								383 container
+									384 text A
+									385 text −
+									386 text 1
+								387 text )^(-1) = A.
+							388 container
+								389 text Plane transformations: horizontal reflection 
+								390 container Inline matrix; scroll horizontally if needed
+									391 container
+										392 text [
+										393 container
+											394 text 1
+											395 text 0
+										396 container
+											397 text 0
+											398 container
+												399 text − 1
+										400 text ]
+								401 text ; vertical reflection 
+								402 container Inline matrix; scroll horizontally if needed
+									403 container
+										404 text [
+										405 container
+											406 container
+												407 text − 1
+											408 text 0
+										409 container
+											410 text 0
+											411 text 1
+										412 text ]
+								413 text ; coordinate swap
+								414 container Inline matrix; scroll horizontally if needed
+									415 container
+										416 text [
+										417 container
+											418 text 0
+											419 text 1
+										420 container
+											421 text 1
+											422 text 0
+										423 text ]
+								424 text ; reflection in negative diagonal 
+								425 container Inline matrix; scroll horizontally if needed
+									426 container
+										427 text [
+										428 container
+											429 text 0
+											430 container
+												431 text − 1
+										432 container
+											433 container
+												434 text − 1
+											435 text 0
+										436 text ]
+								437 text ; origin reflection -
+								438 container
+									439 text I
+									440 text 2
+								441 text ; horizontal scale 
+								442 container Inline matrix; scroll horizontally if needed
+									443 container
+										444 text [
+										445 container
+											446 text k
+											447 text 0
+										448 container
+											449 text 0
+											450 text 1
+										451 text ]
+								452 text ; vertical scale 
+								453 container Inline matrix; scroll horizontally if needed
+									454 container
+										455 text [
+										456 container
+											457 text 1
+											458 text 0
+										459 container
+											460 text 0
+											461 text k
+										462 text ]
+								463 text ; horizontal shear 
+								464 container Inline matrix; scroll horizontally if needed
+									465 container
+										466 text [
+										467 container
+											468 text 1
+											469 text k
+										470 container
+											471 text 0
+											472 text 1
+										473 text ]
+								474 text ; vertical shear 
+								475 container Inline matrix; scroll horizontally if needed
+									476 container
+										477 text [
+										478 container
+											479 text 1
+											480 text 0
+										481 container
+											482 text k
+											483 text 1
+										484 text ]
+								485 text ; horizontal projection 
+								486 container Inline matrix; scroll horizontally if needed
+									487 container
+										488 text [
+										489 container
+											490 text 1
+											491 text 0
+										492 container
+											493 text 0
+											494 text 0
+										495 text ]
+								496 text ; vertical projection 
+								497 container Inline matrix; scroll horizontally if needed
+									498 container
+										499 text [
+										500 container
+											501 text 0
+											502 text 0
+										503 container
+											504 text 0
+											505 text 1
+										506 text ]
+								507 text ; counterclockwise rotation 
+								508 container Inline matrix; scroll horizontally if needed
+									509 container
+										510 text [
+										511 container
+											512 container
+												513 text cos θ
+											514 container
+												515 text − sin θ
+										516 container
+											517 container
+												518 text sin θ
+											519 container
+												520 text cos θ
+										521 text ]
+								522 text .
+							523 heading 13.3 Theorem correspondence, Value: 2
+								524 text 13.3 Theorem correspondence
+							525 text SEE THE IDEA
+							526 heading The section identifies the theorem numbering, Value: 3
+								527 text The section identifies the theorem numbering
+							528 text Chapter 2 restarts its theorem numbers. Use the course section and theorem number together.
+							529 content list
+								530 container 1 Identify the topic →
+								531 container 2 Read the exact theorem and assumptions →
+								532 container 3 Check the physical source-page reference
+							533 text THE COMPLETE EXPLANATION
+							534 text Combined PDF Chapter 1 numbers its theorems continuously: Theorem 1 is uniqueness of RREF (PDF page 13); Theorem 2 is consistency and uniqueness (26); Theorem 3 equates system, vector, and matrix equations (39); Theorem 4 equates row pivots, spanning, and existence for every b (40); Theorem 5 gives matrix-vector linearity (42-43); Theorem 6 describes translated homogeneous solution sets (52); Theorem 7 characterizes dependence (58-59); Theorem 8 treats more vectors than entries (61-62); Theorem 9 treats col
+							535 container
+								536 text The Chapter 2 numbering restarts: Theorem 1 states addition and scalar laws (82-83); Theorem 2 states product laws (87-88); Theorem 3 states transpose identities (89-90); Theorem 4 gives the 2 × 2 inverse condition (92); Theorem 5 gives the unique solution 
+								537 container
+									538 text A
+									539 text −
+									540 text 1
+								541 text b (92); Theorem 6 gives inverse identities (93); Theorem 7 equates invertibility with row equivalence to identity (96-97). Use both the course section and theorem number to identify a theorem unambiguously.
+							542 heading 13.4 Common mistakes and their repairs, Value: 2
+								543 text 13.4 Common mistakes and their repairs
+							544 text SEE THE IDEA
+							545 heading Name the distinction that prevents the mistake, Value: 3
+								546 text Name the distinction that prevents the mistake
+							547 text Many errors swap two similar-sounding conditions.
+							548 container Comparison table
+								549 table
+									550 row (selectable) Keep separate
+Why
+									551 row (selectable)
+										552 cell (selectable) Rows / columns
+										553 cell (selectable) Rows ask existence; columns ask uniqueness
+									554 row (selectable)
+										555 cell (selectable) Zero row / contradictory row
+										556 cell (selectable) 0 = 0 is harmless; 0 = 1 is impossible
+									557 row (selectable)
+										558 cell (selectable) AB / BA
+										559 cell (selectable) Actions occur in a different order
+									560 row (selectable)
+										561 cell (selectable) A span / one vector in it
+										562 cell (selectable) A set is not one of its members
+							563 text THE COMPLETE EXPLANATION
+							564 text A pivot in every row answers an existence question for all right-hand sides. A pivot in every column answers uniqueness of inputs. Write the words 'row/output/existence' and 'column/input/uniqueness' beside a rectangular matrix before deciding.
+							565 text A free coefficient variable yields infinitely many solutions only when the system is consistent. First search for an impossible row. A zero row 0 = 0 adds no constraint; a row 0 = 1 rules out all solutions.
+							566 text A vector equation uses the supplied vectors as columns, not rows. The unknown weights become input entries. Original pivot columns are found by their indices; reduced columns generally have different entries and should not be substituted as the original vectors.
+							567 text A zero vector in a collection guarantees dependence; a nonzero vector does not guarantee independence of a collection. A dependence relation needs weights not all zero. A theorem about all inputs needs a general proof; a failed universal statement needs only one valid counterexample.
+							568 text Matrix multiplication is row by column, not entrywise. Inner dimensions must match. You may regroup associative products but may not reorder factors. Transpose and inverse reverse the order of products. Cancellation needs an invertible factor in the correct position.
+							569 text Inversion requires a square matrix. For a 2 × 2 matrix check ad - bc before dividing. For row reduction carry the whole identity block with every operation. Verify against the original A, especially when the source contains a typographical discrepancy.
+							570 container Previous and next chapter
+								571 link ← PREVIOUS CHAPTER Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/practice-answers
+								572 link NEXT CHAPTER → Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+					573 text Made for thoughtful studying  · MATH 2255
+				574 scroll bar (settable, float) 0
+	575 toolbar
+		576 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			577 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			578 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		579 container BackForwardSegmentedControl
+			580 button Description: Go back, Help: Show the previous page, ID: BackButton
+			581 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		582 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			583 button Page Menu, ID: AssistantButton
+			584 button Add page to Reading List, ID: OneStepBookmarkingButton
+			585 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+			586 button Reload this page, ID: ReloadButton
+		587 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		588 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		589 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		590 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	591 tab group Description: Tab bar, 2 tabs, ID: TabBar?isSeparate=false
+		592 tab 13. Glossary, formulas, and theorem reference · Study Corner, Help: To interact with the items in this button, press Control-Option-Shift-Down Arrow., Value: on, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=true
+			593 image Description: safari, ID: FaviconImageView
+			594 text Value: 13. Glossary, formulas, and theorem reference · Study Corner, ID: UnifiedTabBarButton._titleTextField
+		595 tab null/560c268b-eab0-4c9f-a8f0-1d32b948613f, Value: off, Secondary Actions: close tab, ID: TabBarTab?isNarrow=false&isExpanded=false&tabCount=&isPinned=false&isCluster=false&clusterID=&isActive=false
+			596 image Description: safari, ID: FaviconImageView
+			597 text Value: null/560c268b-eab0-4c9f-a8f0-1d32b948613f, ID: UnifiedTabBarButton._titleTextField
+	598 close button
+	599 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	600 minimise button
+601 menu bar
+	602 Safari
+	603 File
+	604 Edit
+	605 View, ID: SafariViewMenu
+	606 History
+	607 Bookmarks, ID: SafariBookmarksMenu
+	608 Develop
+	609 Window, ID: SafariWindowMenu
+	610 Help, ID: SafariHelpMenu
+
+The focused UI element is 64 container

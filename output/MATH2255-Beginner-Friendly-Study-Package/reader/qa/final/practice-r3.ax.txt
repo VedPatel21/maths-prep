@@ -1,0 +1,2661 @@
+Window: "2. Section 1.2 - Row reduction and echelon forms · Study Corner", App: Safari.
+0 standard window 2. Section 1.2 - Row reduction and echelon forms · Study Corner, ID: SafariWindow?IsSecure=false&UUID=605B5E66-7D8E-4CA6-8645-4223AA3C3F3F, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: 2. Section 1.2 - Row reduction and echelon forms · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container 2. Section 1.2 - Row reduction and echelon forms
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#home
+						58 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#topics
+						59 text Row reduction and echelon forms
+						60 container
+							61 text COURSE SECTION 1.2
+							62 heading 2. Section 1.2 - Row reduction and echelon forms, Value: 1
+								63 text 2. Section 1.2 - Row reduction and echelon forms
+						64 link Practice this section ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#practice/section/1.2
+						65 container
+							66 text Text size 
+							67 pop-up button (collapsed) Text size, Value: Comfortable, Secondary Actions: Expand
+						68 summary In this chapter · 9 sections, Value: off
+							69 text In this chapter · 9 sections
+						70 text Source correspondence: Combined PDF pages 12-27; exercise PDF pages 3-4.
+						71 heading 2.1 The staircase and the pivots, Value: 2
+							72 text 2.1 The staircase and the pivots
+						73 text SEE THE IDEA
+						74 heading 1 · What is a leading entry?, Value: 3
+							75 text 1 · What is a leading entry?
+						76 text Read a row from left to right. Skip the zeros. The first number that remains is its leading entry.
+						77 container First nonzero entry: −3.
+							78 container Matrix; scroll horizontally if needed
+								79 container Matrix: 0, 0, -3, 6
+									80 container
+										81 text [
+										82 container
+											83 text 0
+											84 text 0
+											85 container
+												86 text − 3
+											87 text 6
+										88 text ]
+							89 text First nonzero entry: −3.
+						90 container First nonzero entry: 4.
+							91 container Matrix; scroll horizontally if needed
+								92 container Matrix: 0, 4, 1, 2
+									93 container
+										94 text [
+										95 container
+											96 text 0
+											97 text 4
+											98 text 1
+											99 text 2
+										100 text ]
+							101 text First nonzero entry: 4.
+						102 text The leading entry of a nonzero row is its first nonzero entry when read from left to right.
+						103 text SEE THE IDEA
+						104 heading 2 · REF: build a staircase, Value: 3
+							105 text 2 · REF: build a staircase
+						106 text Look down the rows: each next leading entry takes a step to the right.
+						107 container Leading entries are highlighted. The zero row is at the bottom.
+							108 container Matrix; scroll horizontally if needed
+								109 container Matrix: 2, 4, 6; 0, 3, 9; 0, 0, 0
+									110 container
+										111 text [
+										112 container
+											113 text 2
+											114 text 4
+											115 text 6
+										116 container
+											117 text 0
+											118 text 3
+											119 text 9
+										120 container
+											121 text 0
+											122 text 0
+											123 text 0
+										124 text ]
+							125 text Leading entries are highlighted. The zero row is at the bottom.
+						126 container Comparison table
+							127 table
+								128 row (selectable) REF check
+What to look for
+								129 row (selectable)
+									130 cell (selectable) Zero rows last
+									131 cell (selectable) The completely zero row is below the nonzero rows.
+								132 row (selectable)
+									133 cell (selectable) Move right
+									134 cell (selectable) Leading entries are in columns 1, then 2.
+								135 row (selectable)
+									136 cell (selectable) Clear below
+									137 cell (selectable) All entries below each leading entry are zero.
+						138 text A matrix is in row echelon form (REF) when all zero rows are at the bottom, each leading entry is strictly to the right of the leading entry in the row above, and every entry below a leading entry is zero. Leading entries need not be 1 in REF.
+						139 text SEE THE IDEA
+						140 heading 3 · RREF: finish cleaning each pivot column, Value: 3
+							141 text 3 · RREF: finish cleaning each pivot column
+						142 text REF gives the shape. RREF also normalizes each leading entry and clears above it.
+						143 heading REF, but not RREF, Value: 4
+							144 text REF, but not RREF
+						145 container Leading entries 2 and 3 are not normalized.
+							146 container Matrix; scroll horizontally if needed
+								147 container Matrix: 2, 4, 6; 0, 3, 9; 0, 0, 0
+									148 container
+										149 text [
+										150 container
+											151 text 2
+											152 text 4
+											153 text 6
+										154 container
+											155 text 0
+											156 text 3
+											157 text 9
+										158 container
+											159 text 0
+											160 text 0
+											161 text 0
+										162 text ]
+							163 text Leading entries 2 and 3 are not normalized.
+						164 heading RREF of the same matrix, Value: 4
+							165 text RREF of the same matrix
+						166 container Each pivot is 1 and is alone in its column.
+							167 container Matrix; scroll horizontally if needed
+								168 container Matrix: 1, 0, -3; 0, 1, 3; 0, 0, 0
+									169 container
+										170 text [
+										171 container
+											172 text 1
+											173 text 0
+											174 container
+												175 text − 3
+										176 container
+											177 text 0
+											178 text 1
+											179 text 3
+										180 container
+											181 text 0
+											182 text 0
+											183 text 0
+										184 text ]
+							185 text Each pivot is 1 and is alone in its column.
+						186 container
+							187 text Reduced row echelon form (RREF) also requires each leading entry to be 1 and each leading 1 to be the only nonzero entry of its column. A matrix can be REF without being RREF. For example, 
+							188 container Inline matrix; scroll horizontally if needed
+								189 container
+									190 text [
+									191 container
+										192 text 2
+										193 text 3
+									194 container
+										195 text 0
+										196 text 4
+									197 text ]
+							198 text  is REF, but the leading entries are not 1. The notation in this sentence separates rows with a semicolon; displayed matrices below use full brackets.
+						199 text SEE THE IDEA
+						200 heading 4 · A pivot column belongs to the original matrix, Value: 3
+							201 text 4 · A pivot column belongs to the original matrix
+						202 text Reduce to identify column numbers; then go back to those columns in the original matrix.
+						203 heading Original A, Value: 4
+							204 text Original A
+						205 container Original columns 1 and 2 are the pivot columns.
+							206 container Matrix; scroll horizontally if needed
+								207 container Matrix: 0, 2, 4; 1, 1, 3
+									208 container
+										209 text [
+										210 container
+											211 text 0
+											212 text 2
+											213 text 4
+										214 container
+											215 text 1
+											216 text 1
+											217 text 3
+										218 text ]
+							219 text Original columns 1 and 2 are the pivot columns.
+						220 heading RREF(A), Value: 4
+							221 text RREF(A)
+						222 container Leading 1s identify pivot-column indices 1 and 2.
+							223 container Matrix; scroll horizontally if needed
+								224 container Matrix: 1, 0, 1; 0, 1, 2
+									225 container
+										226 text [
+										227 container
+											228 text 1
+											229 text 0
+											230 text 1
+										231 container
+											232 text 0
+											233 text 1
+											234 text 2
+										235 text ]
+							236 text Leading 1s identify pivot-column indices 1 and 2.
+						237 text Remember. The original entry at position (1,1) is 0. A pivot position is a location, not a promise about that original number.
+						238 text A pivot position in A is the row-column location corresponding to a leading 1 in RREF(A). A pivot column is an original column containing such a position. The original entry at a pivot position can be zero: the position is identified through reduction. A pivot used during elimination is the nonzero entry currently used to cancel entries, so its numerical value can change with the sequence of operations.
+						239 heading 5 · REF versus RREF, at a glance, Value: 3
+							240 text 5 · REF versus RREF, at a glance
+						241 container Comparison table
+							242 table
+								243 row (selectable) Condition
+REF
+RREF
+								244 row (selectable)
+									245 cell (selectable) Leading entries make a staircase
+									246 cell (selectable) Required
+									247 cell (selectable) Required
+								248 row (selectable)
+									249 cell (selectable) Zero rows at the bottom
+									250 cell (selectable) Required
+									251 cell (selectable) Required
+								252 row (selectable)
+									253 cell (selectable) Zeros below each leading entry
+									254 cell (selectable) Required
+									255 cell (selectable) Required
+								256 row (selectable)
+									257 cell (selectable) Each leading entry equals 1
+									258 cell (selectable) Not required
+									259 cell (selectable) Required
+								260 row (selectable)
+									261 cell (selectable) Zeros above every leading entry
+									262 cell (selectable) Not required
+									263 cell (selectable) Required
+								264 row (selectable)
+									265 cell (selectable) Unique in its row-equivalence class
+									266 cell (selectable) No
+									267 cell (selectable) Yes
+						268 text SEE THE IDEA
+						269 heading 6 · Why can there be only one RREF?, Value: 3
+							270 text 6 · Why can there be only one RREF?
+						271 text Different legal routes can simplify the same constraints. A fully reduced matrix records those constraints in one fixed form.
+						272 container One possible REF.
+							273 container Matrix; scroll horizontally if needed
+								274 container Matrix: 2, 4; 0, 0
+									275 container
+										276 text [
+										277 container
+											278 text 2
+											279 text 4
+										280 container
+											281 text 0
+											282 text 0
+										283 text ]
+							284 text One possible REF.
+						285 container The unique RREF: x₁ + 2x₂ = 0 if read homogeneously.
+							286 container Matrix; scroll horizontally if needed
+								287 container Matrix: 1, 2; 0, 0
+									288 container
+										289 text [
+										290 container
+											291 text 1
+											292 text 2
+										293 container
+											294 text 0
+											295 text 0
+										296 text ]
+							297 container
+								298 text The unique RREF: 
+								299 container
+									300 text x
+									301 text 1
+								302 text  + 2
+								303 container
+									304 text x
+									305 text 2
+								306 text  = 0 if read homogeneously.
+						307 text The supplied uniqueness theorem states that every matrix has exactly one RREF among its row-equivalent matrices. REF is not unique, because multiplying a nonzero row by 2 may preserve its staircase shape. The RREF conditions remove that scaling freedom and all entries above pivots. More deeply, row equivalence preserves all constraints, and RREF is a canonical way to record which earliest variables are determined by later ones. The following supplementary proof explains that uniqueness rather than trying to
+						308 container (expanded) Secondary Actions: Collapse
+							309 summary Deeper Mathematical Explanation · Explore the Full Proof, Value: on
+								310 text Deeper Mathematical Explanation · Explore the Full Proof
+							311 text SEE THE IDEA
+							312 heading The proof in three connections, Value: 3
+								313 text The proof in three connections
+							314 text Follow the logical connections; each arrow needs a reason.
+							315 content list
+								316 container 1 Row operations preserve row span →
+								317 container 2 The row span determines pivot-column indices →
+								318 container 3 Matching pivot coordinates force corresponding rows to agree
+							319 heading Why two different RREF answers cannot both be right, Value: 3
+								320 text Why two different RREF answers cannot both be right
+							321 text We need one temporary piece of vocabulary. The row span of a matrix means all linear combinations of its rows, treated as horizontal lists. This is the same weighted-sum idea used for column vectors later in Section 1.3. Row operations do not change the row span. A new row is a combination of old rows, so every new-row combination is an old-row combination. Reversibility gives the opposite inclusion. Therefore row-equivalent matrices have exactly the same row span.
+							322 text Suppose R and S are two RREF matrices obtained from one matrix. They have the same row span. In an RREF matrix, take any nonzero combination of its nonzero rows, and find the first row in the combination whose weight is nonzero. Its leading pivot is the first nonzero coordinate of the resulting list: all earlier row weights are zero, and all later rows are zero to the left of their own later pivots. Consequently the possible first-nonzero coordinate locations of vectors in the row span are precisely the piv
+							323 text Now compare row i of R with row i of S. Their entries in every common pivot column agree: both have 1 at their own pivot and 0 at the other pivots. Their difference is in the common row span and is zero at every pivot coordinate. But any row combination in R has, in pivot column j, exactly the weight on the corresponding pivot row: the pivot columns are identity columns. If all those coordinates are zero, every row weight is zero, so the entire combination is zero. Thus the difference between the two compar
+						324 heading 2.2 The forward and backward phases, Value: 2
+							325 text 2.2 The forward and backward phases
+						326 text SEE THE IDEA
+						327 heading Two passes, two purposes, Value: 3
+							328 text Two passes, two purposes
+						329 text The forward phase creates the staircase; the backward phase cleans above the pivots.
+						330 heading Forward → REF, Value: 4
+							331 text Forward → REF
+						332 container Zeros below; leading entries move right.
+							333 container Matrix; scroll horizontally if needed
+								334 container Matrix: 2, 4, 6; 0, 3, 9; 0, 0, 0
+									335 container
+										336 text [
+										337 container
+											338 text 2
+											339 text 4
+											340 text 6
+										341 container
+											342 text 0
+											343 text 3
+											344 text 9
+										345 container
+											346 text 0
+											347 text 0
+											348 text 0
+										349 text ]
+							350 text Zeros below; leading entries move right.
+						351 heading Backward → RREF, Value: 4
+							352 text Backward → RREF
+						353 container Normalize and clear above.
+							354 container Matrix; scroll horizontally if needed
+								355 container Matrix: 1, 0, -3; 0, 1, 3; 0, 0, 0
+									356 container
+										357 text [
+										358 container
+											359 text 1
+											360 text 0
+											361 container
+												362 text − 3
+										363 container
+											364 text 0
+											365 text 1
+											366 text 3
+										367 container
+											368 text 0
+											369 text 0
+											370 text 0
+										371 text ]
+							372 text Normalize and clear above.
+						373 text THE COMPLETE EXPLANATION
+						374 text Start at the leftmost column containing a possible nonzero pivot. Interchange rows if needed. Use a nonzero pivot to clear entries below it. Move down one row and right to the next possible pivot column. Continue to REF. This is the forward phase. If a column has no available nonzero entry below the previous pivots, skip it; do not force a pivot there.
+						375 text For the backward phase, start at the rightmost pivot, scale its row to make the pivot 1, and clear entries above it. Continue upward and leftward. Normalizing a pivot earlier, as many examples here do, is also valid. Arithmetic convenience determines the order; preserving the equations determines validity.
+						376 heading 2.3 Course example: pivot columns of a rectangular matrix, Value: 2
+							377 text 2.3 Course example: pivot columns of a rectangular matrix
+						378 text SEE THE IDEA
+						379 heading Find indices, then return to A, Value: 3
+							380 text Find indices, then return to A
+						381 text This is a rectangular-matrix question, not an augmented-system question.
+						382 content list
+							383 container 1 All 5 columns are ordinary matrix columns →
+							384 container 2 Use the original verified reduction →
+							385 container 3 Report original pivot-column indices
+						386 text Remember. A final column is not automatically a right-hand side.
+						387 text THE COMPLETE EXPLANATION
+						388 text The matrix on Combined PDF pages 14-17 has four rows and five columns. It is not declared an augmented matrix in that example, so all five columns are ordinary matrix columns. Row reduction finds pivot columns without making any claim about a solution set.
+						389 text The starting matrix is:
+						390 container Matrix; scroll horizontally if needed
+							391 container Matrix: 0, -3, -6, 4, 9; -1, -2, -1, 3, 1; -2, -3, 0, 3, -1; 1, 4, 5, -9, -7
+								392 container
+									393 text [
+									394 container
+										395 text 0
+										396 container
+											397 text − 3
+										398 container
+											399 text − 6
+										400 text 4
+										401 text 9
+									402 container
+										403 container
+											404 text − 1
+										405 container
+											406 text − 2
+										407 container
+											408 text − 1
+										409 text 3
+										410 text 1
+									411 container
+										412 container
+											413 text − 2
+										414 container
+											415 text − 3
+										416 text 0
+										417 text 3
+										418 container
+											419 text − 1
+									420 container
+										421 text 1
+										422 text 4
+										423 text 5
+										424 container
+											425 text − 9
+										426 container
+											427 text − 7
+									428 text ]
+						429 container Mathematical walkthrough 1
+							430 text MATHEMATICAL WALKTHROUGH
+							431 heading One operation at a time, Value: 3
+								432 text One operation at a time
+							433 text All 12 verified operations · complete overview
+							434 button ← Previous Step
+							435 button Next Step →
+							436 toggle button Focus on One Step, Value: on
+							437 container Row operation 1 of 12
+								438 container
+									439 text Step 1: 
+									440 container
+										441 text R
+										442 text 1
+									443 text  ↔ 
+									444 container
+										445 text R
+										446 text 2
+									447 text .
+								448 text Move a nonzero entry into row 1 so that it can be used as a pivot. BEFORE
+								449 container Matrix; scroll horizontally if needed
+									450 container Matrix: 0, -3, -6, 4, 9; -1, -2, -1, 3, 1; -2, -3, 0, 3, -1; 1, 4, 5, -9, -7
+										451 container
+											452 text [
+											453 container
+												454 text 0
+												455 container
+													456 text − 3
+												457 container
+													458 text − 6
+												459 text 4
+												460 text 9
+											461 container
+												462 container
+													463 text − 1
+												464 container
+													465 text − 2
+												466 container
+													467 text − 1
+												468 text 3
+												469 text 1
+											470 container
+												471 container
+													472 text − 2
+												473 container
+													474 text − 3
+												475 text 0
+												476 text 3
+												477 container
+													478 text − 1
+											479 container
+												480 text 1
+												481 text 4
+												482 text 5
+												483 container
+													484 text − 9
+												485 container
+													486 text − 7
+											487 text ]
+								488 text AFTER
+								489 container Matrix; scroll horizontally if needed
+									490 container Matrix: -1, -2, -1, 3, 1; 0, -3, -6, 4, 9; -2, -3, 0, 3, -1; 1, 4, 5, -9, -7
+										491 container
+											492 text [
+											493 container
+												494 container
+													495 text − 1
+												496 container
+													497 text − 2
+												498 container
+													499 text − 1
+												500 text 3
+												501 text 1
+											502 container
+												503 text 0
+												504 container
+													505 text − 3
+												506 container
+													507 text − 6
+												508 text 4
+												509 text 9
+											510 container
+												511 container
+													512 text − 2
+												513 container
+													514 text − 3
+												515 text 0
+												516 text 3
+												517 container
+													518 text − 1
+											519 container
+												520 text 1
+												521 text 4
+												522 text 5
+												523 container
+													524 text − 9
+												525 container
+													526 text − 7
+											527 text ]
+								528 text Lavender: affected rows. Sage: pivot used.
+							529 container Row operation 2 of 12
+								530 container
+									531 text Step 2: 
+									532 container
+										533 text R
+										534 text 1
+									535 text  ← (-1)
+									536 container
+										537 text R
+										538 text 1
+									539 text .
+								540 text Multiply every entry of row 1, including any right-hand side, by -1. The pivot becomes 1; the multiplier is nonzero, so this step is reversible. BEFORE
+								541 container Matrix; scroll horizontally if needed
+									542 container Matrix: -1, -2, -1, 3, 1; 0, -3, -6, 4, 9; -2, -3, 0, 3, -1; 1, 4, 5, -9, -7
+										543 container
+											544 text [
+											545 container
+												546 container
+													547 text − 1
+												548 container
+													549 text − 2
+												550 container
+													551 text − 1
+												552 text 3
+												553 text 1
+											554 container
+												555 text 0
+												556 container
+													557 text − 3
+												558 container
+													559 text − 6
+												560 text 4
+												561 text 9
+											562 container
+												563 container
+													564 text − 2
+												565 container
+													566 text − 3
+												567 text 0
+												568 text 3
+												569 container
+													570 text − 1
+											571 container
+												572 text 1
+												573 text 4
+												574 text 5
+												575 container
+													576 text − 9
+												577 container
+													578 text − 7
+											579 text ]
+								580 text AFTER
+								581 container Matrix; scroll horizontally if needed
+									582 container Matrix: 1, 2, 1, -3, -1; 0, -3, -6, 4, 9; -2, -3, 0, 3, -1; 1, 4, 5, -9, -7
+										583 container
+											584 text [
+											585 container
+												586 text 1
+												587 text 2
+												588 text 1
+												589 container
+													590 text − 3
+												591 container
+													592 text − 1
+											593 container
+												594 text 0
+												595 container
+													596 text − 3
+												597 container
+													598 text − 6
+												599 text 4
+												600 text 9
+											601 container
+												602 container
+													603 text − 2
+												604 container
+													605 text − 3
+												606 text 0
+												607 text 3
+												608 container
+													609 text − 1
+											610 container
+												611 text 1
+												612 text 4
+												613 text 5
+												614 container
+													615 text − 9
+												616 container
+													617 text − 7
+											618 text ]
+								619 text Lavender: affected row. Sage: pivot used.
+							620 container Row operation 3 of 12
+								621 container
+									622 text Step 3: 
+									623 container
+										624 text R
+										625 text 3
+									626 text  ← 
+									627 container
+										628 text R
+										629 text 3
+									630 text  + (2)
+									631 container
+										632 text R
+										633 text 1
+									634 text .
+								635 text Add 2 times row 1 to row 3. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								636 container Matrix; scroll horizontally if needed
+									637 container Matrix: 1, 2, 1, -3, -1; 0, -3, -6, 4, 9; -2, -3, 0, 3, -1; 1, 4, 5, -9, -7
+										638 container
+											639 text [
+											640 container
+												641 text 1
+												642 text 2
+												643 text 1
+												644 container
+													645 text − 3
+												646 container
+													647 text − 1
+											648 container
+												649 text 0
+												650 container
+													651 text − 3
+												652 container
+													653 text − 6
+												654 text 4
+												655 text 9
+											656 container
+												657 container
+													658 text − 2
+												659 container
+													660 text − 3
+												661 text 0
+												662 text 3
+												663 container
+													664 text − 1
+											665 container
+												666 text 1
+												667 text 4
+												668 text 5
+												669 container
+													670 text − 9
+												671 container
+													672 text − 7
+											673 text ]
+								674 text AFTER
+								675 container Matrix; scroll horizontally if needed
+									676 container Matrix: 1, 2, 1, -3, -1; 0, -3, -6, 4, 9; 0, 1, 2, -3, -3; 1, 4, 5, -9, -7
+										677 container
+											678 text [
+											679 container
+												680 text 1
+												681 text 2
+												682 text 1
+												683 container
+													684 text − 3
+												685 container
+													686 text − 1
+											687 container
+												688 text 0
+												689 container
+													690 text − 3
+												691 container
+													692 text − 6
+												693 text 4
+												694 text 9
+											695 container
+												696 text 0
+												697 text 1
+												698 text 2
+												699 container
+													700 text − 3
+												701 container
+													702 text − 3
+											703 container
+												704 text 1
+												705 text 4
+												706 text 5
+												707 container
+													708 text − 9
+												709 container
+													710 text − 7
+											711 text ]
+								712 text Lavender: affected row. Sage: pivot used.
+							713 container Row operation 4 of 12
+								714 container
+									715 text Step 4: 
+									716 container
+										717 text R
+										718 text 4
+									719 text  ← 
+									720 container
+										721 text R
+										722 text 4
+									723 text  + (-1)
+									724 container
+										725 text R
+										726 text 1
+									727 text .
+								728 text Add -1 times row 1 to row 4. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								729 container Matrix; scroll horizontally if needed
+									730 container Matrix: 1, 2, 1, -3, -1; 0, -3, -6, 4, 9; 0, 1, 2, -3, -3; 1, 4, 5, -9, -7
+										731 container
+											732 text [
+											733 container
+												734 text 1
+												735 text 2
+												736 text 1
+												737 container
+													738 text − 3
+												739 container
+													740 text − 1
+											741 container
+												742 text 0
+												743 container
+													744 text − 3
+												745 container
+													746 text − 6
+												747 text 4
+												748 text 9
+											749 container
+												750 text 0
+												751 text 1
+												752 text 2
+												753 container
+													754 text − 3
+												755 container
+													756 text − 3
+											757 container
+												758 text 1
+												759 text 4
+												760 text 5
+												761 container
+													762 text − 9
+												763 container
+													764 text − 7
+											765 text ]
+								766 text AFTER
+								767 container Matrix; scroll horizontally if needed
+									768 container Matrix: 1, 2, 1, -3, -1; 0, -3, -6, 4, 9; 0, 1, 2, -3, -3; 0, 2, 4, -6, -6
+										769 container
+											770 text [
+											771 container
+												772 text 1
+												773 text 2
+												774 text 1
+												775 container
+													776 text − 3
+												777 container
+													778 text − 1
+											779 container
+												780 text 0
+												781 container
+													782 text − 3
+												783 container
+													784 text − 6
+												785 text 4
+												786 text 9
+											787 container
+												788 text 0
+												789 text 1
+												790 text 2
+												791 container
+													792 text − 3
+												793 container
+													794 text − 3
+											795 container
+												796 text 0
+												797 text 2
+												798 text 4
+												799 container
+													800 text − 6
+												801 container
+													802 text − 6
+											803 text ]
+								804 text Lavender: affected row. Sage: pivot used.
+							805 container Row operation 5 of 12
+								806 container
+									807 text Step 5: 
+									808 container
+										809 text R
+										810 text 2
+									811 text  ← (
+									812 container
+										813 text −
+										814 text 1
+										815 text 3
+									816 text )
+									817 container
+										818 text R
+										819 text 2
+									820 text .
+								821 text Multiply every entry of row 2, including any right-hand side, by 
+								822 container
+									823 text −
+									824 text 1
+									825 text 3
+								826 text . The pivot becomes 1; the multiplier is nonzero, so this step is reversible. BEFORE
+								827 container Matrix; scroll horizontally if needed
+									828 container Matrix: 1, 2, 1, -3, -1; 0, -3, -6, 4, 9; 0, 1, 2, -3, -3; 0, 2, 4, -6, -6
+										829 container
+											830 text [
+											831 container
+												832 text 1
+												833 text 2
+												834 text 1
+												835 container
+													836 text − 3
+												837 container
+													838 text − 1
+											839 container
+												840 text 0
+												841 container
+													842 text − 3
+												843 container
+													844 text − 6
+												845 text 4
+												846 text 9
+											847 container
+												848 text 0
+												849 text 1
+												850 text 2
+												851 container
+													852 text − 3
+												853 container
+													854 text − 3
+											855 container
+												856 text 0
+												857 text 2
+												858 text 4
+												859 container
+													860 text − 6
+												861 container
+													862 text − 6
+											863 text ]
+								864 text AFTER
+								865 container Matrix; scroll horizontally if needed
+									866 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 1, 2, -3, -3; 0, 2, 4, -6, -6
+										867 container
+											868 text [
+											869 container
+												870 text 1
+												871 text 2
+												872 text 1
+												873 container
+													874 text − 3
+												875 container
+													876 text − 1
+											877 container
+												878 text 0
+												879 text 1
+												880 text 2
+												881 container
+													882 text −
+													883 text 4
+													884 text 3
+												885 container
+													886 text − 3
+											887 container
+												888 text 0
+												889 text 1
+												890 text 2
+												891 container
+													892 text − 3
+												893 container
+													894 text − 3
+											895 container
+												896 text 0
+												897 text 2
+												898 text 4
+												899 container
+													900 text − 6
+												901 container
+													902 text − 6
+											903 text ]
+								904 text Lavender: affected row. Sage: pivot used.
+							905 container Row operation 6 of 12
+								906 container
+									907 text Step 6: 
+									908 container
+										909 text R
+										910 text 3
+									911 text  ← 
+									912 container
+										913 text R
+										914 text 3
+									915 text  + (-1)
+									916 container
+										917 text R
+										918 text 2
+									919 text .
+								920 text Add -1 times row 2 to row 3. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								921 container Matrix; scroll horizontally if needed
+									922 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 1, 2, -3, -3; 0, 2, 4, -6, -6
+										923 container
+											924 text [
+											925 container
+												926 text 1
+												927 text 2
+												928 text 1
+												929 container
+													930 text − 3
+												931 container
+													932 text − 1
+											933 container
+												934 text 0
+												935 text 1
+												936 text 2
+												937 container
+													938 text −
+													939 text 4
+													940 text 3
+												941 container
+													942 text − 3
+											943 container
+												944 text 0
+												945 text 1
+												946 text 2
+												947 container
+													948 text − 3
+												949 container
+													950 text − 3
+											951 container
+												952 text 0
+												953 text 2
+												954 text 4
+												955 container
+													956 text − 6
+												957 container
+													958 text − 6
+											959 text ]
+								960 text AFTER
+								961 container Matrix; scroll horizontally if needed
+									962 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, -5/3, 0; 0, 2, 4, -6, -6
+										963 container
+											964 text [
+											965 container
+												966 text 1
+												967 text 2
+												968 text 1
+												969 container
+													970 text − 3
+												971 container
+													972 text − 1
+											973 container
+												974 text 0
+												975 text 1
+												976 text 2
+												977 container
+													978 text −
+													979 text 4
+													980 text 3
+												981 container
+													982 text − 3
+											983 container
+												984 text 0
+												985 text 0
+												986 text 0
+												987 container
+													988 text −
+													989 text 5
+													990 text 3
+												991 text 0
+											992 container
+												993 text 0
+												994 text 2
+												995 text 4
+												996 container
+													997 text − 6
+												998 container
+													999 text − 6
+											1000 text ]
+								1001 text Lavender: affected row. Sage: pivot used.
+							1002 container Row operation 7 of 12
+								1003 container
+									1004 text Step 7: 
+									1005 container
+										1006 text R
+										1007 text 4
+									1008 text  ← 
+									1009 container
+										1010 text R
+										1011 text 4
+									1012 text  + (-2)
+									1013 container
+										1014 text R
+										1015 text 2
+									1016 text .
+								1017 text Add -2 times row 2 to row 4. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								1018 container Matrix; scroll horizontally if needed
+									1019 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, -5/3, 0; 0, 2, 4, -6, -6
+										1020 container
+											1021 text [
+											1022 container
+												1023 text 1
+												1024 text 2
+												1025 text 1
+												1026 container
+													1027 text − 3
+												1028 container
+													1029 text − 1
+											1030 container
+												1031 text 0
+												1032 text 1
+												1033 text 2
+												1034 container
+													1035 text −
+													1036 text 4
+													1037 text 3
+												1038 container
+													1039 text − 3
+											1040 container
+												1041 text 0
+												1042 text 0
+												1043 text 0
+												1044 container
+													1045 text −
+													1046 text 5
+													1047 text 3
+												1048 text 0
+											1049 container
+												1050 text 0
+												1051 text 2
+												1052 text 4
+												1053 container
+													1054 text − 6
+												1055 container
+													1056 text − 6
+											1057 text ]
+								1058 text AFTER
+								1059 container Matrix; scroll horizontally if needed
+									1060 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, -5/3, 0; 0, 0, 0, -10/3, 0
+										1061 container
+											1062 text [
+											1063 container
+												1064 text 1
+												1065 text 2
+												1066 text 1
+												1067 container
+													1068 text − 3
+												1069 container
+													1070 text − 1
+											1071 container
+												1072 text 0
+												1073 text 1
+												1074 text 2
+												1075 container
+													1076 text −
+													1077 text 4
+													1078 text 3
+												1079 container
+													1080 text − 3
+											1081 container
+												1082 text 0
+												1083 text 0
+												1084 text 0
+												1085 container
+													1086 text −
+													1087 text 5
+													1088 text 3
+												1089 text 0
+											1090 container
+												1091 text 0
+												1092 text 0
+												1093 text 0
+												1094 container
+													1095 text −
+													1096 text 10
+													1097 text 3
+												1098 text 0
+											1099 text ]
+								1100 text Lavender: affected row. Sage: pivot used.
+							1101 container Row operation 8 of 12
+								1102 container
+									1103 text Step 8: 
+									1104 container
+										1105 text R
+										1106 text 3
+									1107 text  ← (
+									1108 container
+										1109 text −
+										1110 text 3
+										1111 text 5
+									1112 text )
+									1113 container
+										1114 text R
+										1115 text 3
+									1116 text .
+								1117 text Multiply every entry of row 3, including any right-hand side, by 
+								1118 container
+									1119 text −
+									1120 text 3
+									1121 text 5
+								1122 text . The pivot becomes 1; the multiplier is nonzero, so this step is reversible. BEFORE
+								1123 container Matrix; scroll horizontally if needed
+									1124 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, -5/3, 0; 0, 0, 0, -10/3, 0
+										1125 container
+											1126 text [
+											1127 container
+												1128 text 1
+												1129 text 2
+												1130 text 1
+												1131 container
+													1132 text − 3
+												1133 container
+													1134 text − 1
+											1135 container
+												1136 text 0
+												1137 text 1
+												1138 text 2
+												1139 container
+													1140 text −
+													1141 text 4
+													1142 text 3
+												1143 container
+													1144 text − 3
+											1145 container
+												1146 text 0
+												1147 text 0
+												1148 text 0
+												1149 container
+													1150 text −
+													1151 text 5
+													1152 text 3
+												1153 text 0
+											1154 container
+												1155 text 0
+												1156 text 0
+												1157 text 0
+												1158 container
+													1159 text −
+													1160 text 10
+													1161 text 3
+												1162 text 0
+											1163 text ]
+								1164 text AFTER
+								1165 container Matrix; scroll horizontally if needed
+									1166 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, 1, 0; 0, 0, 0, -10/3, 0
+										1167 container
+											1168 text [
+											1169 container
+												1170 text 1
+												1171 text 2
+												1172 text 1
+												1173 container
+													1174 text − 3
+												1175 container
+													1176 text − 1
+											1177 container
+												1178 text 0
+												1179 text 1
+												1180 text 2
+												1181 container
+													1182 text −
+													1183 text 4
+													1184 text 3
+												1185 container
+													1186 text − 3
+											1187 container
+												1188 text 0
+												1189 text 0
+												1190 text 0
+												1191 text 1
+												1192 text 0
+											1193 container
+												1194 text 0
+												1195 text 0
+												1196 text 0
+												1197 container
+													1198 text −
+													1199 text 10
+													1200 text 3
+												1201 text 0
+											1202 text ]
+								1203 text Lavender: affected row. Sage: pivot used.
+							1204 container Row operation 9 of 12
+								1205 container
+									1206 text Step 9: 
+									1207 container
+										1208 text R
+										1209 text 4
+									1210 text  ← 
+									1211 container
+										1212 text R
+										1213 text 4
+									1214 text  + (
+									1215 container
+										1216 text 10 3
+									1217 text )
+									1218 container
+										1219 text R
+										1220 text 3
+									1221 text .
+								1222 text Add 
+								1223 container
+									1224 text 10 3
+								1225 text  times row 3 to row 4. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								1226 container Matrix; scroll horizontally if needed
+									1227 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, 1, 0; 0, 0, 0, -10/3, 0
+										1228 container
+											1229 text [
+											1230 container
+												1231 text 1
+												1232 text 2
+												1233 text 1
+												1234 container
+													1235 text − 3
+												1236 container
+													1237 text − 1
+											1238 container
+												1239 text 0
+												1240 text 1
+												1241 text 2
+												1242 container
+													1243 text −
+													1244 text 4
+													1245 text 3
+												1246 container
+													1247 text − 3
+											1248 container
+												1249 text 0
+												1250 text 0
+												1251 text 0
+												1252 text 1
+												1253 text 0
+											1254 container
+												1255 text 0
+												1256 text 0
+												1257 text 0
+												1258 container
+													1259 text −
+													1260 text 10
+													1261 text 3
+												1262 text 0
+											1263 text ]
+								1264 text AFTER
+								1265 container Matrix; scroll horizontally if needed
+									1266 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1267 container
+											1268 text [
+											1269 container
+												1270 text 1
+												1271 text 2
+												1272 text 1
+												1273 container
+													1274 text − 3
+												1275 container
+													1276 text − 1
+											1277 container
+												1278 text 0
+												1279 text 1
+												1280 text 2
+												1281 container
+													1282 text −
+													1283 text 4
+													1284 text 3
+												1285 container
+													1286 text − 3
+											1287 container
+												1288 text 0
+												1289 text 0
+												1290 text 0
+												1291 text 1
+												1292 text 0
+											1293 container
+												1294 text 0
+												1295 text 0
+												1296 text 0
+												1297 text 0
+												1298 text 0
+											1299 text ]
+								1300 text Lavender: affected row. Sage: pivot used.
+							1301 container Row operation 10 of 12
+								1302 container
+									1303 text Step 10: 
+									1304 container
+										1305 text R
+										1306 text 1
+									1307 text  ← 
+									1308 container
+										1309 text R
+										1310 text 1
+									1311 text  + (3)
+									1312 container
+										1313 text R
+										1314 text 3
+									1315 text .
+								1316 text Add 3 times row 3 to row 1. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								1317 container Matrix; scroll horizontally if needed
+									1318 container Matrix: 1, 2, 1, -3, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1319 container
+											1320 text [
+											1321 container
+												1322 text 1
+												1323 text 2
+												1324 text 1
+												1325 container
+													1326 text − 3
+												1327 container
+													1328 text − 1
+											1329 container
+												1330 text 0
+												1331 text 1
+												1332 text 2
+												1333 container
+													1334 text −
+													1335 text 4
+													1336 text 3
+												1337 container
+													1338 text − 3
+											1339 container
+												1340 text 0
+												1341 text 0
+												1342 text 0
+												1343 text 1
+												1344 text 0
+											1345 container
+												1346 text 0
+												1347 text 0
+												1348 text 0
+												1349 text 0
+												1350 text 0
+											1351 text ]
+								1352 text AFTER
+								1353 container Matrix; scroll horizontally if needed
+									1354 container Matrix: 1, 2, 1, 0, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1355 container
+											1356 text [
+											1357 container
+												1358 text 1
+												1359 text 2
+												1360 text 1
+												1361 text 0
+												1362 container
+													1363 text − 1
+											1364 container
+												1365 text 0
+												1366 text 1
+												1367 text 2
+												1368 container
+													1369 text −
+													1370 text 4
+													1371 text 3
+												1372 container
+													1373 text − 3
+											1374 container
+												1375 text 0
+												1376 text 0
+												1377 text 0
+												1378 text 1
+												1379 text 0
+											1380 container
+												1381 text 0
+												1382 text 0
+												1383 text 0
+												1384 text 0
+												1385 text 0
+											1386 text ]
+								1387 text Lavender: affected row. Sage: pivot used.
+							1388 container Row operation 11 of 12
+								1389 container
+									1390 text Step 11: 
+									1391 container
+										1392 text R
+										1393 text 2
+									1394 text  ← 
+									1395 container
+										1396 text R
+										1397 text 2
+									1398 text  + (
+									1399 container
+										1400 text 4 3
+									1401 text )
+									1402 container
+										1403 text R
+										1404 text 3
+									1405 text .
+								1406 text Add 
+								1407 container
+									1408 text 4 3
+								1409 text  times row 3 to row 2. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								1410 container Matrix; scroll horizontally if needed
+									1411 container Matrix: 1, 2, 1, 0, -1; 0, 1, 2, -4/3, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1412 container
+											1413 text [
+											1414 container
+												1415 text 1
+												1416 text 2
+												1417 text 1
+												1418 text 0
+												1419 container
+													1420 text − 1
+											1421 container
+												1422 text 0
+												1423 text 1
+												1424 text 2
+												1425 container
+													1426 text −
+													1427 text 4
+													1428 text 3
+												1429 container
+													1430 text − 3
+											1431 container
+												1432 text 0
+												1433 text 0
+												1434 text 0
+												1435 text 1
+												1436 text 0
+											1437 container
+												1438 text 0
+												1439 text 0
+												1440 text 0
+												1441 text 0
+												1442 text 0
+											1443 text ]
+								1444 text AFTER
+								1445 container Matrix; scroll horizontally if needed
+									1446 container Matrix: 1, 2, 1, 0, -1; 0, 1, 2, 0, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1447 container
+											1448 text [
+											1449 container
+												1450 text 1
+												1451 text 2
+												1452 text 1
+												1453 text 0
+												1454 container
+													1455 text − 1
+											1456 container
+												1457 text 0
+												1458 text 1
+												1459 text 2
+												1460 text 0
+												1461 container
+													1462 text − 3
+											1463 container
+												1464 text 0
+												1465 text 0
+												1466 text 0
+												1467 text 1
+												1468 text 0
+											1469 container
+												1470 text 0
+												1471 text 0
+												1472 text 0
+												1473 text 0
+												1474 text 0
+											1475 text ]
+								1476 text Lavender: affected row. Sage: pivot used.
+							1477 container Row operation 12 of 12
+								1478 container
+									1479 text Step 12: 
+									1480 container
+										1481 text R
+										1482 text 1
+									1483 text  ← 
+									1484 container
+										1485 text R
+										1486 text 1
+									1487 text  + (-2)
+									1488 container
+										1489 text R
+										1490 text 2
+									1491 text .
+								1492 text Add -2 times row 2 to row 1. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								1493 container Matrix; scroll horizontally if needed
+									1494 container Matrix: 1, 2, 1, 0, -1; 0, 1, 2, 0, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1495 container
+											1496 text [
+											1497 container
+												1498 text 1
+												1499 text 2
+												1500 text 1
+												1501 text 0
+												1502 container
+													1503 text − 1
+											1504 container
+												1505 text 0
+												1506 text 1
+												1507 text 2
+												1508 text 0
+												1509 container
+													1510 text − 3
+											1511 container
+												1512 text 0
+												1513 text 0
+												1514 text 0
+												1515 text 1
+												1516 text 0
+											1517 container
+												1518 text 0
+												1519 text 0
+												1520 text 0
+												1521 text 0
+												1522 text 0
+											1523 text ]
+								1524 text AFTER
+								1525 container Matrix; scroll horizontally if needed
+									1526 container Matrix: 1, 0, -3, 0, 5; 0, 1, 2, 0, -3; 0, 0, 0, 1, 0; 0, 0, 0, 0, 0
+										1527 container
+											1528 text [
+											1529 container
+												1530 text 1
+												1531 text 0
+												1532 container
+													1533 text − 3
+												1534 text 0
+												1535 text 5
+											1536 container
+												1537 text 0
+												1538 text 1
+												1539 text 2
+												1540 text 0
+												1541 container
+													1542 text − 3
+											1543 container
+												1544 text 0
+												1545 text 0
+												1546 text 0
+												1547 text 1
+												1548 text 0
+											1549 container
+												1550 text 0
+												1551 text 0
+												1552 text 0
+												1553 text 0
+												1554 text 0
+											1555 text ]
+								1556 text Lavender: affected row. Sage: pivot used.
+						1557 text The pivots occur in columns 1, 2, 4. Mark those column numbers in the original matrix as well as the reduced one. The entries of a reduced pivot column are generally not the entries of the corresponding original column.
+						1558 heading 2.4 A larger course reduction, Value: 2
+							1559 text 2.4 A larger course reduction
+						1560 text SEE THE IDEA
+						1561 heading A skipped column tells you something, Value: 3
+							1562 text A skipped column tells you something
+						1563 text A column without an available pivot supplies no new leading position.
+						1564 content list
+							1565 container 1 Inspect the next possible column →
+							1566 container 2 If every available entry is 0, skip it →
+							1567 container 3 Keep the full column in every matrix
+						1568 text Remember. The original nine operations below remain available in order.
+						1569 text THE COMPLETE EXPLANATION
+						1570 text Combined PDF pages 17-22 use the following 3 × 6 matrix. This is an algorithm example, not automatically a five-variable system. We reduce every column and identify the pivots. If you later interpret the last column as appended constants, only the first five columns represent unknowns.
+						1571 text The starting matrix is:
+						1572 container Matrix; scroll horizontally if needed
+							1573 container Matrix: 0, 3, -6, 6, 4, -5; 3, -7, 8, -5, 8, 9; 3, -9, 12, -9, 6, 15
+								1574 container
+									1575 text [
+									1576 container
+										1577 text 0
+										1578 text 3
+										1579 container
+											1580 text − 6
+										1581 text 6
+										1582 text 4
+										1583 container
+											1584 text − 5
+									1585 container
+										1586 text 3
+										1587 container
+											1588 text − 7
+										1589 text 8
+										1590 container
+											1591 text − 5
+										1592 text 8
+										1593 text 9
+									1594 container
+										1595 text 3
+										1596 container
+											1597 text − 9
+										1598 text 12
+										1599 container
+											1600 text − 9
+										1601 text 6
+										1602 text 15
+									1603 text ]
+						1604 container Mathematical walkthrough 2
+							1605 text MATHEMATICAL WALKTHROUGH
+							1606 heading One operation at a time, Value: 3
+								1607 text One operation at a time
+							1608 text Step 1 of 9 · Swap the rows to place a nonzero pivot
+							1609 button (disabled) ← Previous Step
+							1610 button Next Step →
+							1611 toggle button Show All Steps, Value: off
+							1612 container Row operation 1 of 9
+								1613 container
+									1614 text Step 1: 
+									1615 container
+										1616 text R
+										1617 text 1
+									1618 text  ↔ 
+									1619 container
+										1620 text R
+										1621 text 2
+									1622 text .
+								1623 text Move a nonzero entry into row 1 so that it can be used as a pivot. BEFORE
+								1624 container Matrix; scroll horizontally if needed
+									1625 container Matrix: 0, 3, -6, 6, 4, -5; 3, -7, 8, -5, 8, 9; 3, -9, 12, -9, 6, 15
+										1626 container
+											1627 text [
+											1628 container
+												1629 text 0
+												1630 text 3
+												1631 container
+													1632 text − 6
+												1633 text 6
+												1634 text 4
+												1635 container
+													1636 text − 5
+											1637 container
+												1638 text 3
+												1639 container
+													1640 text − 7
+												1641 text 8
+												1642 container
+													1643 text − 5
+												1644 text 8
+												1645 text 9
+											1646 container
+												1647 text 3
+												1648 container
+													1649 text − 9
+												1650 text 12
+												1651 container
+													1652 text − 9
+												1653 text 6
+												1654 text 15
+											1655 text ]
+								1656 text AFTER
+								1657 container Matrix; scroll horizontally if needed
+									1658 container Matrix: 3, -7, 8, -5, 8, 9; 0, 3, -6, 6, 4, -5; 3, -9, 12, -9, 6, 15
+										1659 container
+											1660 text [
+											1661 container
+												1662 text 3
+												1663 container
+													1664 text − 7
+												1665 text 8
+												1666 container
+													1667 text − 5
+												1668 text 8
+												1669 text 9
+											1670 container
+												1671 text 0
+												1672 text 3
+												1673 container
+													1674 text − 6
+												1675 text 6
+												1676 text 4
+												1677 container
+													1678 text − 5
+											1679 container
+												1680 text 3
+												1681 container
+													1682 text − 9
+												1683 text 12
+												1684 container
+													1685 text − 9
+												1686 text 6
+												1687 text 15
+											1688 text ]
+								1689 text Lavender: affected rows. Sage: pivot used.
+						1690 text The pivots are in columns 1,2,5. Column 3 cannot acquire an additional pivot without contradicting the existing row constraints. A skipped column is mathematically meaningful; it is not an unsuccessful step.
+						1691 heading 2.5 Basic and free variables: what freedom means, Value: 2
+							1692 text 2.5 Basic and free variables: what freedom means
+						1693 text SEE THE IDEA
+						1694 heading Choose the free input; calculate the rest, Value: 3
+							1695 text Choose the free input; calculate the rest
+						1696 container
+							1697 text Here 
+							1698 container
+								1699 text x
+								1700 text 3
+							1701 text  = s is free. The two pivot equations determine 
+							1702 container
+								1703 text x
+								1704 text 1
+							1705 text  and 
+							1706 container
+								1707 text x
+								1708 text 2
+							1709 text .
+						1710 container Comparison table
+							1711 table
+								1712 row (selectable) Choose s =
+x
+3
+Compute
+x
+1
+= 3 + 2s,
+x
+2
+= 4 − s
+Solution x
+								1713 row (selectable)
+									1714 cell (selectable) 0
+									1715 cell (selectable) 3, 4
+									1716 cell (selectable) (3,4,0)
+								1717 row (selectable)
+									1718 cell (selectable) 1
+									1719 cell (selectable) 5, 3
+									1720 cell (selectable) (5,3,1)
+								1721 row (selectable)
+									1722 cell (selectable) −1
+									1723 cell (selectable) 1, 5
+									1724 cell (selectable) (1,5,−1)
+						1725 container Example equation
+							1726 container
+								1727 text (
+								1728 container
+									1729 text 3 + 2 s
+								1730 text )
+								1731 text − 2 s = 3
+						1732 container Example equation
+							1733 container
+								1734 text (
+								1735 container
+									1736 text 4 − s
+								1737 text )
+								1738 text + s = 4
+						1739 text Remember. Different parameter values produce different valid solutions.
+						1740 text THE COMPLETE EXPLANATION
+						1741 container
+							1742 text Suppose the augmented matrix is already in the following reduced form. It has three coefficient columns and one constant column. A missing pivot in coefficient column 3 means 
+							1743 container
+								1744 text x
+								1745 text 3
+							1746 text  can be chosen freely, provided no contradiction occurs. It does not mean that 
+							1747 container
+								1748 text x
+								1749 text 3
+							1750 text  must be zero or that it can be omitted from the answer.
+						1751 text Each coefficient column corresponds to one unknown; the column after the vertical divider records the right-hand sides. We use reversible row operations to reveal the constraints.
+						1752 text The starting matrix is:
+						1753 container Matrix; scroll horizontally if needed
+							1754 container Matrix: 1, 0, -2 | 3; 0, 1, 1 | 4; 0, 0, 0 | 0
+								1755 container
+									1756 text [
+									1757 container
+										1758 text 1
+										1759 text 0
+										1760 container
+											1761 text − 2
+										1762 text 3
+									1763 container
+										1764 text 0
+										1765 text 1
+										1766 text 1
+										1767 text 4
+									1768 container
+										1769 text 0
+										1770 text 0
+										1771 text 0
+										1772 text 0
+									1773 text ]
+						1774 text It already has the required reduced form, so no row operation is necessary.
+						1775 container
+							1776 text Read the equations. 
+							1777 container
+								1778 text x
+								1779 text 1
+							1780 text  - 2 
+							1781 container
+								1782 text x
+								1783 text 3
+							1784 text  = 3; 
+							1785 container
+								1786 text x
+								1787 text 2
+							1788 text  + 
+							1789 container
+								1790 text x
+								1791 text 3
+							1792 text  = 4
+						1793 container
+							1794 text The pivot columns are 1, 2. Thus 
+							1795 container
+								1796 text x
+								1797 text 1
+							1798 text , 
+							1799 container
+								1800 text x
+								1801 text 2
+							1802 text  are basic variables. 
+							1803 container
+								1804 text x
+								1805 text 3
+							1806 text  have no leading pivots. Their values may be chosen arbitrarily; the pivot equations then determine the remaining entries. A zero row means 0 = 0 and imposes no additional restriction.
+						1807 container
+							1808 text Set 
+							1809 container
+								1810 text x
+								1811 text 3
+							1812 text  = s with all parameters real. The complete coordinate answer is:
+						1813 container Equation; scroll horizontally if needed
+							1814 container
+								1815 text x
+								1816 text 1
+								1817 text = 3 + 2 s
+						1818 container Equation; scroll horizontally if needed
+							1819 container
+								1820 text x
+								1821 text 2
+								1822 text = 4 − s
+						1823 container Equation; scroll horizontally if needed
+							1824 container
+								1825 text x
+								1826 text 3
+								1827 text = s
+						1828 container
+							1829 text In vector form, assemble the constant entries into p and the coefficients of each parameter into a direction vector. Every solution is x = p + s 
+							1830 container
+								1831 text v
+								1832 text 1
+							1833 text , where:
+						1834 text p =
+						1835 container Matrix; scroll horizontally if needed
+							1836 container Matrix: 3; 4; 0
+								1837 container
+									1838 text [
+									1839 text 3
+									1840 text 4
+									1841 text 0
+									1842 text ]
+						1843 container
+							1844 container
+								1845 text v
+								1846 text 1
+							1847 text  =
+						1848 container Matrix; scroll horizontally if needed
+							1849 container Matrix: 2; -1; 1
+								1850 container
+									1851 text [
+									1852 text 2
+									1853 container
+										1854 text − 1
+									1855 text 1
+									1856 text ]
+						1857 text For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other parameters to 0 gives:
+						1858 container Matrix; scroll horizontally if needed
+							1859 container Matrix: 5; 3; 1
+								1860 container
+									1861 text [
+									1862 text 5
+									1863 text 3
+									1864 text 1
+									1865 text ]
+						1866 text These are different because the selected free coordinate changes. Infinitely many real parameter values give infinitely many different solutions.
+						1867 text Verification in the original equations. For p, the left-hand sides A p are:
+						1868 container Matrix; scroll horizontally if needed
+							1869 container Matrix: 3; 4; 0
+								1870 container
+									1871 text [
+									1872 text 3
+									1873 text 4
+									1874 text 0
+									1875 text ]
+						1876 container
+							1877 text These entries equal the original right-hand sides, in order. For direction 
+							1878 container
+								1879 text v
+								1880 text 1
+							1881 text , multiplying by the original A gives the zero vector. Therefore A(p + s 
+							1882 container
+								1883 text v
+								1884 text 1
+							1885 text ) = A p + s A 
+							1886 container
+								1887 text v
+								1888 text 1
+							1889 text  = b for every parameter choice. Conversely, the pivot equations show that every solution has this form.
+						1890 container
+							1891 text For the lecture's related reduced matrix [1,0,-5 | 1], [0,1,1 | 4], [0,0,0 | 0], the same reasoning gives 
+							1892 container
+								1893 text x
+								1894 text 1
+							1895 text  = 1 + 5t, 
+							1896 container
+								1897 text x
+								1898 text 2
+							1899 text  = 4 - t, 
+							1900 container
+								1901 text x
+								1902 text 3
+							1903 text  = t. Choosing t = 0 gives (1,4,0), and choosing t = 1 gives (6,3,1). Both satisfy 
+							1904 container
+								1905 text x
+								1906 text 1
+							1907 text  - 5
+							1908 container
+								1909 text x
+								1910 text 3
+							1911 text  = 1 and 
+							1912 container
+								1913 text x
+								1914 text 2
+							1915 text  + 
+							1916 container
+								1917 text x
+								1918 text 3
+							1919 text  = 4. Different formulas can describe the same solution set if you choose a different parameter; RREF itself is still unique.
+						1920 heading 2.6 Two free variables and complete answers, Value: 2
+							1921 text 2.6 Two free variables and complete answers
+						1922 text SEE THE IDEA
+						1923 heading Two free variables need two separate choices, Value: 3
+							1924 text Two free variables need two separate choices
+						1925 container
+							1926 text The four-unknown example below has free 
+							1927 container
+								1928 text x
+								1929 text 2
+							1930 text  and 
+							1931 container
+								1932 text x
+								1933 text 4
+							1934 text . Choose them independently.
+						1935 container Comparison table
+							1936 table
+								1937 row (selectable) Free choices
+Basic variables
+								1938 row (selectable)
+									1939 cell (selectable) x
+2
+= s,
+x
+4
+= t
+									1940 cell (selectable) x
+1
+= 5 − 2s − t
+								1941 row (selectable)
+									1942 cell (selectable) s,t ∈ ℝ independently
+									1943 cell (selectable) x
+3
+= 1 + 2t
+						1944 text Remember. Using the same parameter for both free variables would impose an extra equation.
+						1945 text THE COMPLETE EXPLANATION
+						1946 text More unknowns than pivots can leave several independent choices. Use a different parameter for each free variable. The following original example has four unknowns. Do not use the same t for both free variables, because that would impose an extra restriction not present in the equations.
+						1947 text Each coefficient column corresponds to one unknown; the column after the vertical divider records the right-hand sides. We use reversible row operations to reveal the constraints.
+						1948 text The starting matrix is:
+						1949 container Matrix; scroll horizontally if needed
+							1950 container Matrix: 1, 2, -1, 3 | 4; 2, 4, -2, 6 | 8; 0, 0, 1, -2 | 1
+								1951 container
+									1952 text [
+									1953 container
+										1954 text 1
+										1955 text 2
+										1956 container
+											1957 text − 1
+										1958 text 3
+										1959 text 4
+									1960 container
+										1961 text 2
+										1962 text 4
+										1963 container
+											1964 text − 2
+										1965 text 6
+										1966 text 8
+									1967 container
+										1968 text 0
+										1969 text 0
+										1970 text 1
+										1971 container
+											1972 text − 2
+										1973 text 1
+									1974 text ]
+						1975 container Mathematical walkthrough 3
+							1976 text MATHEMATICAL WALKTHROUGH
+							1977 heading One operation at a time, Value: 3
+								1978 text One operation at a time
+							1979 text Step 1 of 3 · Use the pivot row to clear a target entry
+							1980 button (disabled) ← Previous Step
+							1981 button Next Step →
+							1982 toggle button Show All Steps, Value: off
+							1983 container Row operation 1 of 3
+								1984 container
+									1985 text Step 1: 
+									1986 container
+										1987 text R
+										1988 text 2
+									1989 text  ← 
+									1990 container
+										1991 text R
+										1992 text 2
+									1993 text  + (-2)
+									1994 container
+										1995 text R
+										1996 text 1
+									1997 text .
+								1998 text Add -2 times row 1 to row 2. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+								1999 container Matrix; scroll horizontally if needed
+									2000 container Matrix: 1, 2, -1, 3 | 4; 2, 4, -2, 6 | 8; 0, 0, 1, -2 | 1
+										2001 container
+											2002 text [
+											2003 container
+												2004 text 1
+												2005 text 2
+												2006 container
+													2007 text − 1
+												2008 text 3
+												2009 text 4
+											2010 container
+												2011 text 2
+												2012 text 4
+												2013 container
+													2014 text − 2
+												2015 text 6
+												2016 text 8
+											2017 container
+												2018 text 0
+												2019 text 0
+												2020 text 1
+												2021 container
+													2022 text − 2
+												2023 text 1
+											2024 text ]
+								2025 text AFTER
+								2026 container Matrix; scroll horizontally if needed
+									2027 container Matrix: 1, 2, -1, 3 | 4; 0, 0, 0, 0 | 0; 0, 0, 1, -2 | 1
+										2028 container
+											2029 text [
+											2030 container
+												2031 text 1
+												2032 text 2
+												2033 container
+													2034 text − 1
+												2035 text 3
+												2036 text 4
+											2037 container
+												2038 text 0
+												2039 text 0
+												2040 text 0
+												2041 text 0
+												2042 text 0
+											2043 container
+												2044 text 0
+												2045 text 0
+												2046 text 1
+												2047 container
+													2048 text − 2
+												2049 text 1
+											2050 text ]
+								2051 text Lavender: affected row. Sage: pivot used.
+						2052 container
+							2053 text Read the equations. 
+							2054 container
+								2055 text x
+								2056 text 1
+							2057 text  + 2 
+							2058 container
+								2059 text x
+								2060 text 2
+							2061 text  + 
+							2062 container
+								2063 text x
+								2064 text 4
+							2065 text  = 5; 
+							2066 container
+								2067 text x
+								2068 text 3
+							2069 text  - 2 
+							2070 container
+								2071 text x
+								2072 text 4
+							2073 text  = 1
+						2074 container
+							2075 text The pivot columns are 1, 3. Thus 
+							2076 container
+								2077 text x
+								2078 text 1
+							2079 text , 
+							2080 container
+								2081 text x
+								2082 text 3
+							2083 text  are basic variables. 
+							2084 container
+								2085 text x
+								2086 text 2
+							2087 text , 
+							2088 container
+								2089 text x
+								2090 text 4
+							2091 text  have no leading pivots. Their values may be chosen arbitrarily; the pivot equations then determine the remaining entries. A zero row means 0 = 0 and imposes no additional restriction.
+						2092 container
+							2093 text Set 
+							2094 container
+								2095 text x
+								2096 text 2
+							2097 text  = s, 
+							2098 container
+								2099 text x
+								2100 text 4
+							2101 text  = t with all parameters real. The complete coordinate answer is:
+						2102 container Equation; scroll horizontally if needed
+							2103 container
+								2104 text x
+								2105 text 1
+								2106 text = 5 − 2 s − t
+						2107 container Equation; scroll horizontally if needed
+							2108 container
+								2109 text x
+								2110 text 2
+								2111 text = s
+						2112 container Equation; scroll horizontally if needed
+							2113 container
+								2114 text x
+								2115 text 3
+								2116 text = 1 + 2 t
+						2117 container Equation; scroll horizontally if needed
+							2118 container
+								2119 text x
+								2120 text 4
+								2121 text = t
+						2122 container
+							2123 text In vector form, assemble the constant entries into p and the coefficients of each parameter into a direction vector. Every solution is x = p + s 
+							2124 container
+								2125 text v
+								2126 text 1
+							2127 text  + t 
+							2128 container
+								2129 text v
+								2130 text 2
+							2131 text , where:
+						2132 text p =
+						2133 container Matrix; scroll horizontally if needed
+							2134 container Matrix: 5; 0; 1; 0
+								2135 container
+									2136 text [
+									2137 text 5
+									2138 text 0
+									2139 text 1
+									2140 text 0
+									2141 text ]
+						2142 container
+							2143 container
+								2144 text v
+								2145 text 1
+							2146 text  =
+						2147 container Matrix; scroll horizontally if needed
+							2148 container Matrix: -2; 1; 0; 0
+								2149 container
+									2150 text [
+									2151 container
+										2152 text − 2
+									2153 text 1
+									2154 text 0
+									2155 text 0
+									2156 text ]
+						2157 container
+							2158 container
+								2159 text v
+								2160 text 2
+							2161 text  =
+						2162 container Matrix; scroll horizontally if needed
+							2163 container Matrix: -1; 0; 2; 1
+								2164 container
+									2165 text [
+									2166 container
+										2167 text − 1
+									2168 text 0
+									2169 text 2
+									2170 text 1
+									2171 text ]
+						2172 text For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other parameters to 0 gives:
+						2173 container Matrix; scroll horizontally if needed
+							2174 container Matrix: 3; 1; 1; 0
+								2175 container
+									2176 text [
+									2177 text 3
+									2178 text 1
+									2179 text 1
+									2180 text 0
+									2181 text ]
+						2182 text These are different because the selected free coordinate changes. Infinitely many real parameter values give infinitely many different solutions.
+						2183 text Verification in the original equations. For p, the left-hand sides A p are:
+						2184 container Matrix; scroll horizontally if needed
+							2185 container Matrix: 4; 8; 1
+								2186 container
+									2187 text [
+									2188 text 4
+									2189 text 8
+									2190 text 1
+									2191 text ]
+						2192 container
+							2193 text These entries equal the original right-hand sides, in order. For direction 
+							2194 container
+								2195 text v
+								2196 text 1
+							2197 text , multiplying by the original A gives the zero vector. For direction 
+							2198 container
+								2199 text v
+								2200 text 2
+							2201 text , multiplying by the original A gives the zero vector. Therefore A(p + s 
+							2202 container
+								2203 text v
+								2204 text 1
+							2205 text  + t 
+							2206 container
+								2207 text v
+								2208 text 2
+							2209 text ) = A p + s A 
+							2210 container
+								2211 text v
+								2212 text 1
+							2213 text  + t A 
+							2214 container
+								2215 text v
+								2216 text 2
+							2217 text  = b for every parameter choice. Conversely, the pivot equations show that every solution has this form.
+						2218 heading 2.7 Existence and uniqueness theorem, Value: 2
+							2219 text 2.7 Existence and uniqueness theorem
+						2220 text SEE THE IDEA
+						2221 heading Existence first. Uniqueness second., Value: 3
+							2222 text Existence first. Uniqueness second.
+						2223 text Use two separate decisions, in that order.
+						2224 content list
+							2225 container 1 Is there an echelon row [0 … 0 | c], c ≠ 0? →
+							2226 container 2 Yes: no solution. No: the system is consistent. →
+							2227 container 3 If consistent, are any coefficient variables free? →
+							2228 container 4 None: unique. At least one: infinitely many.
+						2229 text THE COMPLETE EXPLANATION
+						2230 text Theorem (supplied Theorem 2).
+						2231 text A linear system is consistent if and only if the last column of its augmented matrix is not a pivot column. Equivalently, no echelon row is [0,...,0 | c] with c ≠ 0. Once consistency is established, the solution is unique exactly when there are no free coefficient variables; it is infinite exactly when there is at least one free coefficient variable.
+						2232 text Why does the theorem work? A last-column pivot corresponds to an impossible equation. Without such a row, free variables can be assigned values and the pivot equations can be solved backward, which constructs a solution. With no free variables the construction has no arbitrary choices. With a free variable, changing that coordinate changes the solution itself, so infinitely many solutions result.
+						2233 text A zero coefficient row does not by itself prove either inconsistency or infinitely many solutions. Its constant determines whether it is a contradiction. The number of nonzero coefficient pivots relative to the number of unknowns determines whether free variables remain.
+						2234 heading 2.8 Practice, Value: 2
+							2235 text 2.8 Practice
+						2236 text TRY IT YOURSELF · R1
+						2237 container
+							2238 container
+								2239 text R
+								2240 text 1
+							2241 text . Decide whether 
+							2242 container Inline matrix; scroll horizontally if needed
+								2243 container
+									2244 text [
+									2245 container
+										2246 text 1
+										2247 text 2
+										2248 text 0
+									2249 container
+										2250 text 0
+										2251 text 0
+										2252 text 1
+									2253 container
+										2254 text 0
+										2255 text 0
+										2256 text 0
+									2257 text ]
+							2258 text  is REF, RREF, both, or neither. Explain each condition.
+						2259 container
+							2260 summary Show Detailed Solution · R1, Value: on
+								2261 text Show Detailed Solution · R1
+							2262 container Inspect columns 1 and 3; column 2 is nonpivot.
+								2263 container Matrix; scroll horizontally if needed
+									2264 container Matrix: 1, 2, 0; 0, 0, 1; 0, 0, 0
+										2265 container
+											2266 text [
+											2267 container
+												2268 text 1
+												2269 text 2
+												2270 text 0
+											2271 container
+												2272 text 0
+												2273 text 0
+												2274 text 1
+											2275 container
+												2276 text 0
+												2277 text 0
+												2278 text 0
+											2279 text ]
+								2280 text Inspect columns 1 and 3; column 2 is nonpivot.
+							2281 container Comparison table
+								2282 table
+									2283 row (selectable) REF checklist
+RREF checklist
+									2284 row (selectable)
+										2285 cell (selectable) Nonzero rows before zero rows
+										2286 cell (selectable) Each leading entry is 1
+									2287 row (selectable)
+										2288 cell (selectable) Leading entries move right
+										2289 cell (selectable) Each pivot column is otherwise zero
+									2290 row (selectable)
+										2291 cell (selectable) Zeros below each leading entry
+										2292 cell (selectable) The 2 in a nonpivot column is allowed
+							2293 container
+								2294 text R
+								2295 text 1
+							2296 text . The nonzero rows come first, and their leading entries are in columns 1 and 3. Each leading entry is 1 and has only zeros elsewhere in its column. The matrix is therefore RREF and also REF. The 2 in a nonpivot column is allowed.
+						2297 text TRY IT YOURSELF · R2
+						2298 container
+							2299 container
+								2300 text R
+								2301 text 2
+							2302 text . Solve 
+							2303 container
+								2304 text x
+								2305 text 1
+							2306 text  + 2
+							2307 container
+								2308 text x
+								2309 text 2
+							2310 text  - 
+							2311 container
+								2312 text x
+								2313 text 3
+							2314 text  = 4 and 2
+							2315 container
+								2316 text x
+								2317 text 1
+							2318 text  + 4
+							2319 container
+								2320 text x
+								2321 text 2
+							2322 text  - 2
+							2323 container
+								2324 text x
+								2325 text 3
+							2326 text  = 8. Use two independent parameters.
+						2327 container
+							2328 summary Show Detailed Solution · R2, Value: on
+								2329 text Show Detailed Solution · R2
+							2330 text Choose 
+							2331 container
+								2332 text x
+								2333 text 2
+							2334 text  = s and 
+							2335 container
+								2336 text x
+								2337 text 3
+							2338 text  = t independently. The augmented matrix and exact row operation appear in the answer.
+							2339 container Comparison table
+								2340 table
+									2341 row (selectable) Choose (s,t)
+Compute
+x
+1
+= 4 − 2s + t
+Solution x
+									2342 row (selectable)
+										2343 cell (selectable) (0,0)
+										2344 cell (selectable) 4
+										2345 cell (selectable) (4,0,0)
+									2346 row (selectable)
+										2347 cell (selectable) (1,0)
+										2348 cell (selectable) 2
+										2349 cell (selectable) (2,1,0)
+									2350 row (selectable)
+										2351 cell (selectable) (0,1)
+										2352 cell (selectable) 5
+										2353 cell (selectable) (5,0,1)
+							2354 text The two choices are independent. Requiring s = t would wrongly discard solutions.
+							2355 container
+								2356 text R
+								2357 text 2
+							2358 text . Reduce the two-row augmented system. Its second equation repeats twice the first. There are two free variables, so the solution is a plane in 
+							2359 container
+								2360 text ℝ
+								2361 text 3
+							2362 text . Each coefficient column corresponds to one unknown; the column after the vertical divider records the right-hand sides. We use reversible row operations to reveal the constraints. The starting matrix is:
+							2363 container Matrix; scroll horizontally if needed
+								2364 container Matrix: 1, 2, -1 | 4; 2, 4, -2 | 8
+									2365 container
+										2366 text [
+										2367 container
+											2368 text 1
+											2369 text 2
+											2370 container
+												2371 text − 1
+											2372 text 4
+										2373 container
+											2374 text 2
+											2375 text 4
+											2376 container
+												2377 text − 2
+											2378 text 8
+										2379 text ]
+							2380 text Step 1: 
+							2381 container
+								2382 text R
+								2383 text 2
+							2384 text  ← 
+							2385 container
+								2386 text R
+								2387 text 2
+							2388 text  + (-2)
+							2389 container
+								2390 text R
+								2391 text 1
+							2392 text . Add -2 times row 1 to row 2. This cancels the entry in the pivot column while preserving the solutions. All other rows stay as displayed. BEFORE
+							2393 container Matrix; scroll horizontally if needed
+								2394 container Matrix: 1, 2, -1 | 4; 2, 4, -2 | 8
+									2395 container
+										2396 text [
+										2397 container
+											2398 text 1
+											2399 text 2
+											2400 container
+												2401 text − 1
+											2402 text 4
+										2403 container
+											2404 text 2
+											2405 text 4
+											2406 container
+												2407 text − 2
+											2408 text 8
+										2409 text ]
+							2410 text AFTER
+							2411 container Matrix; scroll horizontally if needed
+								2412 container Matrix: 1, 2, -1 | 4; 0, 0, 0 | 0
+									2413 container
+										2414 text [
+										2415 container
+											2416 text 1
+											2417 text 2
+											2418 container
+												2419 text − 1
+											2420 text 4
+										2421 container
+											2422 text 0
+											2423 text 0
+											2424 text 0
+											2425 text 0
+										2426 text ]
+							2427 text Lavender: affected row. Sage: pivot used. Read the equations. 
+							2428 container
+								2429 text x
+								2430 text 1
+							2431 text  + 2 
+							2432 container
+								2433 text x
+								2434 text 2
+							2435 text  - 
+							2436 container
+								2437 text x
+								2438 text 3
+							2439 text  = 4 The pivot columns are 1. Thus 
+							2440 container
+								2441 text x
+								2442 text 1
+							2443 text  are basic variables. 
+							2444 container
+								2445 text x
+								2446 text 2
+							2447 text , 
+							2448 container
+								2449 text x
+								2450 text 3
+							2451 text  have no leading pivots. Their values may be chosen arbitrarily; the pivot equations then determine the remaining entries. A zero row means 0 = 0 and imposes no additional restriction. Set 
+							2452 container
+								2453 text x
+								2454 text 2
+							2455 text  = s, 
+							2456 container
+								2457 text x
+								2458 text 3
+							2459 text  = t with all parameters real. The complete coordinate answer is:
+							2460 container Equation; scroll horizontally if needed
+								2461 container
+									2462 text x
+									2463 text 1
+									2464 text = 4 − 2 s + t
+							2465 container Equation; scroll horizontally if needed
+								2466 container
+									2467 text x
+									2468 text 2
+									2469 text = s
+							2470 container Equation; scroll horizontally if needed
+								2471 container
+									2472 text x
+									2473 text 3
+									2474 text = t
+							2475 text In vector form, assemble the constant entries into p and the coefficients of each parameter into a direction vector. Every solution is x = p + s 
+							2476 container
+								2477 text v
+								2478 text 1
+							2479 text  + t 
+							2480 container
+								2481 text v
+								2482 text 2
+							2483 text , where: p =
+							2484 container Matrix; scroll horizontally if needed
+								2485 container Matrix: 4; 0; 0
+									2486 container
+										2487 text [
+										2488 text 4
+										2489 text 0
+										2490 text 0
+										2491 text ]
+							2492 container
+								2493 text v
+								2494 text 1
+							2495 text  =
+							2496 container Matrix; scroll horizontally if needed
+								2497 container Matrix: -2; 1; 0
+									2498 container
+										2499 text [
+										2500 container
+											2501 text − 2
+										2502 text 1
+										2503 text 0
+										2504 text ]
+							2505 container
+								2506 text v
+								2507 text 2
+							2508 text  =
+							2509 container Matrix; scroll horizontally if needed
+								2510 container Matrix: 1; 0; 1
+									2511 container
+										2512 text [
+										2513 text 1
+										2514 text 0
+										2515 text 1
+										2516 text ]
+							2517 text For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other parameters to 0 gives:
+							2518 container Matrix; scroll horizontally if needed
+								2519 container Matrix: 2; 1; 0
+									2520 container
+										2521 text [
+										2522 text 2
+										2523 text 1
+										2524 text 0
+										2525 text ]
+							2526 text These are different because the selected free coordinate changes. Infinitely many real parameter values give infinitely many different solutions. Verification in the original equations. For p, the left-hand sides A p are:
+							2527 container Matrix; scroll horizontally if needed
+								2528 container Matrix: 4; 8
+									2529 container
+										2530 text [
+										2531 text 4
+										2532 text 8
+										2533 text ]
+							2534 text These entries equal the original right-hand sides, in order. For direction 
+							2535 container
+								2536 text v
+								2537 text 1
+							2538 text , multiplying by the original A gives the zero vector. For direction 
+							2539 container
+								2540 text v
+								2541 text 2
+							2542 text , multiplying by the original A gives the zero vector. Therefore A(p + s 
+							2543 container
+								2544 text v
+								2545 text 1
+							2546 text  + t 
+							2547 container
+								2548 text v
+								2549 text 2
+							2550 text ) = A p + s A 
+							2551 container
+								2552 text v
+								2553 text 1
+							2554 text  + t A 
+							2555 container
+								2556 text v
+								2557 text 2
+							2558 text  = b for every parameter choice. Conversely, the pivot equations show that every solution has this form.
+						2559 text TRY IT YOURSELF · R3
+						2560 container
+							2561 container
+								2562 text R
+								2563 text 3
+							2564 text . A 3 × 5 coefficient matrix has three pivots. Is Ax = b solvable for every b ∈ 
+							2565 container
+								2566 text ℝ
+								2567 text 3
+							2568 text ? Can a consistent system have a unique solution? Distinguish the two conclusions.
+						2569 container
+							2570 summary Show Detailed Solution · R3, Value: on
+								2571 text Show Detailed Solution · R3
+							2572 heading Existence: every output row, Value: 4
+								2573 text Existence: every output row
+							2574 content list
+								2575 container 1 3 equations → 3 rows →
+								2576 container 2 3 pivots → a pivot in every row →
+								2577 container 3 Every b ∈ ℝ 3 is attainable
+									2578 container
+										2579 text ℝ
+										2580 text 3
+							2581 heading Uniqueness: every input column, Value: 4
+								2582 text Uniqueness: every input column
+							2583 content list
+								2584 container 1 5 unknowns → 5 columns →
+								2585 container 2 5 − 3 = 2 free variables →
+								2586 container 3 No consistent system has a unique solution
+							2587 container
+								2588 text R
+								2589 text 3
+							2590 text . Three pivots in three rows give a row pivot everywhere. Thus every b ∈ 
+							2591 container
+								2592 text ℝ
+								2593 text 3
+							2594 text  is attainable. There are five unknowns but only three pivots, leaving two free variables. Since every system is consistent, each has infinitely many solutions, never a unique one.
+						2595 container Previous and next chapter
+							2596 link ← PREVIOUS CHAPTER Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-1
+							2597 link NEXT CHAPTER → Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-3
+					2598 text Made for thoughtful studying  · MATH 2255
+				2599 scroll bar (settable, float) 0.9834787
+	2600 toolbar
+		2601 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			2602 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			2603 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		2604 container BackForwardSegmentedControl
+			2605 button Description: Go back, Help: Show the previous page, ID: BackButton
+			2606 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		2607 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			2608 button Page Menu, ID: AssistantButton
+			2609 button Add page to Reading List, ID: OneStepBookmarkingButton
+			2610 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+			2611 button Reload this page, ID: ReloadButton
+		2612 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		2613 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		2614 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		2615 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	2616 close button
+	2617 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	2618 minimise button
+2619 menu bar
+	2620 Safari
+	2621 File
+	2622 Edit
+	2623 View, ID: SafariViewMenu
+	2624 History
+	2625 Bookmarks, ID: SafariBookmarksMenu
+	2626 Develop
+	2627 Window, ID: SafariWindowMenu
+	2628 Help, ID: SafariHelpMenu
+
+The focused UI element is 2570 summary Show Detailed Solution · R3, Value: on

@@ -1,0 +1,150 @@
+Window: "Exercise 1.4.27 · Study Corner", App: Safari.
+0 standard window Exercise 1.4.27 · Study Corner, ID: SafariWindow?IsSecure=false&UUID=0591A045-932D-46CB-B9F4-79AA23C33263, Secondary Actions: Raise
+	1 split group
+		2 splitter (disabled, settable, float) -1
+		3 tab group
+			4 scroll area
+				5 HTML content Description: Exercise 1.4.27 · Study Corner, URL: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.4.27
+					6 link Skip to reading, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reading
+					7 container
+						8 link Study Corner home, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						9 container Main navigation
+							10 link Learn, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							11 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+							12 link Reference, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#reference
+							13 link Cheat Sheet, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+					14 container Study navigation
+						15 text YOUR MATH NOTEBOOK
+						16 text MATH 2255 · Linear Algebra
+						17 container
+							18 text Find a topic or exercise
+							19 search text field (settable) Find a topic or exercise, Placeholder: Try “2.2.39” or “span”
+								20 text Try “2.2.39” or “span”
+							21 button Search
+						22 link Cheat Sheet ↗ View or download · two printable sides, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#cheat-sheet
+						23 container Chapters
+							24 heading GETTING STARTED, Value: 2
+								25 text GETTING STARTED
+							26 link About this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/about
+							27 link How to use this book, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/how-to
+							28 link Mathematical foundations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/foundations
+							29 heading LINEAR EQUATIONS, Value: 2
+								30 text LINEAR EQUATIONS
+							31 link 1.1 Systems of linear equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-1
+							32 link 1.2 Row reduction and echelon forms, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-2
+							33 heading VECTORS & MATRICES, Value: 2
+								34 text VECTORS & MATRICES
+							35 link 1.3 Vector equations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-3
+							36 link 1.4 The matrix equation Ax = b, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+							37 link 1.5 Solution sets of linear systems, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-5
+							38 heading INDEPENDENCE & TRANSFORMATIONS, Value: 2
+								39 text INDEPENDENCE & TRANSFORMATIONS
+							40 link 1.7 Linear independence, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-7
+							41 link 1.8 Introduction to linear transformations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-8
+							42 link 1.9 The matrix of a linear transformation, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-9
+							43 heading MATRIX ALGEBRA, Value: 2
+								44 text MATRIX ALGEBRA
+							45 link 2.1 Matrix operations, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-1
+							46 link 2.2 The inverse of a matrix, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-2-2
+							47 heading ADDITIONAL LEARNING, Value: 2
+								48 text ADDITIONAL LEARNING
+							49 link Proofs & problem-solving, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/proofs
+							50 link Textbook practice answers, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/practice-answers
+							51 link Glossary & formulas, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/reference
+							52 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						53 text A little clarity, one concept at a time.
+						54 link Sources & verification, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/sources
+						55 text Available entirely offline
+					56 container Exercise 1.4.27
+						57 link Study corner, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#home
+						58 link Practice, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice
+						59 link Section 1.4, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/section/1.4
+						60 text 1.4.27
+						61 container
+							62 text PRACTICE · SECTION 1.4
+							63 heading Exercise 1.4.27, Value: 1
+								64 text Exercise 1.4.27
+						65 text Original exercise Jump to question
+						66 pop-up button (collapsed) Jump to question, Value: 1.4.27, Secondary Actions: Expand
+						67 link Read the chapter ↗, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#learn/section-1-4
+						68 heading Original question, Value: 2
+							69 text Original question
+						70 text Mark this statement True or False. Justify your answer.
+						71 text The equation Ax = b is consistent if the augmented matrix [A b] has a pivot position in every row.
+						72 text Exercises_Merged.pdf · physical page 8 Independently derived teaching solution
+						73 container (expanded) Secondary Actions: Collapse
+							74 summary Show Detailed Solution −, Value: on
+								75 text Show Detailed Solution
+								76 text −
+							77 text Independently derived teaching solution; no matching selected answer is present on Combined PDF pages 101-116.
+							78 text Your task. True/false: A pivot in every row of [A b] ensures consistency.
+							79 text Words used in this question
+							80 text In a row staircase, a leading entry is the first nonzero entry when reading a nonzero row from left to right. Its position is a pivot position. A pivot coefficient column determines a basic coordinate; a nonpivot coefficient column allows a free coordinate.
+							81 text Independence means the only weights producing the zero vector are all zero. A nonzero collection of weights producing zero is a dependence relation.
+							82 text Read the exact statement above. The verdict below concerns all of its assumptions; the reason or counterexample is part of the answer.
+							83 container
+								84 container False. For and , the augmented matrix [0 | 1] has a pivot in its only row,
+									85 text False. For
+									86 container Calculation
+										87 container
+											88 text A =
+											89 text [
+											90 text 0
+											91 text ]
+									92 text and
+									93 container Calculation
+										94 container
+											95 text b =
+											96 text [
+											97 text 1
+											98 text ]
+									99 text , the augmented matrix [0 | 1] has a pivot in its only row,
+								100 container but the pivot is in the appended column and says
+									101 text but the pivot is in the appended column and says
+									102 container Calculation
+										103 container
+											104 text 0 = 1
+								105 container The row-pivot condition must apply to A itself.
+									106 text The row-pivot condition must apply to A itself.
+							107 text FINAL ANSWER
+							108 text False. A pivot in every row of [A b] ensures consistency
+						109 summary View the original source page 8, Value: off
+							110 text View the original source page 8
+						111 summary Compare the original question crop, Value: off
+							112 text Compare the original question crop
+						113 container Previous and next question
+							114 link ← PREVIOUS QUESTION 1.4.26, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.4.26
+							115 link NEXT QUESTION → 1.4.28, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.4.28
+					116 text Made for thoughtful studying  · MATH 2255
+				117 scroll bar (settable, float) 0
+	118 toolbar
+		119 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			120 button Description: show sidebar, Help: Show sidebar, ID: SidebarButton
+			121 menu button Description: Tab Group picker, ID: TabGroupPickerButton?TabGroup=
+		122 container BackForwardSegmentedControl
+			123 button Description: Go back, Help: Show the previous page, ID: BackButton
+			124 button (disabled) Description: Go forward, Help: Show the next page, ID: ForwardButton
+		125 container Secondary Actions: Move previous, Move next, Remove from toolbar
+			126 button Page Menu, ID: AssistantButton
+			127 button Add page to Reading List, ID: OneStepBookmarkingButton
+			128 text field (settable) Description: smart search field, ID: WEB_BROWSER_ADDRESS_AND_SEARCH_FIELD, Value: file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Beginner-Friendly-Study-Reader-Final.html#practice/1.4.27
+			129 button Reload this page, ID: ReloadButton
+		130 button Description: Downloads, ID: DownloadsButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		131 button Description: Share, ID: ShareButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		132 button Description: New Tab, ID: NewTabButton, Secondary Actions: Move previous, Move next, Remove from toolbar
+		133 button Description: Tab Overview, ID: TabOverviewButton, Secondary Actions: Move previous, Remove from toolbar
+	134 close button
+	135 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	136 minimise button
+137 menu bar
+	138 Safari
+	139 File
+	140 Edit
+	141 View, ID: SafariViewMenu
+	142 History
+	143 Bookmarks, ID: SafariBookmarksMenu
+	144 Develop
+	145 Window, ID: SafariWindowMenu
+	146 Help, ID: SafariHelpMenu
+
+The focused UI element is 74 summary Show Detailed Solution −, Value: on

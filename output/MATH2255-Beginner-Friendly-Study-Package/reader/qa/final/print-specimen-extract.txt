@@ -1,0 +1,1305 @@
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 1 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Study corner/Learn/Row reduction and echelon forms
+COURSE SECTION 1.2
+2. Section 1.2 - Row reduction and
+echelon forms
+Source correspondence: Combined PDF pages 12-27; exercise PDF pages 3-4.
+2.1 The staircase and the pivots
+SEE THE IDEA
+1 · What is a leading entry?
+Read a row from left to right. Skip the zeros. The first number that remains is its leading
+entry.
+[00−−33336]
+First nonzero entry: −3.
+[0444412]
+First nonzero entry: 4.
+The leading entry of a nonzero row is its first nonzero entry when read from left to right.
+SEE THE IDEA
+2 · REF: build a staircase
+Look down the rows: each next leading entry takes a step to the right.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 2 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+[
+222246
+033339
+000
+]
+Leading entries are highlighted. The zero row is at the bottom.
+REF check What to look for
+Zero rows last The completely zero row is below the nonzero rows.
+Move right Leading entries are in columns 1, then 2.
+Clear below All entries below each leading entry are zero.
+A matrix is in row echelon form (REF) when all zero rows are at the bottom, each leading entry is
+strictly to the right of the leading entry in the row above, and every entry below a leading entry is
+zero. Leading entries need not be 1 in REF.
+SEE THE IDEA
+3 · RREF: finish cleaning each pivot column
+REF gives the shape. RREF also normalizes each leading entry and clears above it.
+REF, but not RREF
+[
+222246
+033339
+000
+]
+Leading entries 2 and 3 are not normalized.
+RREF of the same matrix
+[
+11110−3
+011113
+000
+]
+Each pivot is 1 and is alone in its column.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 3 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Reduced row echelon form (RREF) also requires each leading entry to be 1 and each leading 1 to
+be the only nonzero entry of its column. A matrix can be REF without being RREF. For example,
+[23
+04] is REF, but the leading entries are not 1. The notation in this sentence separates rows
+with a semicolon; displayed matrices below use full brackets.
+SEE THE IDEA
+4 · A pivot column belongs to the original matrix
+Reduce to identify column numbers; then go back to those columns in the original
+matrix.
+Original A
+[024
+113]
+Original columns 1 and 2 are the pivot columns.
+RREF(A)
+[111101
+011112]
+Leading 1s identify pivot-column indices 1 and
+2.
+Remember. The original entry at position (1,1) is 0. A pivot position is a location, not a promise
+about that original number.
+A pivot position in A is the row-column location corresponding to a leading 1 in RREF(A). A pivot
+column is an original column containing such a position. The original entry at a pivot position can
+be zero: the position is identified through reduction. A pivot used during elimination is the
+nonzero entry currently used to cancel entries, so its numerical value can change with the
+sequence of operations.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 4 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+5 · REF versus RREF, at a glance
+Condition REF RREF
+Leading entries make a staircase Required Required
+Zero rows at the bottom Required Required
+Zeros below each leading entry Required Required
+Each leading entry equals 1 Not required Required
+Zeros above every leading entry Not required Required
+Unique in its row-equivalence class No Yes
+SEE THE IDEA
+6 · Why can there be only one RREF?
+Different legal routes can simplify the same constraints. A fully reduced matrix records
+those constraints in one fixed form.
+[24
+00]
+One possible REF.
+[12
+00]
+The unique RREF: 𝑥1 + 2𝑥2 = 0 if read
+homogeneously.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 5 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+The supplied uniqueness theorem states that every matrix has exactly one RREF among its row-
+equivalent matrices. REF is not unique, because multiplying a nonzero row by 2 may preserve its
+staircase shape. The RREF conditions remove that scaling freedom and all entries above pivots.
+More deeply, row equivalence preserves all constraints, and RREF is a canonical way to record
+which earliest variables are determined by later ones. The following supplementary proof
+explains that uniqueness rather than trying to establish it by numerical examples.
+▼ Deeper Mathematical Explanation · Explore the Full Proof
+SEE THE IDEA
+The proof in three connections
+Follow the logical connections; each arrow needs a reason.
+Why two different RREF answers cannot both be right
+We need one temporary piece of vocabulary. The row span of a matrix means all linear
+combinations of its rows, treated as horizontal lists. This is the same weighted-sum idea
+used for column vectors later in Section 1.3. Row operations do not change the row span.
+A new row is a combination of old rows, so every new-row combination is an old-row
+combination. Reversibility gives the opposite inclusion. Therefore row-equivalent matrices
+have exactly the same row span.
+Suppose R and S are two RREF matrices obtained from one matrix. They have the same
+row span. In an RREF matrix, take any nonzero combination of its nonzero rows, and find
+Row operations
+preserve row span
+1
+→
+The row span
+determines pivot-
+column indices
+2
+→
+Matching pivot
+coordinates force
+corresponding rows to
+agree
+3
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 6 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+the first row in the combination whose weight is nonzero. Its leading pivot is the first
+nonzero coordinate of the resulting list: all earlier row weights are zero, and all later rows
+are zero to the left of their own later pivots. Consequently the possible first-nonzero
+coordinate locations of vectors in the row span are precisely the pivot-column indices.
+Since R and S have the same row span, they have the same pivot columns, in the same
+order.
+Now compare row i of R with row i of S. Their entries in every common pivot column
+agree: both have 1 at their own pivot and 0 at the other pivots. Their difference is in the
+common row span and is zero at every pivot coordinate. But any row combination in R
+has, in pivot column j, exactly the weight on the corresponding pivot row: the pivot
+columns are identity columns. If all those coordinates are zero, every row weight is zero,
+so the entire combination is zero. Thus the difference between the two compared rows
+must be zero. All corresponding nonzero rows agree, and both matrices place their
+remaining zero rows at the bottom. Hence R = S. This proves uniqueness while allowing
+different intermediate operations and different ordinary echelon forms.
+2.2 The forward and backward phases
+SEE THE IDEA
+Two passes, two purposes
+The forward phase creates the staircase; the backward phase cleans above the pivots.
+Forward → REF
+[
+222246
+033339
+000
+]
+Backward → RREF
+[
+11110−3
+011113
+000
+]
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 7 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Zeros below; leading entries move right. Normalize and clear above.
+THE COMPLETE EXPLANATION
+Start at the leftmost column containing a possible nonzero pivot. Interchange rows if needed.
+Use a nonzero pivot to clear entries below it. Move down one row and right to the next possible
+pivot column. Continue to REF. This is the forward phase. If a column has no available nonzero
+entry below the previous pivots, skip it; do not force a pivot there.
+For the backward phase, start at the rightmost pivot, scale its row to make the pivot 1, and clear
+entries above it. Continue upward and leftward. Normalizing a pivot earlier, as many examples
+here do, is also valid. Arithmetic convenience determines the order; preserving the equations
+determines validity.
+2.3 Course example: pivot columns of a rectangular matrix
+SEE THE IDEA
+Find indices, then return to A
+This is a rectangular-matrix question, not an augmented-system question.
+Remember. A final column is not automatically a right-hand side.
+All 5 columns are ordinary
+matrix columns
+1
+→
+Use the original verified
+reduction
+2
+→
+Report original pivot-
+column indices
+3
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 8 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+THE COMPLETE EXPLANATION
+The matrix on Combined PDF pages 14-17 has four rows and five columns. It is not declared an
+augmented matrix in that example, so all five columns are ordinary matrix columns. Row
+reduction finds pivot columns without making any claim about a solution set.
+The starting matrix is:
+⎡
+⎣
+⎢⎢⎢
+0−3−649
+−1−2−131
+−2−303−1
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+MATHEMATICAL WALKTHROUGH
+One operation at a time
+Step 1: 𝑅1 ↔ 𝑅2.
+Move a nonzero entry into row 1 so that it can be used as a pivot.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+0−3−649
+−1−2−131
+−2−303−1
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+−1−2−131
+0−3−649
+−2−303−1
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected rows. Sage: pivot used.
+Step 2: 𝑅1 ← (-1)𝑅1.
+Multiply every entry of row 1, including any right-hand side, by -1. The pivot becomes 1; the multiplier
+is nonzero, so this step is reversible.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 9 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+−1−2−131
+0−3−649
+−2−303−1
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+121−3−1
+0−3−649
+−2−303−1
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 3: 𝑅3 ← 𝑅3 + (2)𝑅1.
+Add 2 times row 1 to row 3. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+121−3−1
+0−3−649
+−2−303−1
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+121−3−1
+0−3−649
+012−3−3
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 4: 𝑅4 ← 𝑅4 + (-1)𝑅1.
+Add -1 times row 1 to row 4. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+121−3−1
+0−3−649
+012−3−3
+145−9−7
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+121−3−1
+0−3−649
+012−3−3
+024−6−6
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 10 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Step 5: 𝑅2 ← (−1
+3)𝑅2.
+Multiply every entry of row 2, including any right-hand side, by −1
+3. The pivot becomes 1; the multiplier
+is nonzero, so this step is reversible.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+121−3−1
+0−3−649
+012−3−3
+024−6−6
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+012−3−3
+024−6−6
+⎤
+⎦
+⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 6: 𝑅3 ← 𝑅3 + (-1)𝑅2.
+Add -1 times row 2 to row 3. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+012−3−3
+024−6−6
+⎤
+⎦
+⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+000−5
+30
+024−6−6
+⎤
+⎦
+⎥⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 7: 𝑅4 ← 𝑅4 + (-2)𝑅2.
+Add -2 times row 2 to row 4. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE AFTER
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 11 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+⎡
+⎣
+⎢⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+000−5
+30
+024−6−6
+⎤
+⎦
+⎥⎥⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+000−5
+30
+000−10
+30
+⎤
+⎦
+⎥⎥⎥⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 8: 𝑅3 ← (−3
+5)𝑅3.
+Multiply every entry of row 3, including any right-hand side, by −3
+5. The pivot becomes 1; the multiplier
+is nonzero, so this step is reversible.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+000−5
+30
+000−10
+30
+⎤
+⎦
+⎥⎥⎥⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+00010
+000−10
+30
+⎤
+⎦
+⎥⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 9: 𝑅4 ← 𝑅4 + (10
+3)𝑅3.
+Add 10
+3 times row 3 to row 4. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE AFTER
+⎡
+⎣
+⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥⎥
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 12 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+⎡
+⎣
+⎢⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+00010
+000−10
+30
+⎤
+⎦
+⎥⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 10: 𝑅1 ← 𝑅1 + (3)𝑅3.
+Add 3 times row 3 to row 1. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢
+121−3−1
+012−4
+3−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢
+1210−1
+012−4
+3−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 11: 𝑅2 ← 𝑅2 + (4
+3)𝑅3.
+Add 4
+3 times row 3 to row 2. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢
+1210−1
+012−4
+3−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+1210−1
+0120−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 13 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Lavender: affected row. Sage: pivot used.
+Step 12: 𝑅1 ← 𝑅1 + (-2)𝑅2.
+Add -2 times row 2 to row 1. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+1210−1
+0120−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+10−305
+0120−3
+00010
+00000
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+The pivots occur in columns 1, 2, 4. Mark those column numbers in the original matrix as well as
+the reduced one. The entries of a reduced pivot column are generally not the entries of the
+corresponding original column.
+2.4 A larger course reduction
+SEE THE IDEA
+A skipped column tells you something
+A column without an available pivot supplies no new leading position.
+Remember. The original nine operations below remain available in order.
+Inspect the next possible
+column
+1
+→
+If every available entry is
+0, skip it
+2
+→
+Keep the full column in
+every matrix
+3
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 14 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+THE COMPLETE EXPLANATION
+Combined PDF pages 17-22 use the following 3 × 6 matrix. This is an algorithm example, not
+automatically a five-variable system. We reduce every column and identify the pivots. If you later
+interpret the last column as appended constants, only the first five columns represent
+unknowns.
+The starting matrix is:
+[
+03−664−5
+3−78−589
+3−912−9615
+]
+MATHEMATICAL WALKTHROUGH
+One operation at a time
+Step 1: 𝑅1 ↔ 𝑅2.
+Move a nonzero entry into row 1 so that it can be used as a pivot.
+BEFORE
+[
+03−664−5
+3−78−589
+3−912−9615
+]
+AFTER
+[
+3−78−589
+03−664−5
+3−912−9615
+]
+Lavender: affected rows. Sage: pivot used.
+Step 2: 𝑅1 ← (1
+3)𝑅1.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 15 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Multiply every entry of row 1, including any right-hand side, by 1
+3. The pivot becomes 1; the multiplier is
+nonzero, so this step is reversible.
+BEFORE
+[
+3−78−589
+03−664−5
+3−912−9615
+]
+AFTER
+⎡
+⎣
+⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+33
+03−664−5
+3−912−9615
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 3: 𝑅3 ← 𝑅3 + (-3)𝑅1.
+Add -3 times row 1 to row 3. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+33
+03−664−5
+3−912−9615
+⎤
+⎦
+⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+3 3
+03−664−5
+0−24−4−26
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 4: 𝑅2 ← (1
+3)𝑅2.
+Multiply every entry of row 2, including any right-hand side, by 1
+3. The pivot becomes 1; the multiplier
+is nonzero, so this step is reversible.
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+3 3
+03−664−5
+0−24−4−26
+⎤
+⎦
+⎥⎥⎥
+AFTER
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 16 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+⎡
+⎣
+⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+3 3
+01−224
+3−5
+3
+0−24−4−26
+⎤
+⎦
+⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 5: 𝑅3 ← 𝑅3 + (2)𝑅2.
+Add 2 times row 2 to row 3. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+3 3
+01−224
+3−5
+3
+0−24−4−26
+⎤
+⎦
+⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+33
+01−224
+3−5
+3
+00002
+3
+8
+3
+⎤
+⎦
+⎥⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 6: 𝑅3 ← (3
+2)𝑅3.
+Multiply every entry of row 3, including any right-hand side, by 3
+2. The pivot becomes 1; the multiplier
+is nonzero, so this step is reversible.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+33
+01−224
+3−5
+3
+00002
+3
+8
+3
+⎤
+⎦
+⎥⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+33
+01−224
+3−5
+3
+000014
+⎤
+⎦
+⎥⎥⎥⎥
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 17 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Lavender: affected row. Sage: pivot used.
+Step 7: 𝑅1 ← 𝑅1 + (−8
+3)𝑅3.
+Add −8
+3 times row 3 to row 1. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+3
+8
+33
+01−224
+3−5
+3
+000014
+⎤
+⎦
+⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+30−23
+3
+01−224
+3−5
+3
+000014
+⎤
+⎦
+⎥⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 8: 𝑅2 ← 𝑅2 + (−4
+3)𝑅3.
+Add −4
+3 times row 3 to row 2. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+⎡
+⎣
+⎢⎢⎢⎢
+1−7
+3
+8
+3−5
+30−23
+3
+01−224
+3−5
+3
+000014
+⎤
+⎦
+⎥⎥⎥⎥
+AFTER
+⎡
+⎣
+⎢⎢⎢
+1−7
+3
+8
+3−5
+30−23
+3
+01−220−7
+000014
+⎤
+⎦
+⎥⎥⎥
+Lavender: affected row. Sage: pivot used.
+Step 9: 𝑅1 ← 𝑅1 + (7
+3)𝑅2.
+Add 7
+3 times row 2 to row 1. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 18 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+BEFORE
+⎡
+⎣
+⎢⎢⎢
+1−7
+3
+8
+3−5
+30−23
+3
+01−220−7
+000014
+⎤
+⎦
+⎥⎥⎥
+AFTER
+[
+10−230−24
+01−220−7
+000014
+]
+Lavender: affected row. Sage: pivot used.
+The pivots are in columns 1,2,5. Column 3 cannot acquire an additional pivot without
+contradicting the existing row constraints. A skipped column is mathematically meaningful; it is
+not an unsuccessful step.
+2.5 Basic and free variables: what freedom means
+SEE THE IDEA
+Choose the free input; calculate the rest
+Here 𝑥3 = s is free. The two pivot equations determine 𝑥1 and 𝑥2.
+Choose s = 𝑥3 Compute 𝑥1 = 3 + 2s, 𝑥2 = 4 − s Solution x
+0 3, 4 (3,4,0)
+1 5, 3 (5,3,1)
+−1 1, 5 (1,5,−1)
+(3+2𝑠)−2𝑠=3
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 19 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+(4−𝑠)+𝑠=4
+Remember. Different parameter values produce different valid solutions.
+THE COMPLETE EXPLANATION
+Suppose the augmented matrix is already in the following reduced form. It has three coefficient
+columns and one constant column. A missing pivot in coefficient column 3 means 𝑥3 can be
+chosen freely, provided no contradiction occurs. It does not mean that 𝑥3 must be zero or that it
+can be omitted from the answer.
+Each coefficient column corresponds to one unknown; the column after the vertical divider
+records the right-hand sides. We use reversible row operations to reveal the constraints.
+The starting matrix is:
+[
+10−23
+0114
+0000
+]
+It already has the required reduced form, so no row operation is necessary.
+Read the equations. 𝑥1 - 2 𝑥3 = 3; 𝑥2 + 𝑥3 = 4
+The pivot columns are 1, 2. Thus 𝑥1, 𝑥2 are basic variables. 𝑥3 have no leading pivots. Their
+values may be chosen arbitrarily; the pivot equations then determine the remaining entries. A
+zero row means 0 = 0 and imposes no additional restriction.
+Set 𝑥3 = s with all parameters real. The complete coordinate answer is:
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 20 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+𝑥1=3+2𝑠
+𝑥2=4−𝑠
+𝑥3=𝑠
+In vector form, assemble the constant entries into p and the coefficients of each parameter into
+a direction vector. Every solution is x = p + s 𝑣1, where:
+p =
+[
+3
+4
+0
+]
+𝑣1 =
+[
+2
+−1
+1
+]
+For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other parameters to 0
+gives:
+[
+5
+3
+1
+]
+These are different because the selected free coordinate changes. Infinitely many real
+parameter values give infinitely many different solutions.
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 21 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Verification in the original equations. For p, the left-hand sides A p are:
+[
+3
+4
+0
+]
+These entries equal the original right-hand sides, in order. For direction 𝑣1, multiplying by the
+original A gives the zero vector. Therefore A(p + s 𝑣1) = A p + s A 𝑣1 = b for every parameter
+choice. Conversely, the pivot equations show that every solution has this form.
+For the lecture's related reduced matrix [1,0,-5 | 1], [0,1,1 | 4], [0,0,0 | 0], the same reasoning
+gives 𝑥1 = 1 + 5t, 𝑥2 = 4 - t, 𝑥3 = t. Choosing t = 0 gives (1,4,0), and choosing t = 1 gives (6,3,1).
+Both satisfy 𝑥1 - 5𝑥3 = 1 and 𝑥2 + 𝑥3 = 4. Different formulas can describe the same solution set if
+you choose a different parameter; RREF itself is still unique.
+2.6 Two free variables and complete answers
+SEE THE IDEA
+Two free variables need two separate choices
+The four-unknown example below has free 𝑥2 and 𝑥4. Choose them independently.
+Free choices Basic variables
+𝑥2 = s, 𝑥4 = t 𝑥1 = 5 − 2s − t
+s,t ∈ ℝ independently 𝑥3 = 1 + 2t
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 22 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+Remember. Using the same parameter for both free variables would impose an extra equation.
+THE COMPLETE EXPLANATION
+More unknowns than pivots can leave several independent choices. Use a different parameter
+for each free variable. The following original example has four unknowns. Do not use the same t
+for both free variables, because that would impose an extra restriction not present in the
+equations.
+Each coefficient column corresponds to one unknown; the column after the vertical divider
+records the right-hand sides. We use reversible row operations to reveal the constraints.
+The starting matrix is:
+[
+12−134
+24−268
+001−21
+]
+MATHEMATICAL WALKTHROUGH
+One operation at a time
+Step 1: 𝑅2 ← 𝑅2 + (-2)𝑅1.
+Add -2 times row 1 to row 2. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE AFTER
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 23 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+[
+12−134
+24−268
+001−21
+] [
+12−134
+00000
+001−21
+]
+Lavender: affected row. Sage: pivot used.
+Step 2: 𝑅2 ↔ 𝑅3.
+Move a nonzero entry into row 2 so that it can be used as a pivot.
+BEFORE
+[
+12−134
+00000
+001−21
+]
+AFTER
+[
+12−134
+001−21
+00000
+]
+Lavender: affected rows. Sage: pivot used.
+Step 3: 𝑅1 ← 𝑅1 + (1)𝑅2.
+Add 1 times row 2 to row 1. This cancels the entry in the pivot column while preserving the solutions.
+All other rows stay as displayed.
+BEFORE
+[
+12−134
+001−21
+00000
+]
+AFTER
+[
+12015
+001−21
+00000
+]
+Lavender: affected row. Sage: pivot used.
+Read the equations. 𝑥1 + 2 𝑥2 + 𝑥4 = 5; 𝑥3 - 2 𝑥4 = 1
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 24 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+The pivot columns are 1, 3. Thus 𝑥1, 𝑥3 are basic variables. 𝑥2, 𝑥4 have no leading pivots. Their
+values may be chosen arbitrarily; the pivot equations then determine the remaining entries. A
+zero row means 0 = 0 and imposes no additional restriction.
+Set 𝑥2 = s, 𝑥4 = t with all parameters real. The complete coordinate answer is:
+𝑥1=5−2𝑠−𝑡
+𝑥2=𝑠
+𝑥3=1+2𝑡
+𝑥4=𝑡
+In vector form, assemble the constant entries into p and the coefficients of each parameter into
+a direction vector. Every solution is x = p + s 𝑣1 + t 𝑣2, where:
+p =
+⎡
+⎣
+⎢⎢⎢
+5
+0
+1
+0
+⎤
+⎦
+⎥⎥⎥
+𝑣1 =
+⎡
+⎣
+⎢⎢⎢
+−2
+1
+0
+0
+⎤
+⎦
+⎥⎥⎥
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 25 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+𝑣2 =
+⎡
+⎣
+⎢⎢⎢
+−1
+0
+2
+1
+⎤
+⎦
+⎥⎥⎥
+For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other parameters to 0
+gives:
+⎡
+⎣
+⎢⎢⎢
+3
+1
+1
+0
+⎤
+⎦
+⎥⎥⎥
+These are different because the selected free coordinate changes. Infinitely many real
+parameter values give infinitely many different solutions.
+Verification in the original equations. For p, the left-hand sides A p are:
+[
+4
+8
+1
+]
+These entries equal the original right-hand sides, in order. For direction 𝑣1, multiplying by the
+original A gives the zero vector. For direction 𝑣2, multiplying by the original A gives the zero
+vector. Therefore A(p + s 𝑣1 + t 𝑣2) = A p + s A 𝑣1 + t A 𝑣2 = b for every parameter choice.
+Conversely, the pivot equations show that every solution has this form.
+2.7 Existence and uniqueness theorem
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 26 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+SEE THE IDEA
+Existence first. Uniqueness second.
+Use two separate decisions, in that order.
+THE COMPLETE EXPLANATION
+Theorem (supplied Theorem 2).
+A linear system is consistent if and only if the last column of its augmented matrix is not a
+pivot column. Equivalently, no echelon row is [0,...,0 | c] with c ≠ 0. Once consistency is
+established, the solution is unique exactly when there are no free coefficient variables; it
+is infinite exactly when there is at least one free coefficient variable.
+Why does the theorem work? A last-column pivot corresponds to an impossible equation.
+Without such a row, free variables can be assigned values and the pivot equations can be solved
+backward, which constructs a solution. With no free variables the construction has no arbitrary
+choices. With a free variable, changing that coordinate changes the solution itself, so infinitely
+many solutions result.
+A zero coefficient row does not by itself prove either inconsistency or infinitely many solutions.
+Its constant determines whether it is a contradiction. The number of nonzero coefficient pivots
+relative to the number of unknowns determines whether free variables remain.
+Is there an
+echelon row [0 …
+0 | c], c ≠ 0?
+1
+→
+Yes: no solution.
+No: the system
+is consistent.
+2
+→
+If consistent, are
+any coefficient
+variables free?
+3
+→
+None: unique. At
+least one:
+infinitely many.
+4
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 27 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+2.8 Practice
+TRY IT YOURSELF · R1
+𝑅1. Decide whether [
+120
+001
+000
+] is REF, RREF, both, or neither. Explain each condition.
+▼ Show Detailed Solution · R1
+[
+111120
+001111
+000
+]
+Inspect columns 1 and 3; column 2 is nonpivot.
+REF checklist RREF checklist
+Nonzero rows before zero rows Each leading entry is 1
+Leading entries move right Each pivot column is otherwise zero
+Zeros below each leading entry The 2 in a nonpivot column is allowed
+𝑅1. The nonzero rows come first, and their leading entries are in columns 1 and 3.
+Each leading entry is 1 and has only zeros elsewhere in its column. The matrix is
+therefore RREF and also REF. The 2 in a nonpivot column is allowed.
+TRY IT YOURSELF · R2
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 28 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+𝑅2. Solve 𝑥1 + 2𝑥2 - 𝑥3 = 4 and 2𝑥1 + 4𝑥2 - 2𝑥3 = 8. Use two independent parameters.
+▼ Show Detailed Solution · R2
+Choose 𝑥2 = s and 𝑥3 = t independently. The augmented matrix and exact row
+operation appear in the answer.
+Choose (s,t) Compute 𝑥1 = 4 − 2s + t Solution x
+(0,0) 4 (4,0,0)
+(1,0) 2 (2,1,0)
+(0,1) 5 (5,0,1)
+The two choices are independent. Requiring s = t would wrongly discard solutions.
+𝑅2. Reduce the two-row augmented system. Its second equation repeats twice the
+first. There are two free variables, so the solution is a plane in ℝ3.
+Each coefficient column corresponds to one unknown; the column after the vertical
+divider records the right-hand sides. We use reversible row operations to reveal the
+constraints.
+The starting matrix is:
+[12−14
+24−28]
+Step 1: 𝑅2 ← 𝑅2 + (-2)𝑅1.
+Add -2 times row 1 to row 2. This cancels the entry in the pivot column while preserving
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 29 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+the solutions. All other rows stay as displayed.
+BEFORE
+[12−14
+24−28]
+AFTER
+[12−14
+0000]
+Lavender: affected row. Sage: pivot used.
+Read the equations. 𝑥1 + 2 𝑥2 - 𝑥3 = 4
+The pivot columns are 1. Thus 𝑥1 are basic variables. 𝑥2, 𝑥3 have no leading pivots.
+Their values may be chosen arbitrarily; the pivot equations then determine the
+remaining entries. A zero row means 0 = 0 and imposes no additional restriction.
+Set 𝑥2 = s, 𝑥3 = t with all parameters real. The complete coordinate answer is:
+𝑥1=4−2𝑠+𝑡
+𝑥2=𝑠
+𝑥3=𝑡
+In vector form, assemble the constant entries into p and the coefficients of each
+parameter into a direction vector. Every solution is x = p + s 𝑣1 + t 𝑣2, where:
+p =
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 30 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+[
+4
+0
+0
+]
+𝑣1 =
+[
+−2
+1
+0
+]
+𝑣2 =
+[
+1
+0
+1
+]
+For example, setting all parameters to 0 gives x = p. Setting s = 1 and all other
+parameters to 0 gives:
+[
+2
+1
+0
+]
+These are different because the selected free coordinate changes. Infinitely many real
+parameter values give infinitely many different solutions.
+Verification in the original equations. For p, the left-hand sides A p are:
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 31 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+[4
+8]
+These entries equal the original right-hand sides, in order. For direction 𝑣1, multiplying
+by the original A gives the zero vector. For direction 𝑣2, multiplying by the original A
+gives the zero vector. Therefore A(p + s 𝑣1 + t 𝑣2) = A p + s A 𝑣1 + t A 𝑣2 = b for every
+parameter choice. Conversely, the pivot equations show that every solution has this
+form.
+TRY IT YOURSELF · R3
+𝑅3. A 3 × 5 coefficient matrix has three pivots. Is Ax = b solvable for every b ∈ ℝ3? Can a
+consistent system have a unique solution? Distinguish the two conclusions.
+▼ Show Detailed Solution · R3
+Existence: every output row Uniqueness: every input column
+𝑅3. Three pivots in three rows give a row pivot everywhere. Thus every b ∈ ℝ3 is
+3 equations → 3 rows1
+→
+3 pivots → a pivot in every row2
+→
+Every b ∈ ℝ3 is attainable3
+5 unknowns → 5 columns1
+→
+5 − 3 = 2 free variables2
+→
+No consistent system has a unique
+solution
+3
+23/10/26, 10:58 PM2. Section 1.2 - Row reduction and echelon forms · Study Corner
+Page 32 of 32file:///Users/vedpatel/Desktop/Heli-exam_prep/output/MATH2255-Visual-Study-Reader-Final.html#learn/section-1-2
+attainable. There are five unknowns but only three pivots, leaving two free variables.
+Since every system is consistent, each has infinitely many solutions, never a unique
+one.
